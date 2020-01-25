@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>2020年的除夕</title>
+    <url>/2020/01/24/2020-chuxi/</url>
+    <content><![CDATA[<h1 id="2020年的除夕"><a href="#2020年的除夕" class="headerlink" title="2020年的除夕"></a>2020年的除夕</h1><p>2020年我们一家在月子中心过年。外面武汉新型冠状病毒蔓延，我们在中心里安然度过！</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>回首2019年</title>
+    <url>/2020/01/24/hui-shou-2019/</url>
+    <content><![CDATA[<h1 id="回首2018-2019年"><a href="#回首2018-2019年" class="headerlink" title="回首2018-2019年"></a>回首2018-2019年</h1><h2 id="2018-2019年书单"><a href="#2018-2019年书单" class="headerlink" title="2018-2019年书单"></a>2018-2019年书单</h2><p>《什么是科学》，作者：吴国盛</p>
+<p>《伽利略的手指》</p>
+<p>《科学究竟是什么》，A.F. 查尔莫斯</p>
+<p>《科学推理：逻辑与科学思维方法》 周建武</p>
+<p>《化学之书》</p>
+<p>《数学简史：确定性的消失》</p>
+<p>《统计之美：人工智能时代的科学思维》</p>
+<p>《上帝掷骰子吗？》曹天元</p>
+<h2 id="2018年时间轴"><a href="#2018年时间轴" class="headerlink" title="2018年时间轴"></a>2018年时间轴</h2><p>2018年1月，波士顿-深圳，开电化学会。并做了博士后面试</p>
+<p>2018年2月，返回美国，撰写博士论文</p>
+<p>2018年5月，博士论文答辩以及毕业典礼</p>
+<p>2018年8月，从纽约-肯尼迪机场，回国</p>
+<p>2018年9月，博士后入职</p>
+<p>2018年10月，准备做电化学相关实验</p>
+<p>2018年12月，文章投JACS</p>
+<h2 id="2019年时间轴"><a href="#2019年时间轴" class="headerlink" title="2019年时间轴"></a>2019年时间轴</h2><p>2019年2月，在老家度过春节</p>
+<p>2019年3月，申请青年基金和博士后基金</p>
+<p>2019年5月，JACS接收</p>
+<p>2019年6月，博士后基金中</p>
+<p>2019年8月，ACS Sustain Chem Eng接收 ，青年基金不中</p>
+<p>2019年9月，ChemPhysChem 接收</p>
+<p>2019年12月，申请重点实验室开放基金</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>读书</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello 2020!</title>
+    <url>/2020/01/23/Hello-2020/</url>
+    <content><![CDATA[<h2 id="记录的发展"><a href="#记录的发展" class="headerlink" title="记录的发展"></a>记录的发展</h2><p>初中时，自己喜欢用笔记本做摘抄；</p>
+<p>高中时，遇到一位好的语文老师，建议我们用卡片做摘抄，方便分门别类，并且有助于高考；</p>
+<p>本科时，只看书，很少笔记，似乎缺少了很多。</p>
+<p>硕士时，开了搜狐、新浪博客，记录自己想记录的东西，但是版面特难看。</p>
+<p>博士时，建立的自己的个人网站，以及CSDN博客，记录自己的学习笔记和知识</p>
+<p>工作时，感觉打理网站很费事，各种博客有广告很受限。今天终于使用Github+Hexo技术搭建了个人博客。</p>
+<h2 id="以后"><a href="#以后" class="headerlink" title="以后"></a>以后</h2><p>以后，这里可能是我长期记录的平台。可以使用markdown编辑器，对于我这种公式爱好者来讲，非常方便。</p>
+<p>。。。</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Hello world！</title>
+    <url>/2020/01/23/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is my very first post.</p>
+<h2 id="建站历程"><a href="#建站历程" class="headerlink" title="建站历程"></a>建站历程</h2><p>作为一名记录的强迫症的人，尝试了这么多的网络平台，终于选中了Hexo+Github下的Next主题博客。我非常喜欢这种简约的风格，另外还喜欢这种自主设计。</p>
+<p>曾经学过些许html语言，上年开始使用python，并且会使用github。</p>
+<p>经过努力挣扎，踩了无数的坑，终于勉强建立这个网站。</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+  </entry>
+</search>
