@@ -3,11 +3,11 @@
   <entry>
     <title>Newton&#39;s Law of Viscosity</title>
     <url>/2020/01/26/Newton-s-Law-of-Viscosity/</url>
-    <content><![CDATA[<h1 id="牛顿黏度定律"><a href="#牛顿黏度定律" class="headerlink" title="牛顿黏度定律"></a>牛顿黏度定律</h1><p>###Newton’s Law of Viscosity</p>
-<p>先定义矢量 $\pmb{\tau }$<br>$$ \pmb \tau=-\mu(\nabla \pmb v+(\nabla \pmb v)^{\dagger} )  +(\frac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)\delta$$<br>$\tau_{yx}$物理的意义：在垂直于<em>y</em>方向的单位面积的面上所受到<em>x</em>方向上的力，可以表达为<br>$$\tau_{yx}=-\mu \frac {d v_x}{dy}$$<br>其中<br>$\tau$是流体所受的剪应力$[Pa]$<br>$ \mu $是流体的黏度 $[Pa·s]$<br>$ \frac  {dv_x}{dy} $是$x$方向上速度的分量在$y$方向上的梯度$ [s^{−1}]$</p>
+    <content><![CDATA[<h1 id="牛顿黏度定律"><a href="#牛顿黏度定律" class="headerlink" title="牛顿黏度定律"></a>牛顿黏度定律</h1><h2 id="Newton’s-Law-of-Viscosity"><a href="#Newton’s-Law-of-Viscosity" class="headerlink" title="Newton’s Law of Viscosity"></a>Newton’s Law of Viscosity</h2><p>先定义矢量$\pmb{\tau }$</p>
+<p>$$ \pmb \tau=-\mu(\nabla \pmb v+(\nabla \pmb v)^{\dagger} )  +(\frac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)\delta$$</p>
+<p>$\tau_{yx}$物理的意义：在垂直于<em>y</em>方向的单位面积的面上所受到<em>x</em>方向上的力，可以表达为<br>$$\tau_{yx}=-\mu \frac {d v_x}{dy}$$<br>其中<br>$\tau$是流体所受的剪应力$[Pa]$<br>$ \mu $是流体的黏度 $[Pa·s]$<br>$ \frac  {dv_x}{dy} $是$x$方向上速度的分量在$y$方向上的梯度$ [s^{−1}]$</p>
 <hr>
-<p>##1.<strong>直角坐标系($ x, y, z $)</strong></p>
-<table>
+<h2 id="1-直角坐标系-x-y-z"><a href="#1-直角坐标系-x-y-z" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h2><table>
 <thead>
 <tr>
 <th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
@@ -41,7 +41,7 @@
 </tbody></table>
 <p>其中<br>$$\nabla \cdot \pmb v=\frac {\partial v_x}{\partial x} + \frac {\partial v_y}{\partial y}+ \frac {\partial v_z}{\partial z}$$  </p>
 <hr>
-<p>##2.<strong>圆柱坐标系（$r,\theta, z$)</strong></p>
+<h2 id="2-圆柱坐标系（-r-theta-z"><a href="#2-圆柱坐标系（-r-theta-z" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h2><p>​     </p>
 <table>
 <thead>
 <tr>
@@ -83,8 +83,7 @@
 </tr>
 </tbody></table>
 <hr>
-<p>##3.<strong>球坐标系（$r, \theta, \phi $)</strong></p>
-<table>
+<h2 id="3-球坐标系（-r-theta-phi"><a href="#3-球坐标系（-r-theta-phi" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h2><table>
 <thead>
 <tr>
 <th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
@@ -126,9 +125,8 @@
 </tbody></table>
 <p>​    </p>
 <hr>
-<p>####参考文献</p>
-<ol>
-<li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot.* Transport phenomena:Revised second edition* John Wiely &amp;Sons, Inc.</li>
+<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><ol>
+<li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot. Transport phenomena:Revised second edition John Wiely &amp;Sons, Inc.</li>
 </ol>
 ]]></content>
   </entry>
