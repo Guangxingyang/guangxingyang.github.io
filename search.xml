@@ -152,17 +152,233 @@
   <entry>
     <title>The Equation of Continuity</title>
     <url>/2020/01/26/The-Equation-of-Continuity/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="流体连续性方程"><a href="#流体连续性方程" class="headerlink" title="流体连续性方程"></a>流体连续性方程</h1><p>###$\color{Blue} {The\quad Equation \quad of \quad Continuity} $</p>
+<p>流体连续性方程表达通式<br>$$\dfrac {\partial \rho}{\partial t}+ {\nabla } \cdot \rho \pmb v=0 $$<br>物理意义： 物质进入系统的量等于 物质离开离开系统的量与物质在系统内累积量的加和。</p>
+<hr>
+<h2 id="1-直角坐标系-x-y-z"><a href="#1-直角坐标系-x-y-z" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h2><table>
+<thead>
+<tr>
+<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>NO.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$\dfrac {\partial \rho}{\partial t}+\dfrac {\partial}{\partial x}(\rho v_x)+\dfrac {\partial}{\partial y}(\rho v_y) +\dfrac {\partial}{\partial z}(\rho v_z)=0$</td>
+<td>1-1</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="2-圆柱坐标系（-r-theta-z"><a href="#2-圆柱坐标系（-r-theta-z" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h2><p>​     </p>
+<table>
+<thead>
+<tr>
+<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>NO.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$\dfrac {\partial \rho}{\partial t}+\dfrac {1}{r}\dfrac {\partial}{\partial r}(\rho r v_r)+\dfrac {1}{r} \dfrac {\partial}{\partial \theta}(\rho v_\theta) +\dfrac {\partial}{\partial z}(\rho v_z)=0$</td>
+<td>2-1</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="3-球坐标系（-r-theta-phi"><a href="#3-球坐标系（-r-theta-phi" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h2><p>​     </p>
+<table>
+<thead>
+<tr>
+<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>NO.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$\dfrac {\partial \rho}{\partial t}+\dfrac {1}{r^2}\dfrac {\partial}{\partial r}(\rho r^2 v_r)+\dfrac {1}{r sin\theta} \dfrac {\partial}{\partial \theta}(\rho v_\theta sin\theta) +\dfrac {1}{r sin\theta}\dfrac {\partial}{\partial \phi}(\rho v_\phi)=0$</td>
+<td>3-1</td>
+</tr>
+</tbody></table>
+<p>​    </p>
+<hr>
+<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><ol>
+<li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot.* Transport phenomena:Revised second edition* John Wiely &amp;Sons, Inc.</li>
+</ol>
+]]></content>
+      <categories>
+        <category>流体力学</category>
+      </categories>
+      <tags>
+        <tag>连续性方程</tag>
+      </tags>
   </entry>
   <entry>
     <title>Fick&#39;s Law of Binary Diffusion</title>
     <url>/2020/01/26/Fick-s-Law-of-Binary-Diffusion/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="菲克扩散-第一-定律"><a href="#菲克扩散-第一-定律" class="headerlink" title="菲克扩散(第一)定律"></a>菲克扩散(第一)定律</h1><p><strong>Fick’s (First) Law of Binary Diffussion</strong></p>
+<p><strong>物质扩散通量Diffusion flux表达通式</strong><br>$$\pmb j_A=-\rho \mathscr{D} _{AB} {\nabla } w_A $$<br>在单位时间内物质 A 通过垂直于扩散方向的单位截面积的扩散物质流量，$kg\cdot m^{−2} \cdot s^{−1}$，与该截面处的浓度梯度成正比。</p>
+<p>其中</p>
+<p>$\mathscr{D}_{AB }$ 是物质 A 在物质 B 中的传质系数，$ m^2\cdot s^{-1}$，<br>$ \rho $ 物质的密度， $kg·m^{−3}$,<br>$\nabla w_A$ 是物质 A 的浓度梯度，$kg·m^{−2}$.</p>
+<p>浓度梯度 $w_{Ax}$表达式为<br>$$ w_{Ax}=-\dfrac {d w_A} {dx}$$</p>
+<hr>
+<h2 id="1-直角坐标系-x-y-z"><a href="#1-直角坐标系-x-y-z" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h2><table>
+<thead>
+<tr>
+<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>NO.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$j_{Ax}=-\rho \mathscr{D} _{AB}\dfrac {\partial w_A}{\partial x}$</td>
+<td>1-1</td>
+</tr>
+<tr>
+<td>$j_{Ay}=-\rho \mathscr{D} _{AB}\dfrac {\partial w_A}{\partial y}$</td>
+<td>1-2</td>
+</tr>
+<tr>
+<td>$j_{Az}=-\rho \mathscr{D} _{AB}\dfrac {\partial w_A}{\partial z}$</td>
+<td>1-3</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="2-圆柱坐标系（-r-theta-z"><a href="#2-圆柱坐标系（-r-theta-z" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h2><p>​     </p>
+<table>
+<thead>
+<tr>
+<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>NO.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$j_{Ar}=-\rho \mathscr{D} _{AB}\dfrac {\partial w_A}{\partial r}$</td>
+<td>2-1</td>
+</tr>
+<tr>
+<td>$j_{A\theta}=-\rho \mathscr{D} _{AB} \dfrac {1}{r} \dfrac {\partial w_A}{\partial \theta}$</td>
+<td>2-2</td>
+</tr>
+<tr>
+<td>$j_{Az}=-\rho \mathscr{D} _{AB}\dfrac {\partial w_A}{\partial z}$</td>
+<td>2-3</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="3-球坐标系（-r-theta-phi"><a href="#3-球坐标系（-r-theta-phi" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h2><p>​     </p>
+<table>
+<thead>
+<tr>
+<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>NO.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$j_{Ar}=-\rho \mathscr{D} _{AB}\dfrac {\partial w_A}{\partial r}$</td>
+<td>3-1</td>
+</tr>
+<tr>
+<td>$j_{A\theta}=-\rho \mathscr{D} _{AB} \dfrac {1}{r} \dfrac {\partial w_A}{\partial \theta}$</td>
+<td>3-2</td>
+</tr>
+<tr>
+<td>$j_{A\phi}=-\rho \mathscr{D} _{AB} \dfrac {1}{r sin \theta} \dfrac {\partial w_A}{\partial \theta}$</td>
+<td>3-3</td>
+</tr>
+</tbody></table>
+<p>​    </p>
+<hr>
+<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><ol>
+<li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot.* Transport phenomena:Revised second edition* John Wiely &amp;Sons, Inc.</li>
+</ol>
+]]></content>
+      <categories>
+        <category>传质</category>
+      </categories>
+      <tags>
+        <tag>扩散</tag>
+      </tags>
   </entry>
   <entry>
     <title>Fourier&#39;s Law of Heat Conduction</title>
     <url>/2020/01/26/Fourier-s-Law-of-Heat-Conduction/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="傅里叶热传导定律"><a href="#傅里叶热传导定律" class="headerlink" title="傅里叶热传导定律"></a>傅里叶热传导定律</h1><p><strong>Fourier’s Law of Heat Conduction</strong><br>热通量Heat Flux 表达式<br>$$\pmb q=-k{\nabla }T$$</p>
+<p>其中</p>
+<p>$ \pmb q $ 是单位面积上的热通量， $W·m^{−2}$,<br>$k$ 是材料的热传导系数， $W·m^{−1}·K^{−1}$,<br>$\nabla T$ 是温度梯度，$K·m^{−1}$.</p>
+<p>$q_x$物理的意义：在<em>x</em>方向上单位面积的热通量，可以表达为<br>$$q_x=-k \dfrac {d T}{dx}$$<br>其中<br>$k$是材料的热传导系数， $W·m^{−1}·K^{−1}$,<br>$ T$是物体的温度,  $K$<br>$ x $是长度,  $m$</p>
+<hr>
+<h2 id="1-直角坐标系-x-y-z"><a href="#1-直角坐标系-x-y-z" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h2><table>
+<thead>
+<tr>
+<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>NO.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$q_x=-k\dfrac {\partial T}{\partial x}$</td>
+<td>1-1</td>
+</tr>
+<tr>
+<td>$q_y=-k\dfrac {\partial T}{\partial y}$</td>
+<td>1-2</td>
+</tr>
+<tr>
+<td>$q_z=-k\dfrac {\partial T}{\partial z}$</td>
+<td>1-3</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="2-圆柱坐标系（-r-theta-z"><a href="#2-圆柱坐标系（-r-theta-z" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h2><p>​     </p>
+<table>
+<thead>
+<tr>
+<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>NO.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$q_r=-k\dfrac {\partial T}{\partial r}$</td>
+<td>2-1</td>
+</tr>
+<tr>
+<td>$q_\theta=-k \dfrac {1}{r} \dfrac {\partial T}{\partial \theta}$</td>
+<td>2-2</td>
+</tr>
+<tr>
+<td>$q_z=-k\dfrac {\partial T}{\partial z}$</td>
+<td>2-3</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="3-球坐标系（-r-theta-phi"><a href="#3-球坐标系（-r-theta-phi" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h2><p>​     </p>
+<table>
+<thead>
+<tr>
+<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>NO.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$q_r=-k\dfrac {\partial T}{\partial r}$</td>
+<td>3-1</td>
+</tr>
+<tr>
+<td>$q_\theta=-k \dfrac {1}{r} \dfrac {\partial T}{\partial \theta}$</td>
+<td>3-2</td>
+</tr>
+<tr>
+<td>$q_\phi=-k \dfrac {1}{r sin \theta} \dfrac {\partial T}{\partial \theta}$</td>
+<td>3-3</td>
+</tr>
+</tbody></table>
+<p>​    </p>
+<hr>
+<p>####参考文献</p>
+<ol>
+<li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot.* Transport phenomena:Revised second edition* John Wiely &amp;Sons, Inc.</li>
+</ol>
+]]></content>
+      <categories>
+        <category>传热学</category>
+      </categories>
+      <tags>
+        <tag>热传导</tag>
+      </tags>
   </entry>
   <entry>
     <title>Newton&#39;s Law of Viscosity</title>
