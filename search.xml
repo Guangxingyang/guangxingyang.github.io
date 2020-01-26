@@ -1,6 +1,138 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Newton&#39;s Law of Viscosity</title>
+    <url>/2020/01/26/Newton-s-Law-of-Viscosity/</url>
+    <content><![CDATA[<h1 id="牛顿黏度定律"><a href="#牛顿黏度定律" class="headerlink" title="牛顿黏度定律"></a>牛顿黏度定律</h1><p>###Newton’s Law of Viscosity</p>
+<p>先定义矢量 $\pmb{\tau }$<br>$$ \pmb \tau=-\mu(\nabla \pmb v+(\nabla \pmb v)^{\dagger} )  +(\frac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)\delta$$<br>$\tau_{yx}$物理的意义：在垂直于<em>y</em>方向的单位面积的面上所受到<em>x</em>方向上的力，可以表达为<br>$$\tau_{yx}=-\mu \frac {d v_x}{dy}$$<br>其中<br>$\tau$是流体所受的剪应力$[Pa]$<br>$ \mu $是流体的黏度 $[Pa·s]$<br>$ \frac  {dv_x}{dy} $是$x$方向上速度的分量在$y$方向上的梯度$ [s^{−1}]$</p>
+<hr>
+<p>##1.<strong>直角坐标系($ x, y, z $)</strong></p>
+<table>
+<thead>
+<tr>
+<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>NO.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$\tau_{xx}=-\mu[2\dfrac{\partial v_x}{\partial x}]+(\dfrac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)$</td>
+<td>1-1</td>
+</tr>
+<tr>
+<td>$\tau_{yy}=-\mu[2\dfrac{\partial v_y}{\partial y}]+(\dfrac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)$</td>
+<td>1-2</td>
+</tr>
+<tr>
+<td>$\tau_{zz}=-\mu[2\dfrac{\partial v_z}{\partial z}]+(\dfrac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)$</td>
+<td>1-3</td>
+</tr>
+<tr>
+<td>$\tau_{xy}=\tau_{yx}=-\mu[\dfrac{\partial v_y}{\partial x}+\dfrac{\partial v_x}{\partial y}]$</td>
+<td>1-4</td>
+</tr>
+<tr>
+<td>$\tau_{yz}=\tau_{zy}=-\mu[\dfrac{\partial v_z}{\partial y}+\dfrac{\partial v_y}{\partial z}]$</td>
+<td>1-5</td>
+</tr>
+<tr>
+<td>$\tau_{zx}=\tau_{xz}=-\mu[\dfrac{\partial v_x}{\partial z}+\dfrac{\partial v_z}{\partial x}]$</td>
+<td>1-6</td>
+</tr>
+</tbody></table>
+<p>其中<br>$$\nabla \cdot \pmb v=\frac {\partial v_x}{\partial x} + \frac {\partial v_y}{\partial y}+ \frac {\partial v_z}{\partial z}$$  </p>
+<hr>
+<p>##2.<strong>圆柱坐标系（$r,\theta, z$)</strong></p>
+<table>
+<thead>
+<tr>
+<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>NO.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$\tau_{rr}=-\mu[2\dfrac{\partial v_r}{\partial r}]+(\dfrac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)$</td>
+<td>2-1</td>
+</tr>
+<tr>
+<td>$\tau_{\theta \theta}=-\mu[2(\dfrac {1}{r}\frac{\partial v_\theta}{\partial \theta}+\frac {v_r}{r})]+(\dfrac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)$</td>
+<td>2-2</td>
+</tr>
+<tr>
+<td>$\tau_{zz}=-\mu[2\dfrac{\partial v_z}{\partial z}]+(\dfrac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)$</td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>$\tau_{r \theta}=\tau_{\theta r}=-\mu[r \dfrac {\partial}{\partial r}(\dfrac {v_\theta}{r})+\dfrac {1}{r} \dfrac {\partial v_r}{\partial \theta}]$</td>
+<td>2-4</td>
+</tr>
+<tr>
+<td>$\tau_{\theta z}=\tau_{z \theta}=-\mu[\dfrac {1}{r} \dfrac{\partial v_z}{\partial \theta}+\dfrac {\partial v_\theta}{\partial z}]$</td>
+<td>2-5</td>
+</tr>
+<tr>
+<td>$\tau_{z r}=\tau_{r z}=-\mu[\dfrac{\partial v_r}{\partial z} + \dfrac{\partial v_z}{\partial r}]$</td>
+<td>2-6</td>
+</tr>
+<tr>
+<td>其中</td>
+<td></td>
+</tr>
+<tr>
+<td>$$\nabla \cdot \pmb v=\frac {1}{r} \frac {\partial }{\partial r}(r v_r) +\frac {1}{r} \frac {\partial v_\theta}{\partial \theta}+ \frac {\partial v_z}{\partial z}$$</td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<p>##3.<strong>球坐标系（$r, \theta, \phi $)</strong></p>
+<table>
+<thead>
+<tr>
+<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>NO.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$\tau_{rr}=-\mu[2\dfrac{\partial v_r}{\partial r}]+(\dfrac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)$</td>
+<td>3-1</td>
+</tr>
+<tr>
+<td>$\tau_{\theta \theta}=-\mu[2(\frac {1}{r}\dfrac{\partial v_\theta}{\partial \theta}+\dfrac {v_r}{r})]+(\dfrac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)$</td>
+<td>3-2</td>
+</tr>
+<tr>
+<td>$\tau_{zz}=-\mu[2(\dfrac{1}{r sin \theta} \dfrac {\partial v_\phi}{\partial \phi}+\dfrac {v_r+v_\theta cot \theta }{r})]+(\dfrac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)$</td>
+<td>3-3</td>
+</tr>
+<tr>
+<td>$\tau_{r \theta}=\tau_{\theta r}=-\mu[r \dfrac {\partial}{\partial r}(\dfrac {v_\theta}{r})+\dfrac {1}{r} \dfrac {\partial v_r}{\partial \theta}]$</td>
+<td>3-4</td>
+</tr>
+<tr>
+<td>$\tau_{\theta \phi}=\tau_{\phi \theta}=-\mu[\dfrac {sin \theta}{r} \dfrac{\partial }{\partial \theta}(\dfrac {v_\phi}{sin \theta})+\dfrac {1}{r sin \theta}  \dfrac {\partial v_\theta}{\partial \phi}]$</td>
+<td>3-5</td>
+</tr>
+<tr>
+<td>$\tau_{\phi r}=\tau_{r \phi}=-\mu[\dfrac {1}{r sin \theta}  \dfrac {\partial v_r}{\partial \phi}+r \dfrac {\partial}{\partial r}(\dfrac {v_\phi}{r})]$</td>
+<td>3-6</td>
+</tr>
+<tr>
+<td>其中</td>
+<td></td>
+</tr>
+<tr>
+<td>$$\nabla \cdot \pmb v=\frac {1}{r^2} \dfrac {\partial }{\partial r}(r^2 v_r) +\dfrac {1}{r sin \theta} \dfrac {\partial }{\partial \theta} (v_\theta sin \theta)+ \dfrac {1}{r sin\theta }\dfrac{\partial v_\theta}{\partial \phi}$$</td>
+<td></td>
+</tr>
+</tbody></table>
+<p>​    </p>
+<hr>
+<p>####参考文献</p>
+<ol>
+<li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot.* Transport phenomena:Revised second edition* John Wiely &amp;Sons, Inc.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>科学与民主</title>
     <url>/2020/01/26/kexue-yu-minzhu/</url>
     <content><![CDATA[<h1 id="科学与民主"><a href="#科学与民主" class="headerlink" title="科学与民主"></a>科学与民主</h1><p>曾经一段时间在思考科学与民主的关系。Science and democracy。正好在机场书店随便翻阅了科学部分，然后然后看到了《极简科学起源课》的一个章节 <em>科学与民主</em>，遂拍了下来，逐字打出来，读之。</p>
