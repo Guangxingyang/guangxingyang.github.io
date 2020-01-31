@@ -3,8 +3,8 @@
   <entry>
     <title>picture</title>
     <url>/2020/01/31/picture/</url>
-    <content><![CDATA[<p><img src="/.com//3-Figure1-1.png" alt="3-Figure1-1"></p>
-<p><img src="/.com//1-s2.0-S138824811500212X-fx1_lrg.jpg" alt="1-s2.0-S138824811500212X-fx1_lrg"></p>
+    <content><![CDATA[<p><img src="/2020/01/31/picture/3-Figure1-1.png" alt="3-Figure1-1"></p>
+<p><img src="/2020/01/31/picture/1-s2.0-S138824811500212X-fx1_lrg.jpg" alt="1-s2.0-S138824811500212X-fx1_lrg"></p>
 ]]></content>
   </entry>
   <entry>
@@ -17,31 +17,31 @@
 <p>A  simple  model  to  study  the  kinetics  of  a  Langmuir-Hinshelwood  surface  reaction  is  developed  and  applied  to  the  oxidation  of  a  complete  monolayer  of  CO  molecules  at  a  metal/electrolyte  interface  in  a  potential-step  experiment.  A  dramatic  influence  of the  molecular  mobility  on  the  reaction  kinetics  is  found.  The  present  model  is  able  to  connect the  simple  Langmuir-Hinshelwood kinetics  to that predicted  by Kolmogoroff-Avrami theory since  it includes  them  as the two  limiting  cases  of high and  low  mobility,  respectively. </p>
 </blockquote>
 <h2 id="1998"><a href="#1998" class="headerlink" title="1998"></a>1998</h2><h3 id="Kinetics-of-electrooxidation-of-a-CO-monolayer-at-the-platinum-electrolyte-interface"><a href="#Kinetics-of-electrooxidation-of-a-CO-monolayer-at-the-platinum-electrolyte-interface" class="headerlink" title="Kinetics of electrooxidation of a CO monolayer at the platinum/electrolyte interface"></a>Kinetics of electrooxidation of a CO monolayer at the platinum/electrolyte interface</h3><p><strong>Author:</strong> A.V. Petukhov, W. Akemann, K.A. Friedrich b, U. Stimming</p>
-<p><strong>Journal:</strong> Surface Science 402–404 (1998) 182–186</p>
+<p><strong>Journal:</strong> Surface Science 402&#x2013;404 (1998) 182&#x2013;186</p>
 <p><strong>Abstract:</strong> </p>
 <blockquote>
-<p>The kinetics of electrooxidation of a complete monolayer of carbon monoxide (CO) at the Pt/electrolyte interface is studied both theoretically and experimentally. Recent studies indicate that CO diﬀusion is an important process aﬀecting considerably the CO oxidation reaction. By comparing experimental and theoretical results, it is argued that the reaction kinetics is signiﬁcantly aﬀected by CO diﬀusion over the electrode surface. On the other hand, the diﬀusion is found not to be fast enough in order to reach the simple Langmuir–Hinshelwood kinetics since the transient width depends very sensitively on the density of surface defects. </p>
+<p>The kinetics of electrooxidation of a complete monolayer of carbon monoxide (CO) at the Pt/electrolyte interface is studied both theoretically and experimentally. Recent studies indicate that CO di&#xFB00;usion is an important process a&#xFB00;ecting considerably the CO oxidation reaction. By comparing experimental and theoretical results, it is argued that the reaction kinetics is signi&#xFB01;cantly a&#xFB00;ected by CO di&#xFB00;usion over the electrode surface. On the other hand, the di&#xFB00;usion is found not to be fast enough in order to reach the simple Langmuir&#x2013;Hinshelwood kinetics since the transient width depends very sensitively on the density of surface defects. </p>
 </blockquote>
 <h3 id="Monte-Carlo-simulations-of-a-simple-model-for-the-electrocatalytic-CO-oxidation-on-platinum"><a href="#Monte-Carlo-simulations-of-a-simple-model-for-the-electrocatalytic-CO-oxidation-on-platinum" class="headerlink" title="Monte Carlo simulations of a simple model for the electrocatalytic CO oxidation on platinum"></a>Monte Carlo simulations of a simple model for the electrocatalytic CO oxidation on platinum</h3><p><strong>Author:</strong> M. T. M. Koper, A. P. J. Jansen, and R. A. van Santen, J. J. Lukkien and P. A. J. Hilbers</p>
 <p><strong>Journal:</strong>  J. Chem. Phys. 109, 6051 (1998); <a href="https://doi.org/10.1063/1.477230" target="_blank" rel="noopener">https://doi.org/10.1063/1.477230</a></p>
 <p><strong>Abstract:</strong> </p>
 <blockquote>
-<p>A simple lattice-gas model for the electrocatalytic carbon monoxide oxidation on a platinum<br>electrode is studied by dynamic Monte Carlo simulations. The CO oxidation takes place through a Langmuir–Hinshelwood reaction between adsorbed CO and an adsorbed OH radical resulting from the dissociative adsorption of water. The model enables the investigation of the role of CO surface mobility on the macroscopic electrochemical response such as linear sweep voltammetry and potential step chronoamperometry. Our results show that the mean-ﬁeld approximation, the traditional but often tacitly made assumption in electrochemistry, breaks down severely in the limit of vanishing CO surface mobility. Comparison of the simulated and experimental voltammetry suggests that on platinum CO oxidation is the intrinsically fastest reaction on the surface and that CO has a high surface mobility. However, under the same conditions, the model predicts some interesting deviations from the potential step current transients derived from the classical nucleation and growth theories. Such deviations have not been reported experimentally. Furthermore, it is shown that our simple model predicts different Tafel slopes at low and high potential, the qualitative features of which are not strongly inﬂuenced by the CO mobility. The comparison of our simulation results to the experimental literature is discussed in some detail. </p>
+<p>A simple lattice-gas model for the electrocatalytic carbon monoxide oxidation on a platinum<br>electrode is studied by dynamic Monte Carlo simulations. The CO oxidation takes place through a Langmuir&#x2013;Hinshelwood reaction between adsorbed CO and an adsorbed OH radical resulting from the dissociative adsorption of water. The model enables the investigation of the role of CO surface mobility on the macroscopic electrochemical response such as linear sweep voltammetry and potential step chronoamperometry. Our results show that the mean-&#xFB01;eld approximation, the traditional but often tacitly made assumption in electrochemistry, breaks down severely in the limit of vanishing CO surface mobility. Comparison of the simulated and experimental voltammetry suggests that on platinum CO oxidation is the intrinsically fastest reaction on the surface and that CO has a high surface mobility. However, under the same conditions, the model predicts some interesting deviations from the potential step current transients derived from the classical nucleation and growth theories. Such deviations have not been reported experimentally. Furthermore, it is shown that our simple model predicts different Tafel slopes at low and high potential, the qualitative features of which are not strongly in&#xFB02;uenced by the CO mobility. The comparison of our simulation results to the experimental literature is discussed in some detail. </p>
 </blockquote>
 <p>1999</p>
 <p>2000</p>
 <p>2001</p>
 <h2 id="2002"><a href="#2002" class="headerlink" title="2002"></a>2002</h2><h3 id="Mechanism-and-kinetics-of-the-electrochemical-CO-adlayer-oxidation-on-Pt-111"><a href="#Mechanism-and-kinetics-of-the-electrochemical-CO-adlayer-oxidation-on-Pt-111" class="headerlink" title="Mechanism and kinetics of the electrochemical CO adlayer oxidation on Pt(111)"></a>Mechanism and kinetics of the electrochemical CO adlayer oxidation on Pt(111)</h3><p><strong>Author:</strong> N.P. Lebedeva, M.T.M. Koper, J.M. Feliu, R.A. van Santen</p>
-<p><strong>Journal:</strong>  Journal of Electroanalytical Chemistry 524–525 (2002) 242–251</p>
+<p><strong>Journal:</strong>  Journal of Electroanalytical Chemistry 524&#x2013;525 (2002) 242&#x2013;251</p>
 <p><strong>Abstract:</strong> </p>
 <blockquote>
-<p>The electrochemical oxidation of saturated and sub-saturated CO adlayers on Pt(111) in 0.5 M $H_2SO_4$ has been studied using chronoamperometry. For the saturated CO coverage the oxidation is initiated by an apparently zeroth-order process of removing 2–3% of the adlayer, followed by the main oxidation process, which is shown to be of the Langmuir–Hinshelwood type with a competitive adsorption of the two reactants, CO and OH. The Langmuir–Hinshelwood kinetics can be modeled using the mean-ﬁeld approximation, which implies fast diffusion of adsorbed CO on the Pt(111) surface under electrochemical conditions. The apparent rate constant for the electrochemical CO oxidation and its potential dependence are determined by a ﬁtting of the experimental data with the mean-ﬁeld model. For sub-saturated CO coverages the overall picture is shown to be more complicated and remains to be understood.</p>
+<p>The electrochemical oxidation of saturated and sub-saturated CO adlayers on Pt(111) in 0.5 M $H_2SO_4$ has been studied using chronoamperometry. For the saturated CO coverage the oxidation is initiated by an apparently zeroth-order process of removing 2&#x2013;3% of the adlayer, followed by the main oxidation process, which is shown to be of the Langmuir&#x2013;Hinshelwood type with a competitive adsorption of the two reactants, CO and OH. The Langmuir&#x2013;Hinshelwood kinetics can be modeled using the mean-&#xFB01;eld approximation, which implies fast diffusion of adsorbed CO on the Pt(111) surface under electrochemical conditions. The apparent rate constant for the electrochemical CO oxidation and its potential dependence are determined by a &#xFB01;tting of the experimental data with the mean-&#xFB01;eld model. For sub-saturated CO coverages the overall picture is shown to be more complicated and remains to be understood.</p>
 </blockquote>
 <h3 id="Dynamics-of-CO-at-the-solid-liquid-interface-studied-by-modeling-and-simulation-of-CO-electro-oxidation-on-Pt-and-PtRu-electrode"><a href="#Dynamics-of-CO-at-the-solid-liquid-interface-studied-by-modeling-and-simulation-of-CO-electro-oxidation-on-Pt-and-PtRu-electrode" class="headerlink" title="Dynamics of CO at the solid/liquid interface studied by modeling and simulation of CO electro-oxidation on Pt and PtRu electrode"></a>Dynamics of CO at the solid/liquid interface studied by modeling and simulation of CO electro-oxidation on Pt and PtRu electrode</h3><p><strong>Author:</strong> M. T. M. Koper, N. P. Lebedeva and C. G. M. Hermse</p>
-<p><strong>Journal:</strong>  Faraday Discuss., 2002, 121, 301–311</p>
+<p><strong>Journal:</strong>  Faraday Discuss., 2002, 121, 301&#x2013;311</p>
 <p><strong>Abstract:</strong> </p>
 <blockquote>
-<p>We consider theoretical models for CO monolayer oxidation on stepped Pt single-crystal electrodes and Ru-modiﬁed Pt(111) electrodes. For both systems, our aim is to assess the importance of CO surface diﬀusion in reproducing the experimental chronoamperometry or voltammetry. By comparing the simulations with the experimental chronoamperometric transients for CO oxidation on a series of stepped Pt surfaces, it was concluded that mixing of CO on the Pt(111) terrace is good, implying rapid diﬀusion (N. P. Lebedeva, M. T. M. Koper, J. M. Feliu and R. A. van Santen, J. Phys. Chem. B, submitted). We discuss here a more detailed model in which the CO adsorbed on steps is converted into CO adsorbed on terraces as the oxygen-containing species occupy the steps (as observed experimentally on stepped Pt in UHV), followed by a subsequent oxidation of the latter, to reproduce the observed chronoamperometry on stepped surfaces with a higher step density. On Ru- modiﬁed Pt(111), the experimentally observed splitting of the CO stripping voltammetry into two stripping peaks, may suggest a slow diﬀusion of CO on Pt(111). This apparent contradiction with the conclusions of the experiments on stepped surfaces, is resolved by assuming a weaker CO binding to a Pt atom which has Ru neighbors than to ‘‘bulk’’ Pt(111), in agreement with recent quantum-chemical calculations. This makes the eﬀective diﬀusion from the uncovered Pt(111) surface to the perimeter of the Ru islands, which are considered to be the active sites in CO oxidation electrocatalysis on PtRu surfaces, very slow. Diﬀerent models for the reaction are considered, and discussed in terms of their ability to explain experimental observations.</p>
+<p>We consider theoretical models for CO monolayer oxidation on stepped Pt single-crystal electrodes and Ru-modi&#xFB01;ed Pt(111) electrodes. For both systems, our aim is to assess the importance of CO surface di&#xFB00;usion in reproducing the experimental chronoamperometry or voltammetry. By comparing the simulations with the experimental chronoamperometric transients for CO oxidation on a series of stepped Pt surfaces, it was concluded that mixing of CO on the Pt(111) terrace is good, implying rapid di&#xFB00;usion (N. P. Lebedeva, M. T. M. Koper, J. M. Feliu and R. A. van Santen, J. Phys. Chem. B, submitted). We discuss here a more detailed model in which the CO adsorbed on steps is converted into CO adsorbed on terraces as the oxygen-containing species occupy the steps (as observed experimentally on stepped Pt in UHV), followed by a subsequent oxidation of the latter, to reproduce the observed chronoamperometry on stepped surfaces with a higher step density. On Ru- modi&#xFB01;ed Pt(111), the experimentally observed splitting of the CO stripping voltammetry into two stripping peaks, may suggest a slow di&#xFB00;usion of CO on Pt(111). This apparent contradiction with the conclusions of the experiments on stepped surfaces, is resolved by assuming a weaker CO binding to a Pt atom which has Ru neighbors than to &#x2018;&#x2018;bulk&#x2019;&#x2019; Pt(111), in agreement with recent quantum-chemical calculations. This makes the e&#xFB00;ective di&#xFB00;usion from the uncovered Pt(111) surface to the perimeter of the Ru islands, which are considered to be the active sites in CO oxidation electrocatalysis on PtRu surfaces, very slow. Di&#xFB00;erent models for the reaction are considered, and discussed in terms of their ability to explain experimental observations.</p>
 </blockquote>
 <h3 id="Role-of-Crystalline-Defects-in-Electrocatalysis-Mechanism-and-Kinetics-of-CO-Adlayer-Oxidation-on-Stepped-Platinum-Electrodes"><a href="#Role-of-Crystalline-Defects-in-Electrocatalysis-Mechanism-and-Kinetics-of-CO-Adlayer-Oxidation-on-Stepped-Platinum-Electrodes" class="headerlink" title="Role of Crystalline Defects in Electrocatalysis: Mechanism and Kinetics of CO Adlayer Oxidation on Stepped Platinum Electrodes"></a>Role of Crystalline Defects in Electrocatalysis: Mechanism and Kinetics of CO Adlayer Oxidation on Stepped Platinum Electrodes</h3><p><strong>Author:</strong> N. P. Lebedeva, M. T. M. Koper, J. M. Feliu, and R. A. van Santen </p>
 <p><strong>Journal:</strong>  J. Phys. Chem. B 2002, 106, 12938 - 12947</p>
@@ -50,17 +50,17 @@
 <p>The kinetics of the electrochemical oxidation of a CO adlayer on Pt[n(111) $\times$ (111)] electrodes in 0.5 M $H_2SO_4$ has been studied using chronoamperometry. The objective is to elucidate the effect of the crystalline defects on the rate of the reaction by using a series of stepped surfaces. The reaction kinetics of the main oxidative process can be modeled using the mean-field approximation for the Langmuir - Hinshelwood mechanism, implying fast diffusion of adsorbed CO on the Pt[n(111)$\times$ (111)] surfaces under electrochemical conditions. The apparent rate constant for the electrochemical CO oxidation, determined by a fitting of the experimental data with the mean-field model, is found to be proportional to the step fraction (1/n) for the surfaces with n5, proving steps to be the active sites for the CO adlayer oxidation. An apparent intrinsic rate constant is determined. The potential dependence of the apparent rate constants is found to be structure insensitive with a Tafel slope of ca. 80 mV/dec, suggesting the presence of a slow chemical step in an ECE reaction mechanism.</p>
 </blockquote>
 <h2 id="2003"><a href="#2003" class="headerlink" title="2003"></a>2003</h2><h3 id="Simulation-of-CO-electrooxidation-on-nm-sized-supported-Pt-particles-stripping-voltammetry"><a href="#Simulation-of-CO-electrooxidation-on-nm-sized-supported-Pt-particles-stripping-voltammetry" class="headerlink" title="Simulation of CO electrooxidation on nm-sized supported Pt particles: stripping voltammetry"></a>Simulation of CO electrooxidation on nm-sized supported Pt particles: stripping voltammetry</h3><p><strong>Author:</strong> Vladimir P. Zhdanov, Bengt Kasemo</p>
-<p><strong>Journal:</strong>  Chemical Physics Letters 376 (2003) 220–225</p>
+<p><strong>Journal:</strong>  Chemical Physics Letters 376 (2003) 220&#x2013;225</p>
 <p><strong>Abstract:</strong> </p>
 <blockquote>
-<p>We analyze the kinetics of CO electrooxidation on nm-sized supported Pt crystallites exhibiting (111) and (100) facets. Speciﬁcally, we show how the CO-diﬀusion-mediated communication between these facets may modify voltammograms observed by using CO stripping voltammetry. The results obtained demonstrate that the reaction kinetics for nm-sized particles can be remarkably diﬀerent compared to those expected on the basis of simple superposition of the kinetics corresponding to the inﬁnite faces. These ﬁndings have implications for interpretation of experimental data and for the design of real catalysts and also have important consequences for the eﬀorts to bridge the so-called structure gaps in electrocatalysis.</p>
+<p>We analyze the kinetics of CO electrooxidation on nm-sized supported Pt crystallites exhibiting (111) and (100) facets. Speci&#xFB01;cally, we show how the CO-di&#xFB00;usion-mediated communication between these facets may modify voltammograms observed by using CO stripping voltammetry. The results obtained demonstrate that the reaction kinetics for nm-sized particles can be remarkably di&#xFB00;erent compared to those expected on the basis of simple superposition of the kinetics corresponding to the in&#xFB01;nite faces. These &#xFB01;ndings have implications for interpretation of experimental data and for the design of real catalysts and also have important consequences for the e&#xFB00;orts to bridge the so-called structure gaps in electrocatalysis.</p>
 </blockquote>
-<h2 id="2004"><a href="#2004" class="headerlink" title="2004"></a>2004</h2><h3 id="Size-eﬀects-on-reactivity-of-Pt-nanoparticles-in-CO-monolayer"><a href="#Size-eﬀects-on-reactivity-of-Pt-nanoparticles-in-CO-monolayer" class="headerlink" title="Size eﬀects on reactivity of Pt nanoparticles in CO monolayer"></a>Size eﬀects on reactivity of Pt nanoparticles in CO monolayer</h3><p>oxidation: The role of surface mobility</p>
+<h2 id="2004"><a href="#2004" class="headerlink" title="2004"></a>2004</h2><h3 id="Size-e&#xFB00;ects-on-reactivity-of-Pt-nanoparticles-in-CO-monolayer"><a href="#Size-e&#xFB00;ects-on-reactivity-of-Pt-nanoparticles-in-CO-monolayer" class="headerlink" title="Size e&#xFB00;ects on reactivity of Pt nanoparticles in CO monolayer"></a>Size e&#xFB00;ects on reactivity of Pt nanoparticles in CO monolayer</h3><p>oxidation: The role of surface mobility</p>
 <p><strong>Author:</strong> F. Maillard, M. Eikerling, O. V. Cherstiouk, S. Schreier, E. Savinova* and U. Stimming</p>
-<p><strong>Journal:</strong>  Faraday Discuss., 2004, 125, 357–377</p>
+<p><strong>Journal:</strong>  Faraday Discuss., 2004, 125, 357&#x2013;377</p>
 <p><strong>Abstract:</strong> </p>
 <blockquote>
-<p>In the present paper we study the reactivity of model Pt nanoparticles supported on glassy carbon. The particle size eﬀect is rationalized for CO monolayer oxidation exploring electrochemical methods (stripping voltammetry and chronoamperometry) and modelling. Signiﬁcant size eﬀects are observed in the particle size interval from ca. 1 to 4 nm, including the positive shift of the CO stripping peak with decreasing particle size and a pronounced asymmetry of the current transients at constant potential. The latter go through a maximum at low CO ads conversion and exhibit tailing, which is the longer the smaller the particle size. Neither mean ﬁeld nor nucleation &amp; growth models give a coherent explanation of these experimental ﬁndings. We, therefore, suggest a basic model employing the active site concept. With a number of reasonable simpliﬁcations a full analytical solution is obtained, which allows a straightforward comparison of the theory with the experimental data. A good correspondence between experiment and theory is demonstrated. The model suggests restricted CO ads mobility at Pt nanoparticles below ca. 2 nm size, with the diﬀusion coeﬃcient strongly dependent on the particle size, and indicates a transition towards fast diﬀusion when the particle size exceeds ca. 3 nm. Estimates of relevant kinetic parameters, including diﬀusion coeﬃcient, reaction constant etc. are<br>obtained and compared to the literature data for extended Pt surfaces.</p>
+<p>In the present paper we study the reactivity of model Pt nanoparticles supported on glassy carbon. The particle size e&#xFB00;ect is rationalized for CO monolayer oxidation exploring electrochemical methods (stripping voltammetry and chronoamperometry) and modelling. Signi&#xFB01;cant size e&#xFB00;ects are observed in the particle size interval from ca. 1 to 4 nm, including the positive shift of the CO stripping peak with decreasing particle size and a pronounced asymmetry of the current transients at constant potential. The latter go through a maximum at low CO ads conversion and exhibit tailing, which is the longer the smaller the particle size. Neither mean &#xFB01;eld nor nucleation &amp; growth models give a coherent explanation of these experimental &#xFB01;ndings. We, therefore, suggest a basic model employing the active site concept. With a number of reasonable simpli&#xFB01;cations a full analytical solution is obtained, which allows a straightforward comparison of the theory with the experimental data. A good correspondence between experiment and theory is demonstrated. The model suggests restricted CO ads mobility at Pt nanoparticles below ca. 2 nm size, with the di&#xFB00;usion coe&#xFB03;cient strongly dependent on the particle size, and indicates a transition towards fast di&#xFB00;usion when the particle size exceeds ca. 3 nm. Estimates of relevant kinetic parameters, including di&#xFB00;usion coe&#xFB03;cient, reaction constant etc. are<br>obtained and compared to the literature data for extended Pt surfaces.</p>
 </blockquote>
 <h2 id="2005"><a href="#2005" class="headerlink" title="2005"></a>2005</h2><h3 id="An-NMR-Determination-of-CO-Diffusion-on-Platinum-Electrocatalysts"><a href="#An-NMR-Determination-of-CO-Diffusion-on-Platinum-Electrocatalysts" class="headerlink" title="An NMR Determination of CO Diffusion on Platinum Electrocatalysts"></a>An NMR Determination of CO Diffusion on Platinum Electrocatalysts</h3><p><strong>Author:</strong> Takeshi Kobayashi, Panakkattu K. Babu, Lajos Gancs, Jong Ho Chung, Eric Oldfield,* and Andrzej Wieckowski*</p>
 <p><strong>Journal:</strong>  J. AM. CHEM. SOC. 2005,127, 14164 - 14165</p>
@@ -75,11 +75,11 @@
 <blockquote>
 <p>We present a theoretical study of CO ad electrooxidation on Pt nanoparticles. Effects of size and surface texture of nanoparticles on the interplay of relevant kinetic processes are investigated. Thereby, strong impacts of particle size on electrocatalytic activities, observed in experiments, are rationalized. Our theoretical approach employs the active site concept to account for the heterogeneous surface of nanoparticles. It, moreover, incorporates finite rates of surface mobility of adsorbed CO. As demonstrated, the model generalizes established mean field or nucleation and growth models. We find very good agreement of our model with chronoamperometric current transients at various particle sizes and electrode potentials (Maillard, F.; Savinova, E. R.; Stimming, U. J. Electroanal. Chem., in press, doi:10.1016/j.jelechem.2006.02.024). The full interplay of on- site reactivity at active sites and low surface mobility of CO ad unfolds on the smallest nanoparticles ( ~2 nm).<br>In this case, the solution of the model requires kinetic Monte Carlo simulations specifically developed for this problem. For larger nanoparticles ( &gt; 4 nm) the surface mobility of CO ad is high compared to the reaction rate constants, and the kinetic equations can be solved in the limiting case of infinite surface mobility. The analysis provides an insight into the prevailing reaction mechanisms and allows for the estimation of relevant kinetic parameters.</p>
 </blockquote>
-<h2 id="2007"><a href="#2007" class="headerlink" title="2007"></a>2007</h2><h3 id="CO-monolayer-oxidation-on-Pt-nanoparticles-Further-insights-into-the-particle-size-eﬀects"><a href="#CO-monolayer-oxidation-on-Pt-nanoparticles-Further-insights-into-the-particle-size-eﬀects" class="headerlink" title="CO monolayer oxidation on Pt nanoparticles: Further insights into the particle size eﬀects"></a>CO monolayer oxidation on Pt nanoparticles: Further insights into the particle size eﬀects</h3><p><strong>Author:</strong> Frederic Maillard, Elena R. Savinova, Ulrich Stimming</p>
-<p><strong>Journal:</strong>  Journal of Electroanalytical Chemistry 599 (2007) 221–232</p>
+<h2 id="2007"><a href="#2007" class="headerlink" title="2007"></a>2007</h2><h3 id="CO-monolayer-oxidation-on-Pt-nanoparticles-Further-insights-into-the-particle-size-e&#xFB00;ects"><a href="#CO-monolayer-oxidation-on-Pt-nanoparticles-Further-insights-into-the-particle-size-e&#xFB00;ects" class="headerlink" title="CO monolayer oxidation on Pt nanoparticles: Further insights into the particle size e&#xFB00;ects"></a>CO monolayer oxidation on Pt nanoparticles: Further insights into the particle size e&#xFB00;ects</h3><p><strong>Author:</strong> Frederic Maillard, Elena R. Savinova, Ulrich Stimming</p>
+<p><strong>Journal:</strong>  Journal of Electroanalytical Chemistry 599 (2007) 221&#x2013;232</p>
 <p><strong>Abstract:</strong> </p>
 <blockquote>
-<p> This paper provides further insights into the particle size eﬀects in CO monolayer oxidation. Strong particle size eﬀects are conﬁrmed in the size range from 1.8 to 5 nm. The discrepancies in the literature concerned with the particle size eﬀects in CO monolayer oxidation are reconciled by exploring the inﬂuence of the experimental conditions on the stripping voltammograms and chronoamperograms. Evidence supporting the contribution of slow non-electrochemical step to the overall mechanism of CO oxidation is presented. The particle size eﬀects in CO monolayer oxidation are attributed to the size-dependent CO ads + OH ads interaction as well as to the size-dependent CO ads surface diﬀusion coeﬃcient.</p>
+<p> This paper provides further insights into the particle size e&#xFB00;ects in CO monolayer oxidation. Strong particle size e&#xFB00;ects are con&#xFB01;rmed in the size range from 1.8 to 5 nm. The discrepancies in the literature concerned with the particle size e&#xFB00;ects in CO monolayer oxidation are reconciled by exploring the in&#xFB02;uence of the experimental conditions on the stripping voltammograms and chronoamperograms. Evidence supporting the contribution of slow non-electrochemical step to the overall mechanism of CO oxidation is presented. The particle size e&#xFB00;ects in CO monolayer oxidation are attributed to the size-dependent CO ads + OH ads interaction as well as to the size-dependent CO ads surface di&#xFB00;usion coe&#xFB03;cient.</p>
 </blockquote>
 <h3 id="Coverage-Dependence-of-CO-Surface-Diffusion-on-Pt-Nanoparticles-An-EC-NMR-Study"><a href="#Coverage-Dependence-of-CO-Surface-Diffusion-on-Pt-Nanoparticles-An-EC-NMR-Study" class="headerlink" title="Coverage Dependence of CO Surface Diffusion on Pt Nanoparticles: An EC-NMR Study"></a>Coverage Dependence of CO Surface Diffusion on Pt Nanoparticles: An EC-NMR Study</h3><p><strong>Author:</strong> Takeshi Kobayashi, Panakkattu K. Babu, Jong Ho Chung, Eric Oldfield,* and Andrzej Wieckowski*</p>
 <p><strong>Journal:</strong>  J. Phys. Chem. C 2007, 111, 7078 - 7083</p>
@@ -88,10 +88,10 @@
 <p>We have studied the effects of CO surface coverage on the diffusion rates of CO adsorbed on commercial Pt-black in sulfuric acid media by using $^{13}C$ electrochemical nuclear magnetic resonance (EC-NMR) spectroscopy in the temperature range 253 - 293 K. The temperature range chosen for these measurements was such that the electrolyte is in a liquid-like and liquid environment. For CO coverage between $\theta$ = 1.0 and 0.36, the CO diffusion coefficients ($D_{CO}$ ) follow a typical Arrhenius behavior and both the activation energies (E d ) as well as the pre-exponential factors ($D^0_{CO}$ ) show CO coverage dependence. For partially CO covered samples, E d decreases linearly with increasing CO coverage, indicating that the repulsive CO - CO interactions exert a stronger influence on the coverage dependence of the activation energy than does the nature of the CO adlayer structure. On the other hand, DCO0shows an exponential decrease with increasing CO coverage, consistent with the free site hopping model [Gomer, R. Rep. Prog. Phys. 1990, 53, 917] as the major mechanism for surface diffusion of CO at partial coverages, unlike the situation found with a fully CO covered surface [Kobayashi et al., J. Am. Chem. Soc., 2005, 127, 14164]. Overall, these results are of interest<br>since they improve our understanding of the surface dynamics of molecules at electrochemical interfaces, and may help facilitate better control of fuel cell reactions in which the presence of surface CO plays a crucial role in controlling electrocatalytic reaction rates.</p>
 </blockquote>
 <h3 id="Active-site-model-for-CO-adlayer-electrooxidation-on-nanoparticle-catalysts"><a href="#Active-site-model-for-CO-adlayer-electrooxidation-on-nanoparticle-catalysts" class="headerlink" title="Active site model for CO adlayer electrooxidation on nanoparticle catalysts"></a>Active site model for CO adlayer electrooxidation on nanoparticle catalysts</h3><p><strong>Author:</strong> Bernhard Andreaus, Michael Eikerling *</p>
-<p><strong>Journal:</strong>  Journal of Electroanalytical Chemistry 607 (2007) 121–132</p>
+<p><strong>Journal:</strong>  Journal of Electroanalytical Chemistry 607 (2007) 121&#x2013;132</p>
 <p><strong>Abstract:</strong> </p>
 <blockquote>
-<p>We present a two-state model for CO electrooxidation on catalyst nanoparticles. It exploits the active site concepts in order to describe the eﬀects of the heterogeneous surface structure on the catalytic activity of nanoparticle systems. In this approach, the apparent reactivity results from the interplay between kinetic processes that occur on active sites and surface transport of adsorbed reactants from inactive towards active sites. It is demonstrated that this model is a generalization of well-known mean ﬁeld (MF) and nucleation and growth models. Kinetic Monte Carlo (kMC) simulations speciﬁcally developed for this problem were employed for establishing the relevance of the diﬀerent model parameters for the shape of chronoamperometric and linear sweep current transients. In the limit of fast CO ad surface mobility, the corresponding MF approximation with active sites and its analytical solutions for limiting cases are presented. The comparison of the general kMC solution with the MF approximation reveals major applicability limits of the MF approach for heterogeneous surface models. Although the current work concentrates on the speciﬁc case of CO ad adlayer electrooxidation, the model is readily applicable for other reactions where surface heterogeneity is likely to play an important role.</p>
+<p>We present a two-state model for CO electrooxidation on catalyst nanoparticles. It exploits the active site concepts in order to describe the e&#xFB00;ects of the heterogeneous surface structure on the catalytic activity of nanoparticle systems. In this approach, the apparent reactivity results from the interplay between kinetic processes that occur on active sites and surface transport of adsorbed reactants from inactive towards active sites. It is demonstrated that this model is a generalization of well-known mean &#xFB01;eld (MF) and nucleation and growth models. Kinetic Monte Carlo (kMC) simulations speci&#xFB01;cally developed for this problem were employed for establishing the relevance of the di&#xFB00;erent model parameters for the shape of chronoamperometric and linear sweep current transients. In the limit of fast CO ad surface mobility, the corresponding MF approximation with active sites and its analytical solutions for limiting cases are presented. The comparison of the general kMC solution with the MF approximation reveals major applicability limits of the MF approach for heterogeneous surface models. Although the current work concentrates on the speci&#xFB01;c case of CO ad adlayer electrooxidation, the model is readily applicable for other reactions where surface heterogeneity is likely to play an important role.</p>
 </blockquote>
 <p>2008</p>
 <p>2009</p>
@@ -117,10 +117,10 @@
   <entry>
     <title>Nernst Equation</title>
     <url>/2020/01/26/Nernst-Equation/</url>
-    <content><![CDATA[<h2 id="能斯特方程推导"><a href="#能斯特方程推导" class="headerlink" title="能斯特方程推导"></a>能斯特方程推导</h2><p><strong>Nernst Equation</strong></p>
-<p>如果假设带电微粒在一维系统中，那么电势是位置的函数$\psi=\psi(x)$。如果系统处在平衡状态，则带电微粒在$x_1与$$x_2$位置处的电化学势应该相等，即<br>$$\mu^\prime(x_1)=\mu^\prime(x_2) \tag {1}$$<br>把化学势$\mu(x)=\mu^o+kT \ln c(x)$带入$(5)$式得到电化学势关于位置$x$的表达式：<br>$$\mu^\prime(x)=\mu^o+kT \ln c(x)+ze\psi(x) \tag{2}$$<br>$(7)$ 式代入$(6)$式得：<br>$$\mu^o+kT \ln c(x_1)+ze\psi(x_1) =\mu^o+kT \ln c(x_2)+ze\psi(x_2) \tag{3}$$<br>整理化简得：<br>$$\ln \dfrac {c(x_2)}{c(x_1)}=-ze\dfrac{\psi(x_2)-\psi(x_1)}{kT} \tag {4}$$<br>或写成<br>$$c(x_2)=c(x_1) \exp \left [\dfrac{-ze[\psi(x_2)-\psi(x_1)]}{kT} \right] \tag {4}$$<br>当$\Delta\psi=\psi(x_2)-\psi(x_1)$, $c_2=c(x_2)$, $c_1=c(x_1)$, $(8)$式亦或写成<br>$$\Delta \psi=-\dfrac {kT}{ze} \ln \left (\dfrac {c_2}{c_1}\right)\tag {5}$$<br>已知气体常量$R=N_Ak$，法拉第常量$F=eN_A$，定义$E=\Delta \psi$因此$(11)$式变换为常用的能斯特方程形式<br>$$E=-\dfrac {RT}{zF} \ln \left (\dfrac {c_2}{c_1}\right)\tag {6}$$<br>对于电极反应<br>$$Oxidant + e \rightleftharpoons Reductant$$<br>能斯特方程为：<br>$$E=-\dfrac {RT}{zF} \ln \dfrac {[Reductant]}{[Oxidant]} \tag {7}$$</p>
+    <content><![CDATA[<h2 id="&#x80FD;&#x65AF;&#x7279;&#x65B9;&#x7A0B;&#x63A8;&#x5BFC;"><a href="#&#x80FD;&#x65AF;&#x7279;&#x65B9;&#x7A0B;&#x63A8;&#x5BFC;" class="headerlink" title="&#x80FD;&#x65AF;&#x7279;&#x65B9;&#x7A0B;&#x63A8;&#x5BFC;"></a>&#x80FD;&#x65AF;&#x7279;&#x65B9;&#x7A0B;&#x63A8;&#x5BFC;</h2><p><strong>Nernst Equation</strong></p>
+<p>&#x5982;&#x679C;&#x5047;&#x8BBE;&#x5E26;&#x7535;&#x5FAE;&#x7C92;&#x5728;&#x4E00;&#x7EF4;&#x7CFB;&#x7EDF;&#x4E2D;&#xFF0C;&#x90A3;&#x4E48;&#x7535;&#x52BF;&#x662F;&#x4F4D;&#x7F6E;&#x7684;&#x51FD;&#x6570;$\psi=\psi(x)$&#x3002;&#x5982;&#x679C;&#x7CFB;&#x7EDF;&#x5904;&#x5728;&#x5E73;&#x8861;&#x72B6;&#x6001;&#xFF0C;&#x5219;&#x5E26;&#x7535;&#x5FAE;&#x7C92;&#x5728;$x_1&#x4E0E;$$x_2$&#x4F4D;&#x7F6E;&#x5904;&#x7684;&#x7535;&#x5316;&#x5B66;&#x52BF;&#x5E94;&#x8BE5;&#x76F8;&#x7B49;&#xFF0C;&#x5373;<br>$$\mu^\prime(x_1)=\mu^\prime(x_2) \tag {1}$$<br>&#x628A;&#x5316;&#x5B66;&#x52BF;$\mu(x)=\mu^o+kT \ln c(x)$&#x5E26;&#x5165;$(5)$&#x5F0F;&#x5F97;&#x5230;&#x7535;&#x5316;&#x5B66;&#x52BF;&#x5173;&#x4E8E;&#x4F4D;&#x7F6E;$x$&#x7684;&#x8868;&#x8FBE;&#x5F0F;&#xFF1A;<br>$$\mu^\prime(x)=\mu^o+kT \ln c(x)+ze\psi(x) \tag{2}$$<br>$(7)$ &#x5F0F;&#x4EE3;&#x5165;$(6)$&#x5F0F;&#x5F97;&#xFF1A;<br>$$\mu^o+kT \ln c(x_1)+ze\psi(x_1) =\mu^o+kT \ln c(x_2)+ze\psi(x_2) \tag{3}$$<br>&#x6574;&#x7406;&#x5316;&#x7B80;&#x5F97;&#xFF1A;<br>$$\ln \dfrac {c(x_2)}{c(x_1)}=-ze\dfrac{\psi(x_2)-\psi(x_1)}{kT} \tag {4}$$<br>&#x6216;&#x5199;&#x6210;<br>$$c(x_2)=c(x_1) \exp \left [\dfrac{-ze[\psi(x_2)-\psi(x_1)]}{kT} \right] \tag {4}$$<br>&#x5F53;$\Delta\psi=\psi(x_2)-\psi(x_1)$, $c_2=c(x_2)$, $c_1=c(x_1)$, $(8)$&#x5F0F;&#x4EA6;&#x6216;&#x5199;&#x6210;<br>$$\Delta \psi=-\dfrac {kT}{ze} \ln \left (\dfrac {c_2}{c_1}\right)\tag {5}$$<br>&#x5DF2;&#x77E5;&#x6C14;&#x4F53;&#x5E38;&#x91CF;$R=N_Ak$&#xFF0C;&#x6CD5;&#x62C9;&#x7B2C;&#x5E38;&#x91CF;$F=eN_A$&#xFF0C;&#x5B9A;&#x4E49;$E=\Delta \psi$&#x56E0;&#x6B64;$(11)$&#x5F0F;&#x53D8;&#x6362;&#x4E3A;&#x5E38;&#x7528;&#x7684;&#x80FD;&#x65AF;&#x7279;&#x65B9;&#x7A0B;&#x5F62;&#x5F0F;<br>$$E=-\dfrac {RT}{zF} \ln \left (\dfrac {c_2}{c_1}\right)\tag {6}$$<br>&#x5BF9;&#x4E8E;&#x7535;&#x6781;&#x53CD;&#x5E94;<br>$$Oxidant + e \rightleftharpoons Reductant$$<br>&#x80FD;&#x65AF;&#x7279;&#x65B9;&#x7A0B;&#x4E3A;&#xFF1A;<br>$$E=-\dfrac {RT}{zF} \ln \dfrac {[Reductant]}{[Oxidant]} \tag {7}$$</p>
 <hr>
-<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><p>【1】Ken A.Dill, Srina Bromberg, <em>Molecular Driving Forces-Statistical Thermodynamics in Chemistry and Biology.</em> Garland Science</p>
+<h2 id="&#x53C2;&#x8003;&#x6587;&#x732E;"><a href="#&#x53C2;&#x8003;&#x6587;&#x732E;" class="headerlink" title="&#x53C2;&#x8003;&#x6587;&#x732E;"></a>&#x53C2;&#x8003;&#x6587;&#x732E;</h2><p>&#x3010;1&#x3011;Ken A.Dill, Srina Bromberg, <em>Molecular Driving Forces-Statistical Thermodynamics in Chemistry and Biology.</em> Garland Science</p>
 ]]></content>
       <categories>
         <category>电化学</category>
@@ -133,13 +133,13 @@
   <entry>
     <title>电化学势的定义</title>
     <url>/2020/01/26/Electrochemical-Potential/</url>
-    <content><![CDATA[<h1 id="电化学势的定义"><a href="#电化学势的定义" class="headerlink" title="电化学势的定义"></a>电化学势的定义</h1><h2 id="Electrochemical-Potential"><a href="#Electrochemical-Potential" class="headerlink" title="Electrochemical Potential"></a>Electrochemical Potential</h2><p>在电场中，带电微粒从一种环境变化到另外一种环境的过程中不仅受到化学势的驱使，同时也受到电势的驱使。那么电势如何作用于带电微粒呢？还得从无电场的热力学状态出发，推导出电势对于带电微粒的作用。<br>在热力学的简单系统中，内能(Internal energy, U)被描述为广度量（extensive variable） 熵(Entropy, S),体积(Volume,V),和物质的量(N)的函数 $U=U(S,V,N)$ 。微分形式为<br>$$dU=Tds-PdV+\sum_{j=1}^{t}\mu_jdN_j \tag{1}$$</p>
-<p>现在把电场电势 $\psi$与微粒的电荷量$q=q_1, q_2,q_3…,q_M$考虑进去，则带电微粒的电势能为$q\psi$，内能可被写作 $U=U(S,V,N,q)$，则其微分表达式为<br>$$dU=TdS-PdV+\sum_{j=1}^{t}\mu_jdN_j++\sum_{i=1}^{M}\psi dq_i  \tag {2}$$<br>其中$i$ 代表带电微粒，  $\psi=\psi(x,y,z)$由空间位置决定。因为吉布斯自由能可表示为 $G=U+pV-TS$，对其微分</p>
+    <content><![CDATA[<h1 id="&#x7535;&#x5316;&#x5B66;&#x52BF;&#x7684;&#x5B9A;&#x4E49;"><a href="#&#x7535;&#x5316;&#x5B66;&#x52BF;&#x7684;&#x5B9A;&#x4E49;" class="headerlink" title="&#x7535;&#x5316;&#x5B66;&#x52BF;&#x7684;&#x5B9A;&#x4E49;"></a>&#x7535;&#x5316;&#x5B66;&#x52BF;&#x7684;&#x5B9A;&#x4E49;</h1><h2 id="Electrochemical-Potential"><a href="#Electrochemical-Potential" class="headerlink" title="Electrochemical Potential"></a>Electrochemical Potential</h2><p>&#x5728;&#x7535;&#x573A;&#x4E2D;&#xFF0C;&#x5E26;&#x7535;&#x5FAE;&#x7C92;&#x4ECE;&#x4E00;&#x79CD;&#x73AF;&#x5883;&#x53D8;&#x5316;&#x5230;&#x53E6;&#x5916;&#x4E00;&#x79CD;&#x73AF;&#x5883;&#x7684;&#x8FC7;&#x7A0B;&#x4E2D;&#x4E0D;&#x4EC5;&#x53D7;&#x5230;&#x5316;&#x5B66;&#x52BF;&#x7684;&#x9A71;&#x4F7F;&#xFF0C;&#x540C;&#x65F6;&#x4E5F;&#x53D7;&#x5230;&#x7535;&#x52BF;&#x7684;&#x9A71;&#x4F7F;&#x3002;&#x90A3;&#x4E48;&#x7535;&#x52BF;&#x5982;&#x4F55;&#x4F5C;&#x7528;&#x4E8E;&#x5E26;&#x7535;&#x5FAE;&#x7C92;&#x5462;&#xFF1F;&#x8FD8;&#x5F97;&#x4ECE;&#x65E0;&#x7535;&#x573A;&#x7684;&#x70ED;&#x529B;&#x5B66;&#x72B6;&#x6001;&#x51FA;&#x53D1;&#xFF0C;&#x63A8;&#x5BFC;&#x51FA;&#x7535;&#x52BF;&#x5BF9;&#x4E8E;&#x5E26;&#x7535;&#x5FAE;&#x7C92;&#x7684;&#x4F5C;&#x7528;&#x3002;<br>&#x5728;&#x70ED;&#x529B;&#x5B66;&#x7684;&#x7B80;&#x5355;&#x7CFB;&#x7EDF;&#x4E2D;&#xFF0C;&#x5185;&#x80FD;(Internal energy, U)&#x88AB;&#x63CF;&#x8FF0;&#x4E3A;&#x5E7F;&#x5EA6;&#x91CF;&#xFF08;extensive variable&#xFF09; &#x71B5;(Entropy, S),&#x4F53;&#x79EF;(Volume,V),&#x548C;&#x7269;&#x8D28;&#x7684;&#x91CF;(N)&#x7684;&#x51FD;&#x6570; $U=U(S,V,N)$ &#x3002;&#x5FAE;&#x5206;&#x5F62;&#x5F0F;&#x4E3A;<br>$$dU=Tds-PdV+\sum_{j=1}^{t}\mu_jdN_j \tag{1}$$</p>
+<p>&#x73B0;&#x5728;&#x628A;&#x7535;&#x573A;&#x7535;&#x52BF; $\psi$&#x4E0E;&#x5FAE;&#x7C92;&#x7684;&#x7535;&#x8377;&#x91CF;$q=q_1, q_2,q_3&#x2026;,q_M$&#x8003;&#x8651;&#x8FDB;&#x53BB;&#xFF0C;&#x5219;&#x5E26;&#x7535;&#x5FAE;&#x7C92;&#x7684;&#x7535;&#x52BF;&#x80FD;&#x4E3A;$q\psi$&#xFF0C;&#x5185;&#x80FD;&#x53EF;&#x88AB;&#x5199;&#x4F5C; $U=U(S,V,N,q)$&#xFF0C;&#x5219;&#x5176;&#x5FAE;&#x5206;&#x8868;&#x8FBE;&#x5F0F;&#x4E3A;<br>$$dU=TdS-PdV+\sum_{j=1}^{t}\mu_jdN_j++\sum_{i=1}^{M}\psi dq_i  \tag {2}$$<br>&#x5176;&#x4E2D;$i$ &#x4EE3;&#x8868;&#x5E26;&#x7535;&#x5FAE;&#x7C92;&#xFF0C;  $\psi=\psi(x,y,z)$&#x7531;&#x7A7A;&#x95F4;&#x4F4D;&#x7F6E;&#x51B3;&#x5B9A;&#x3002;&#x56E0;&#x4E3A;&#x5409;&#x5E03;&#x65AF;&#x81EA;&#x7531;&#x80FD;&#x53EF;&#x8868;&#x793A;&#x4E3A; $G=U+pV-TS$&#xFF0C;&#x5BF9;&#x5176;&#x5FAE;&#x5206;</p>
 <p>$$\begin{eqnarray<em>}<br>dG &amp;=&amp; dU + d(pV)- d(TS)  \<br>&amp;=&amp;dU + pdV + Vdp - TdS - SdT \<br>&amp;=&amp;(TdS-PdV+\sum_{j=1}^{t}\mu_jdN_j++\sum_{i=1}^{M}\psi dq_i)+ pdV + Vdp - TdS - SdT \<br>&amp;=&amp;-SdT+Vdp+\sum_{j=1}^{t}\mu_jdN_j+\sum_{i=1}^{M}\psi dq_i \  \tag{3}<br>\end{eqnarray</em>}$$</p>
-<p>若带电微粒 $i$ 带有 $z_i$个电荷 $e$，则其带电量为$q_i=z_i eN_i$，如果体系里都是带电微粒，则</p>
+<p>&#x82E5;&#x5E26;&#x7535;&#x5FAE;&#x7C92; $i$ &#x5E26;&#x6709; $z_i$&#x4E2A;&#x7535;&#x8377; $e$&#xFF0C;&#x5219;&#x5176;&#x5E26;&#x7535;&#x91CF;&#x4E3A;$q_i=z_i eN_i$&#xFF0C;&#x5982;&#x679C;&#x4F53;&#x7CFB;&#x91CC;&#x90FD;&#x662F;&#x5E26;&#x7535;&#x5FAE;&#x7C92;&#xFF0C;&#x5219;</p>
 <p>$$\begin{eqnarray<em>}<br>dG &amp;=&amp;-SdT+Vdp+\sum_{j=1}^{t}\mu_jdN_j+\sum_{i=1}^{M}\psi dq_i\<br>&amp;=&amp;-SdT+Vdp+\sum_{j=1}^{t}\mu_jdN_j+\sum_{i=1}^{M}z_i e\psi dN_i \<br>&amp;=&amp;-SdT+Vdp+\sum_{i=1}^{M}(\mu_i+z_i e\psi )dN_i \   \tag {4}<br>\end{eqnarray</em>}$$</p>
-<p>其中<br>$$\mu_i^\prime=\mu_i+z_i e\psi  \tag{5}  $$</p>
-<p>被定义为电化学势(electrochemical potential)。<br>由上式可以看出，对于没有不带电荷的微粒，其电化学势等于其化学势；而对于带电微粒，当电化学势相等时，达到化学平衡状态。因此，带电微粒的各化学过程不仅仅受到化学势的作用，还受到电势的作用。</p>
+<p>&#x5176;&#x4E2D;<br>$$\mu_i^\prime=\mu_i+z_i e\psi  \tag{5}  $$</p>
+<p>&#x88AB;&#x5B9A;&#x4E49;&#x4E3A;&#x7535;&#x5316;&#x5B66;&#x52BF;(electrochemical potential)&#x3002;<br>&#x7531;&#x4E0A;&#x5F0F;&#x53EF;&#x4EE5;&#x770B;&#x51FA;&#xFF0C;&#x5BF9;&#x4E8E;&#x6CA1;&#x6709;&#x4E0D;&#x5E26;&#x7535;&#x8377;&#x7684;&#x5FAE;&#x7C92;&#xFF0C;&#x5176;&#x7535;&#x5316;&#x5B66;&#x52BF;&#x7B49;&#x4E8E;&#x5176;&#x5316;&#x5B66;&#x52BF;&#xFF1B;&#x800C;&#x5BF9;&#x4E8E;&#x5E26;&#x7535;&#x5FAE;&#x7C92;&#xFF0C;&#x5F53;&#x7535;&#x5316;&#x5B66;&#x52BF;&#x76F8;&#x7B49;&#x65F6;&#xFF0C;&#x8FBE;&#x5230;&#x5316;&#x5B66;&#x5E73;&#x8861;&#x72B6;&#x6001;&#x3002;&#x56E0;&#x6B64;&#xFF0C;&#x5E26;&#x7535;&#x5FAE;&#x7C92;&#x7684;&#x5404;&#x5316;&#x5B66;&#x8FC7;&#x7A0B;&#x4E0D;&#x4EC5;&#x4EC5;&#x53D7;&#x5230;&#x5316;&#x5B66;&#x52BF;&#x7684;&#x4F5C;&#x7528;&#xFF0C;&#x8FD8;&#x53D7;&#x5230;&#x7535;&#x52BF;&#x7684;&#x4F5C;&#x7528;&#x3002;</p>
 ]]></content>
       <categories>
         <category>电化学</category>
@@ -154,12 +154,12 @@
   <entry>
     <title>Equation of Continuity for Species</title>
     <url>/2020/01/26/Equation-of-Continuity-for-Species/</url>
-    <content><![CDATA[<h1 id="流体传质方程"><a href="#流体传质方程" class="headerlink" title="流体传质方程"></a>流体传质方程</h1><h2 id="Equation-of-Continuity-for-Species-alpha-in-terms-of-pmb-j-alpha"><a href="#Equation-of-Continuity-for-Species-alpha-in-terms-of-pmb-j-alpha" class="headerlink" title="Equation of Continuity for Species  $ \alpha$ in terms of $ \pmb j_\alpha$"></a>Equation of Continuity for Species  $ \alpha$ in terms of $ \pmb j_\alpha$</h2><p>控制方程表达通式：<br>$$\rho  \dfrac {D w_\alpha}{Dt}=-\nabla \cdot \pmb j_\alpha + r_\alpha$$</p>
+    <content><![CDATA[<h1 id="&#x6D41;&#x4F53;&#x4F20;&#x8D28;&#x65B9;&#x7A0B;"><a href="#&#x6D41;&#x4F53;&#x4F20;&#x8D28;&#x65B9;&#x7A0B;" class="headerlink" title="&#x6D41;&#x4F53;&#x4F20;&#x8D28;&#x65B9;&#x7A0B;"></a>&#x6D41;&#x4F53;&#x4F20;&#x8D28;&#x65B9;&#x7A0B;</h1><h2 id="Equation-of-Continuity-for-Species-alpha-in-terms-of-pmb-j-alpha"><a href="#Equation-of-Continuity-for-Species-alpha-in-terms-of-pmb-j-alpha" class="headerlink" title="Equation of Continuity for Species  $ \alpha$ in terms of $ \pmb j_\alpha$"></a>Equation of Continuity for Species  $ \alpha$ in terms of $ \pmb j_\alpha$</h2><p>&#x63A7;&#x5236;&#x65B9;&#x7A0B;&#x8868;&#x8FBE;&#x901A;&#x5F0F;&#xFF1A;<br>$$\rho  \dfrac {D w_\alpha}{Dt}=-\nabla \cdot \pmb j_\alpha + r_\alpha$$</p>
 <hr>
-<h3 id="1-直角坐标系-x-y-z"><a href="#1-直角坐标系-x-y-z" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h3><table>
+<h3 id="1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z"><a href="#1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z" class="headerlink" title="1.&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)"></a>1.<strong>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)</strong></h3><table>
 <thead>
 <tr>
-<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;Cartesian coordinates ($\textit { x,y,z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -169,11 +169,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h3 id="2-圆柱坐标系（-r-theta-z"><a href="#2-圆柱坐标系（-r-theta-z" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h3><p>​     </p>
+<h3 id="2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z"><a href="#2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z" class="headerlink" title="2.&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)"></a>2.<strong>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)</strong></h3><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -183,11 +183,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h3 id="3-球坐标系（-r-theta-phi"><a href="#3-球坐标系（-r-theta-phi" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h3><p>​     </p>
+<h3 id="3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi"><a href="#3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi" class="headerlink" title="3.&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)"></a>3.<strong>&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)</strong></h3><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>&#x7403;&#x5750;&#x6807;&#x7CFB;Spherical coordinates&#xFF08;$\textit {r, $\theta$, $\phi$ }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -196,11 +196,11 @@
 <td>3-1</td>
 </tr>
 </tbody></table>
-<p>注：如果密度被浓度代替。都要做相应的替换</p>
+<p>&#x6CE8;&#xFF1A;&#x5982;&#x679C;&#x5BC6;&#x5EA6;&#x88AB;&#x6D53;&#x5EA6;&#x4EE3;&#x66FF;&#x3002;&#x90FD;&#x8981;&#x505A;&#x76F8;&#x5E94;&#x7684;&#x66FF;&#x6362;</p>
 <table>
 <thead>
 <tr>
-<th>质量浓度</th>
+<th>&#x8D28;&#x91CF;&#x6D53;&#x5EA6;</th>
 <th>$\rho$</th>
 <th>$w_\alpha$</th>
 <th>$\pmb j_\alpha$</th>
@@ -209,7 +209,7 @@
 </tr>
 </thead>
 <tbody><tr>
-<td>摩尔浓度</td>
+<td>&#x6469;&#x5C14;&#x6D53;&#x5EA6;</td>
 <td>$c$</td>
 <td>$x_\alpha$</td>
 <td>$\pmb J_\alpha^*$</td>
@@ -217,12 +217,12 @@
 <td>$R_\alpha-x_\alpha \sum\limits_{\beta=1}^{N}R_\beta $</td>
 </tr>
 </tbody></table>
-<h2 id="Equation-of-Continuity-for-Species-A-with-Constant-rho-mathscr-D-AB-in-terms-of-w-A"><a href="#Equation-of-Continuity-for-Species-A-with-Constant-rho-mathscr-D-AB-in-terms-of-w-A" class="headerlink" title="Equation of Continuity for Species A with Constant $\rho \mathscr{D}_{AB}$ in terms of $w_A$"></a>Equation of Continuity for Species A with Constant $\rho \mathscr{D}_{AB}$ in terms of $w_A$</h2><p>控制方程表达通式：<br>$$\rho \dfrac {Dw_A}{Dt}=\rho \mathscr{D}_{AB}\nabla^2 w_A+r_A$$</p>
+<h2 id="Equation-of-Continuity-for-Species-A-with-Constant-rho-mathscr-D-AB-in-terms-of-w-A"><a href="#Equation-of-Continuity-for-Species-A-with-Constant-rho-mathscr-D-AB-in-terms-of-w-A" class="headerlink" title="Equation of Continuity for Species A with Constant $\rho \mathscr{D}_{AB}$ in terms of $w_A$"></a>Equation of Continuity for Species A with Constant $\rho \mathscr{D}_{AB}$ in terms of $w_A$</h2><p>&#x63A7;&#x5236;&#x65B9;&#x7A0B;&#x8868;&#x8FBE;&#x901A;&#x5F0F;&#xFF1A;<br>$$\rho \dfrac {Dw_A}{Dt}=\rho \mathscr{D}_{AB}\nabla^2 w_A+r_A$$</p>
 <hr>
-<h3 id="1-直角坐标系-x-y-z-1"><a href="#1-直角坐标系-x-y-z-1" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h3><table>
+<h3 id="1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z-1"><a href="#1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z-1" class="headerlink" title="1.&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)"></a>1.<strong>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)</strong></h3><table>
 <thead>
 <tr>
-<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;Cartesian coordinates ($\textit { x,y,z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -232,11 +232,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h3 id="2-圆柱坐标系（-r-theta-z-1"><a href="#2-圆柱坐标系（-r-theta-z-1" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h3><p>​     </p>
+<h3 id="2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z-1"><a href="#2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z-1" class="headerlink" title="2.&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)"></a>2.<strong>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)</strong></h3><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -246,11 +246,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h3 id="3-球坐标系（-r-theta-phi-1"><a href="#3-球坐标系（-r-theta-phi-1" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h3><p>​     </p>
+<h3 id="3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi-1"><a href="#3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi-1" class="headerlink" title="3.&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)"></a>3.<strong>&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)</strong></h3><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>&#x7403;&#x5750;&#x6807;&#x7CFB;Spherical coordinates&#xFF08;$\textit {r, $\theta$, $\phi$ }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -259,9 +259,9 @@
 <td>3-1</td>
 </tr>
 </tbody></table>
-<p>​    </p>
+<p>&#x200B;    </p>
 <hr>
-<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><ol>
+<h2 id="&#x53C2;&#x8003;&#x6587;&#x732E;"><a href="#&#x53C2;&#x8003;&#x6587;&#x732E;" class="headerlink" title="&#x53C2;&#x8003;&#x6587;&#x732E;"></a>&#x53C2;&#x8003;&#x6587;&#x732E;</h2><ol>
 <li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot.* Transport phenomena:Revised second edition* John Wiely &amp;Sons, Inc.</li>
 </ol>
 ]]></content>
@@ -269,12 +269,12 @@
   <entry>
     <title>Equation of Energy</title>
     <url>/2020/01/26/Equation-of-Energy/</url>
-    <content><![CDATA[<h1 id="流体传热方程"><a href="#流体传热方程" class="headerlink" title="流体传热方程"></a>流体传热方程</h1><h2 id="Equation-of-Energy-in-terms-of-pmb-q"><a href="#Equation-of-Energy-in-terms-of-pmb-q" class="headerlink" title="Equation of Energy in terms of $\pmb q$"></a><strong>Equation of Energy in terms of $\pmb q$</strong></h2><p>控制方程表达通式：<br>$$\rho \hat {C}_p \dfrac {DT}{Dt}=-\nabla \cdot \pmb q-\dfrac {\partial ln \rho}{\partial ln T} \dfrac {Dp}{Dt}-\pmb \tau : \nabla \pmb v$$</p>
+    <content><![CDATA[<h1 id="&#x6D41;&#x4F53;&#x4F20;&#x70ED;&#x65B9;&#x7A0B;"><a href="#&#x6D41;&#x4F53;&#x4F20;&#x70ED;&#x65B9;&#x7A0B;" class="headerlink" title="&#x6D41;&#x4F53;&#x4F20;&#x70ED;&#x65B9;&#x7A0B;"></a>&#x6D41;&#x4F53;&#x4F20;&#x70ED;&#x65B9;&#x7A0B;</h1><h2 id="Equation-of-Energy-in-terms-of-pmb-q"><a href="#Equation-of-Energy-in-terms-of-pmb-q" class="headerlink" title="Equation of Energy in terms of $\pmb q$"></a><strong>Equation of Energy in terms of $\pmb q$</strong></h2><p>&#x63A7;&#x5236;&#x65B9;&#x7A0B;&#x8868;&#x8FBE;&#x901A;&#x5F0F;&#xFF1A;<br>$$\rho \hat {C}_p \dfrac {DT}{Dt}=-\nabla \cdot \pmb q-\dfrac {\partial ln \rho}{\partial ln T} \dfrac {Dp}{Dt}-\pmb \tau : \nabla \pmb v$$</p>
 <hr>
-<h3 id="1-直角坐标系-x-y-z"><a href="#1-直角坐标系-x-y-z" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h3><table>
+<h3 id="1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z"><a href="#1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z" class="headerlink" title="1.&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)"></a>1.<strong>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)</strong></h3><table>
 <thead>
 <tr>
-<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;Cartesian coordinates ($\textit { x,y,z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -284,11 +284,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h3 id="2-圆柱坐标系（-r-theta-z"><a href="#2-圆柱坐标系（-r-theta-z" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h3><p>​     </p>
+<h3 id="2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z"><a href="#2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z" class="headerlink" title="2.&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)"></a>2.<strong>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)</strong></h3><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -298,11 +298,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h3 id="3-球坐标系（-r-theta-phi"><a href="#3-球坐标系（-r-theta-phi" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h3><p>​     </p>
+<h3 id="3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi"><a href="#3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi" class="headerlink" title="3.&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)"></a>3.<strong>&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)</strong></h3><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>&#x7403;&#x5750;&#x6807;&#x7CFB;Spherical coordinates&#xFF08;$\textit {r, $\theta$, $\phi$ }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -311,13 +311,13 @@
 <td>3-1</td>
 </tr>
 </tbody></table>
-<p>注：黏度耗散项$（-\pmb \tau : \nabla \pmb v）$很小，可以被忽略，除非速度的梯度非常大。另外对于恒定密度的流体$\dfrac {\partial ln \rho}{\partial ln T}$项等于零。</p>
-<h1 id><a href="#" class="headerlink" title></a></h1><h2 id="Equation-of-Energy-for-Newtonian-Fluids-with-Constant-rho-and-k"><a href="#Equation-of-Energy-for-Newtonian-Fluids-with-Constant-rho-and-k" class="headerlink" title="Equation of Energy for Newtonian Fluids with Constant $\rho$ and $k$"></a>Equation of Energy for Newtonian Fluids with Constant $\rho$ and $k$</h2><p>控制方程表达通式：<br>$$\rho \hat {C}_p \dfrac {DT}{Dt}=k\nabla^2T+\mu \pmb \Phi_v$$</p>
+<p>&#x6CE8;&#xFF1A;&#x9ECF;&#x5EA6;&#x8017;&#x6563;&#x9879;$&#xFF08;-\pmb \tau : \nabla \pmb v&#xFF09;$&#x5F88;&#x5C0F;&#xFF0C;&#x53EF;&#x4EE5;&#x88AB;&#x5FFD;&#x7565;&#xFF0C;&#x9664;&#x975E;&#x901F;&#x5EA6;&#x7684;&#x68AF;&#x5EA6;&#x975E;&#x5E38;&#x5927;&#x3002;&#x53E6;&#x5916;&#x5BF9;&#x4E8E;&#x6052;&#x5B9A;&#x5BC6;&#x5EA6;&#x7684;&#x6D41;&#x4F53;$\dfrac {\partial ln \rho}{\partial ln T}$&#x9879;&#x7B49;&#x4E8E;&#x96F6;&#x3002;</p>
+<h1 id><a href="#" class="headerlink" title></a></h1><h2 id="Equation-of-Energy-for-Newtonian-Fluids-with-Constant-rho-and-k"><a href="#Equation-of-Energy-for-Newtonian-Fluids-with-Constant-rho-and-k" class="headerlink" title="Equation of Energy for Newtonian Fluids with Constant $\rho$ and $k$"></a>Equation of Energy for Newtonian Fluids with Constant $\rho$ and $k$</h2><p>&#x63A7;&#x5236;&#x65B9;&#x7A0B;&#x8868;&#x8FBE;&#x901A;&#x5F0F;&#xFF1A;<br>$$\rho \hat {C}_p \dfrac {DT}{Dt}=k\nabla^2T+\mu \pmb \Phi_v$$</p>
 <hr>
-<h3 id="1-直角坐标系-x-y-z-1"><a href="#1-直角坐标系-x-y-z-1" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h3><table>
+<h3 id="1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z-1"><a href="#1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z-1" class="headerlink" title="1.&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)"></a>1.<strong>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)</strong></h3><table>
 <thead>
 <tr>
-<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;Cartesian coordinates ($\textit { x,y,z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -327,11 +327,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h3 id="2-圆柱坐标系（-r-theta-z-1"><a href="#2-圆柱坐标系（-r-theta-z-1" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h3><p>​     </p>
+<h3 id="2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z-1"><a href="#2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z-1" class="headerlink" title="2.&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)"></a>2.<strong>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)</strong></h3><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -341,11 +341,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h3 id="3-球坐标系（-r-theta-phi-1"><a href="#3-球坐标系（-r-theta-phi-1" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h3><p>​     </p>
+<h3 id="3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi-1"><a href="#3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi-1" class="headerlink" title="3.&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)"></a>3.<strong>&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)</strong></h3><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>&#x7403;&#x5750;&#x6807;&#x7CFB;Spherical coordinates&#xFF08;$\textit {r, $\theta$, $\phi$ }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -354,9 +354,9 @@
 <td>3-1</td>
 </tr>
 </tbody></table>
-<p>​    </p>
+<p>&#x200B;    </p>
 <hr>
-<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><ol>
+<h2 id="&#x53C2;&#x8003;&#x6587;&#x732E;"><a href="#&#x53C2;&#x8003;&#x6587;&#x732E;" class="headerlink" title="&#x53C2;&#x8003;&#x6587;&#x732E;"></a>&#x53C2;&#x8003;&#x6587;&#x732E;</h2><ol>
 <li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot.* Transport phenomena:Revised second edition* John Wiely &amp;Sons, Inc.</li>
 </ol>
 ]]></content>
@@ -370,12 +370,12 @@
   <entry>
     <title>Dissipation Function</title>
     <url>/2020/01/26/Dissipation-Function/</url>
-    <content><![CDATA[<h1 id="牛顿流体耗散方程"><a href="#牛顿流体耗散方程" class="headerlink" title="牛顿流体耗散方程"></a>牛顿流体耗散方程</h1><p><strong>Dissipation Function for Newtonian Fluids</strong></p>
+    <content><![CDATA[<h1 id="&#x725B;&#x987F;&#x6D41;&#x4F53;&#x8017;&#x6563;&#x65B9;&#x7A0B;"><a href="#&#x725B;&#x987F;&#x6D41;&#x4F53;&#x8017;&#x6563;&#x65B9;&#x7A0B;" class="headerlink" title="&#x725B;&#x987F;&#x6D41;&#x4F53;&#x8017;&#x6563;&#x65B9;&#x7A0B;"></a>&#x725B;&#x987F;&#x6D41;&#x4F53;&#x8017;&#x6563;&#x65B9;&#x7A0B;</h1><p><strong>Dissipation Function for Newtonian Fluids</strong></p>
 <hr>
-<h2 id="1-直角坐标系-x-y-z"><a href="#1-直角坐标系-x-y-z" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h2><table>
+<h2 id="1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z"><a href="#1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z" class="headerlink" title="1.&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)"></a>1.<strong>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)</strong></h2><table>
 <thead>
 <tr>
-<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;Cartesian coordinates ($\textit { x,y,z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -385,11 +385,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="2-圆柱坐标系（-r-theta-z"><a href="#2-圆柱坐标系（-r-theta-z" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h2><p>​     </p>
+<h2 id="2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z"><a href="#2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z" class="headerlink" title="2.&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)"></a>2.<strong>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -399,11 +399,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="3-球坐标系（-r-theta-phi"><a href="#3-球坐标系（-r-theta-phi" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h2><p>​     </p>
+<h2 id="3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi"><a href="#3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi" class="headerlink" title="3.&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)"></a>3.<strong>&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>&#x7403;&#x5750;&#x6807;&#x7CFB;Spherical coordinates&#xFF08;$\textit {r, $\theta$, $\phi$ }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -412,9 +412,9 @@
 <td>3-1</td>
 </tr>
 </tbody></table>
-<p>​    </p>
+<p>&#x200B;    </p>
 <hr>
-<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><ol>
+<h2 id="&#x53C2;&#x8003;&#x6587;&#x732E;"><a href="#&#x53C2;&#x8003;&#x6587;&#x732E;" class="headerlink" title="&#x53C2;&#x8003;&#x6587;&#x732E;"></a>&#x53C2;&#x8003;&#x6587;&#x732E;</h2><ol>
 <li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot.* Transport phenomena:Revised second edition* John Wiely &amp;Sons, Inc.</li>
 </ol>
 ]]></content>
@@ -422,12 +422,12 @@
   <entry>
     <title>The Equation of Motion</title>
     <url>/2020/01/26/The-Equation-of-Motion/</url>
-    <content><![CDATA[<h1 id="The-Equation-of-Motion-in-terms-of-tau"><a href="#The-Equation-of-Motion-in-terms-of-tau" class="headerlink" title="The Equation of Motion in terms of  $\tau$"></a>The Equation of Motion in terms of  $\tau$</h1><p>控制方程通式：<br>$$\rho \dfrac {D \pmb v}{D t}=- \nabla p-\nabla \cdot \pmb \tau+\rho \pmb g$$</p>
+    <content><![CDATA[<h1 id="The-Equation-of-Motion-in-terms-of-tau"><a href="#The-Equation-of-Motion-in-terms-of-tau" class="headerlink" title="The Equation of Motion in terms of  $\tau$"></a>The Equation of Motion in terms of  $\tau$</h1><p>&#x63A7;&#x5236;&#x65B9;&#x7A0B;&#x901A;&#x5F0F;&#xFF1A;<br>$$\rho \dfrac {D \pmb v}{D t}=- \nabla p-\nabla \cdot \pmb \tau+\rho \pmb g$$</p>
 <hr>
-<h2 id="1-直角坐标系-x-y-z"><a href="#1-直角坐标系-x-y-z" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h2><table>
+<h2 id="1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z"><a href="#1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z" class="headerlink" title="1.&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)"></a>1.<strong>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)</strong></h2><table>
 <thead>
 <tr>
-<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;Cartesian coordinates ($\textit { x,y,z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -445,11 +445,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="2-圆柱坐标系（-r-theta-z"><a href="#2-圆柱坐标系（-r-theta-z" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h2><p>​     </p>
+<h2 id="2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z"><a href="#2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z" class="headerlink" title="2.&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)"></a>2.<strong>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -467,11 +467,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="3-球坐标系（-r-theta-phi"><a href="#3-球坐标系（-r-theta-phi" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h2><p>​     </p>
+<h2 id="3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi"><a href="#3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi" class="headerlink" title="3.&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)"></a>3.<strong>&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>&#x7403;&#x5750;&#x6807;&#x7CFB;Spherical coordinates&#xFF08;$\textit {r, $\theta$, $\phi$ }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -488,13 +488,13 @@
 <td>3-3</td>
 </tr>
 </tbody></table>
-<p>注：如果$\pmb \tau $ 具有对称性，那么$\tau_{r \theta}-\tau_{\theta r}=0$  </p>
-<h1 id="Equation-of-Motion-for-a-Newtonian-Fluid-with-Constant-rho-and-mu"><a href="#Equation-of-Motion-for-a-Newtonian-Fluid-with-Constant-rho-and-mu" class="headerlink" title="Equation of Motion for a Newtonian Fluid with Constant $\rho$ and $\mu$"></a>Equation of Motion for a Newtonian Fluid with Constant $\rho$ and $\mu$</h1><p>控制方程通式：<br>$$\rho \dfrac {D \pmb v}{D t}=- \nabla p + \mu \nabla^2 \pmb v+\rho \pmb g$$</p>
+<p>&#x6CE8;&#xFF1A;&#x5982;&#x679C;$\pmb \tau $ &#x5177;&#x6709;&#x5BF9;&#x79F0;&#x6027;&#xFF0C;&#x90A3;&#x4E48;$\tau_{r \theta}-\tau_{\theta r}=0$  </p>
+<h1 id="Equation-of-Motion-for-a-Newtonian-Fluid-with-Constant-rho-and-mu"><a href="#Equation-of-Motion-for-a-Newtonian-Fluid-with-Constant-rho-and-mu" class="headerlink" title="Equation of Motion for a Newtonian Fluid with Constant $\rho$ and $\mu$"></a>Equation of Motion for a Newtonian Fluid with Constant $\rho$ and $\mu$</h1><p>&#x63A7;&#x5236;&#x65B9;&#x7A0B;&#x901A;&#x5F0F;&#xFF1A;<br>$$\rho \dfrac {D \pmb v}{D t}=- \nabla p + \mu \nabla^2 \pmb v+\rho \pmb g$$</p>
 <hr>
-<h2 id="1-直角坐标系-x-y-z-1"><a href="#1-直角坐标系-x-y-z-1" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h2><table>
+<h2 id="1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z-1"><a href="#1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z-1" class="headerlink" title="1.&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)"></a>1.<strong>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)</strong></h2><table>
 <thead>
 <tr>
-<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;Cartesian coordinates ($\textit { x,y,z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -512,11 +512,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="2-圆柱坐标系（-r-theta-z-1"><a href="#2-圆柱坐标系（-r-theta-z-1" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h2><p>​     </p>
+<h2 id="2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z-1"><a href="#2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z-1" class="headerlink" title="2.&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)"></a>2.<strong>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -534,11 +534,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="3-球坐标系（-r-theta-phi-1"><a href="#3-球坐标系（-r-theta-phi-1" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h2><p>​     </p>
+<h2 id="3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi-1"><a href="#3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi-1" class="headerlink" title="3.&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)"></a>3.<strong>&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>&#x7403;&#x5750;&#x6807;&#x7CFB;Spherical coordinates&#xFF08;$\textit {r, $\theta$, $\phi$ }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -555,9 +555,9 @@
 <td>3-3</td>
 </tr>
 </tbody></table>
-<p>​    </p>
+<p>&#x200B;    </p>
 <hr>
-<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><ol>
+<h1 id="&#x53C2;&#x8003;&#x6587;&#x732E;"><a href="#&#x53C2;&#x8003;&#x6587;&#x732E;" class="headerlink" title="&#x53C2;&#x8003;&#x6587;&#x732E;"></a>&#x53C2;&#x8003;&#x6587;&#x732E;</h1><ol>
 <li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot.* Transport phenomena:Revised second edition* John Wiely &amp;Sons, Inc.    </li>
 </ol>
 ]]></content>
@@ -571,13 +571,13 @@
   <entry>
     <title>The Equation of Continuity</title>
     <url>/2020/01/26/The-Equation-of-Continuity/</url>
-    <content><![CDATA[<h1 id="流体连续性方程"><a href="#流体连续性方程" class="headerlink" title="流体连续性方程"></a>流体连续性方程</h1><p>###$\color{Blue} {The\quad Equation \quad of \quad Continuity} $</p>
-<p>流体连续性方程表达通式<br>$$\dfrac {\partial \rho}{\partial t}+ {\nabla } \cdot \rho \pmb v=0 $$<br>物理意义： 物质进入系统的量等于 物质离开离开系统的量与物质在系统内累积量的加和。</p>
+    <content><![CDATA[<h1 id="&#x6D41;&#x4F53;&#x8FDE;&#x7EED;&#x6027;&#x65B9;&#x7A0B;"><a href="#&#x6D41;&#x4F53;&#x8FDE;&#x7EED;&#x6027;&#x65B9;&#x7A0B;" class="headerlink" title="&#x6D41;&#x4F53;&#x8FDE;&#x7EED;&#x6027;&#x65B9;&#x7A0B;"></a>&#x6D41;&#x4F53;&#x8FDE;&#x7EED;&#x6027;&#x65B9;&#x7A0B;</h1><p>###$\color{Blue} {The\quad Equation \quad of \quad Continuity} $</p>
+<p>&#x6D41;&#x4F53;&#x8FDE;&#x7EED;&#x6027;&#x65B9;&#x7A0B;&#x8868;&#x8FBE;&#x901A;&#x5F0F;<br>$$\dfrac {\partial \rho}{\partial t}+ {\nabla } \cdot \rho \pmb v=0 $$<br>&#x7269;&#x7406;&#x610F;&#x4E49;&#xFF1A; &#x7269;&#x8D28;&#x8FDB;&#x5165;&#x7CFB;&#x7EDF;&#x7684;&#x91CF;&#x7B49;&#x4E8E; &#x7269;&#x8D28;&#x79BB;&#x5F00;&#x79BB;&#x5F00;&#x7CFB;&#x7EDF;&#x7684;&#x91CF;&#x4E0E;&#x7269;&#x8D28;&#x5728;&#x7CFB;&#x7EDF;&#x5185;&#x7D2F;&#x79EF;&#x91CF;&#x7684;&#x52A0;&#x548C;&#x3002;</p>
 <hr>
-<h2 id="1-直角坐标系-x-y-z"><a href="#1-直角坐标系-x-y-z" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h2><table>
+<h2 id="1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z"><a href="#1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z" class="headerlink" title="1.&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)"></a>1.<strong>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)</strong></h2><table>
 <thead>
 <tr>
-<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;Cartesian coordinates ($\textit { x,y,z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -587,11 +587,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="2-圆柱坐标系（-r-theta-z"><a href="#2-圆柱坐标系（-r-theta-z" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h2><p>​     </p>
+<h2 id="2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z"><a href="#2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z" class="headerlink" title="2.&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)"></a>2.<strong>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -601,11 +601,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="3-球坐标系（-r-theta-phi"><a href="#3-球坐标系（-r-theta-phi" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h2><p>​     </p>
+<h2 id="3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi"><a href="#3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi" class="headerlink" title="3.&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)"></a>3.<strong>&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>&#x7403;&#x5750;&#x6807;&#x7CFB;Spherical coordinates&#xFF08;$\textit {r, $\theta$, $\phi$ }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -614,9 +614,9 @@
 <td>3-1</td>
 </tr>
 </tbody></table>
-<p>​    </p>
+<p>&#x200B;    </p>
 <hr>
-<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><ol>
+<h2 id="&#x53C2;&#x8003;&#x6587;&#x732E;"><a href="#&#x53C2;&#x8003;&#x6587;&#x732E;" class="headerlink" title="&#x53C2;&#x8003;&#x6587;&#x732E;"></a>&#x53C2;&#x8003;&#x6587;&#x732E;</h2><ol>
 <li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot.* Transport phenomena:Revised second edition* John Wiely &amp;Sons, Inc.</li>
 </ol>
 ]]></content>
@@ -630,16 +630,16 @@
   <entry>
     <title>Fick&#39;s Law of Binary Diffusion</title>
     <url>/2020/01/26/Fick-s-Law-of-Binary-Diffusion/</url>
-    <content><![CDATA[<h1 id="菲克扩散-第一-定律"><a href="#菲克扩散-第一-定律" class="headerlink" title="菲克扩散(第一)定律"></a>菲克扩散(第一)定律</h1><p><strong>Fick’s (First) Law of Binary Diffussion</strong></p>
-<p><strong>物质扩散通量Diffusion flux表达通式</strong><br>$$\pmb j_A=-\rho \mathscr{D} _{AB} {\nabla } w_A $$<br>在单位时间内物质 A 通过垂直于扩散方向的单位截面积的扩散物质流量，$kg\cdot m^{−2} \cdot s^{−1}$，与该截面处的浓度梯度成正比。</p>
-<p>其中</p>
-<p>$\mathscr{D}_{AB }$ 是物质 A 在物质 B 中的传质系数，$ m^2\cdot s^{-1}$，<br>$ \rho $ 物质的密度， $kg·m^{−3}$,<br>$\nabla w_A$ 是物质 A 的浓度梯度，$kg·m^{−2}$.</p>
-<p>浓度梯度 $w_{Ax}$表达式为<br>$$ w_{Ax}=-\dfrac {d w_A} {dx}$$</p>
+    <content><![CDATA[<h1 id="&#x83F2;&#x514B;&#x6269;&#x6563;-&#x7B2C;&#x4E00;-&#x5B9A;&#x5F8B;"><a href="#&#x83F2;&#x514B;&#x6269;&#x6563;-&#x7B2C;&#x4E00;-&#x5B9A;&#x5F8B;" class="headerlink" title="&#x83F2;&#x514B;&#x6269;&#x6563;(&#x7B2C;&#x4E00;)&#x5B9A;&#x5F8B;"></a>&#x83F2;&#x514B;&#x6269;&#x6563;(&#x7B2C;&#x4E00;)&#x5B9A;&#x5F8B;</h1><p><strong>Fick&#x2019;s (First) Law of Binary Diffussion</strong></p>
+<p><strong>&#x7269;&#x8D28;&#x6269;&#x6563;&#x901A;&#x91CF;Diffusion flux&#x8868;&#x8FBE;&#x901A;&#x5F0F;</strong><br>$$\pmb j_A=-\rho \mathscr{D} _{AB} {\nabla } w_A $$<br>&#x5728;&#x5355;&#x4F4D;&#x65F6;&#x95F4;&#x5185;&#x7269;&#x8D28; A &#x901A;&#x8FC7;&#x5782;&#x76F4;&#x4E8E;&#x6269;&#x6563;&#x65B9;&#x5411;&#x7684;&#x5355;&#x4F4D;&#x622A;&#x9762;&#x79EF;&#x7684;&#x6269;&#x6563;&#x7269;&#x8D28;&#x6D41;&#x91CF;&#xFF0C;$kg\cdot m^{&#x2212;2} \cdot s^{&#x2212;1}$&#xFF0C;&#x4E0E;&#x8BE5;&#x622A;&#x9762;&#x5904;&#x7684;&#x6D53;&#x5EA6;&#x68AF;&#x5EA6;&#x6210;&#x6B63;&#x6BD4;&#x3002;</p>
+<p>&#x5176;&#x4E2D;</p>
+<p>$\mathscr{D}_{AB }$ &#x662F;&#x7269;&#x8D28; A &#x5728;&#x7269;&#x8D28; B &#x4E2D;&#x7684;&#x4F20;&#x8D28;&#x7CFB;&#x6570;&#xFF0C;$ m^2\cdot s^{-1}$&#xFF0C;<br>$ \rho $ &#x7269;&#x8D28;&#x7684;&#x5BC6;&#x5EA6;&#xFF0C; $kg&#xB7;m^{&#x2212;3}$,<br>$\nabla w_A$ &#x662F;&#x7269;&#x8D28; A &#x7684;&#x6D53;&#x5EA6;&#x68AF;&#x5EA6;&#xFF0C;$kg&#xB7;m^{&#x2212;2}$.</p>
+<p>&#x6D53;&#x5EA6;&#x68AF;&#x5EA6; $w_{Ax}$&#x8868;&#x8FBE;&#x5F0F;&#x4E3A;<br>$$ w_{Ax}=-\dfrac {d w_A} {dx}$$</p>
 <hr>
-<h2 id="1-直角坐标系-x-y-z"><a href="#1-直角坐标系-x-y-z" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h2><table>
+<h2 id="1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z"><a href="#1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z" class="headerlink" title="1.&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)"></a>1.<strong>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)</strong></h2><table>
 <thead>
 <tr>
-<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;Cartesian coordinates ($\textit { x,y,z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -657,11 +657,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="2-圆柱坐标系（-r-theta-z"><a href="#2-圆柱坐标系（-r-theta-z" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h2><p>​     </p>
+<h2 id="2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z"><a href="#2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z" class="headerlink" title="2.&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)"></a>2.<strong>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -679,11 +679,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="3-球坐标系（-r-theta-phi"><a href="#3-球坐标系（-r-theta-phi" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h2><p>​     </p>
+<h2 id="3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi"><a href="#3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi" class="headerlink" title="3.&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)"></a>3.<strong>&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>&#x7403;&#x5750;&#x6807;&#x7CFB;Spherical coordinates&#xFF08;$\textit {r, $\theta$, $\phi$ }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -700,9 +700,9 @@
 <td>3-3</td>
 </tr>
 </tbody></table>
-<p>​    </p>
+<p>&#x200B;    </p>
 <hr>
-<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><ol>
+<h2 id="&#x53C2;&#x8003;&#x6587;&#x732E;"><a href="#&#x53C2;&#x8003;&#x6587;&#x732E;" class="headerlink" title="&#x53C2;&#x8003;&#x6587;&#x732E;"></a>&#x53C2;&#x8003;&#x6587;&#x732E;</h2><ol>
 <li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot.* Transport phenomena:Revised second edition* John Wiely &amp;Sons, Inc.</li>
 </ol>
 ]]></content>
@@ -716,15 +716,15 @@
   <entry>
     <title>Fourier&#39;s Law of Heat Conduction</title>
     <url>/2020/01/26/Fourier-s-Law-of-Heat-Conduction/</url>
-    <content><![CDATA[<h1 id="傅里叶热传导定律"><a href="#傅里叶热传导定律" class="headerlink" title="傅里叶热传导定律"></a>傅里叶热传导定律</h1><p><strong>Fourier’s Law of Heat Conduction</strong><br>热通量Heat Flux 表达式<br>$$\pmb q=-k{\nabla }T$$</p>
-<p>其中</p>
-<p>$ \pmb q $ 是单位面积上的热通量， $W·m^{−2}$,<br>$k$ 是材料的热传导系数， $W·m^{−1}·K^{−1}$,<br>$\nabla T$ 是温度梯度，$K·m^{−1}$.</p>
-<p>$q_x$物理的意义：在<em>x</em>方向上单位面积的热通量，可以表达为<br>$$q_x=-k \dfrac {d T}{dx}$$<br>其中<br>$k$是材料的热传导系数， $W·m^{−1}·K^{−1}$,<br>$ T$是物体的温度,  $K$<br>$ x $是长度,  $m$</p>
+    <content><![CDATA[<h1 id="&#x5085;&#x91CC;&#x53F6;&#x70ED;&#x4F20;&#x5BFC;&#x5B9A;&#x5F8B;"><a href="#&#x5085;&#x91CC;&#x53F6;&#x70ED;&#x4F20;&#x5BFC;&#x5B9A;&#x5F8B;" class="headerlink" title="&#x5085;&#x91CC;&#x53F6;&#x70ED;&#x4F20;&#x5BFC;&#x5B9A;&#x5F8B;"></a>&#x5085;&#x91CC;&#x53F6;&#x70ED;&#x4F20;&#x5BFC;&#x5B9A;&#x5F8B;</h1><p><strong>Fourier&#x2019;s Law of Heat Conduction</strong><br>&#x70ED;&#x901A;&#x91CF;Heat Flux &#x8868;&#x8FBE;&#x5F0F;<br>$$\pmb q=-k{\nabla }T$$</p>
+<p>&#x5176;&#x4E2D;</p>
+<p>$ \pmb q $ &#x662F;&#x5355;&#x4F4D;&#x9762;&#x79EF;&#x4E0A;&#x7684;&#x70ED;&#x901A;&#x91CF;&#xFF0C; $W&#xB7;m^{&#x2212;2}$,<br>$k$ &#x662F;&#x6750;&#x6599;&#x7684;&#x70ED;&#x4F20;&#x5BFC;&#x7CFB;&#x6570;&#xFF0C; $W&#xB7;m^{&#x2212;1}&#xB7;K^{&#x2212;1}$,<br>$\nabla T$ &#x662F;&#x6E29;&#x5EA6;&#x68AF;&#x5EA6;&#xFF0C;$K&#xB7;m^{&#x2212;1}$.</p>
+<p>$q_x$&#x7269;&#x7406;&#x7684;&#x610F;&#x4E49;&#xFF1A;&#x5728;<em>x</em>&#x65B9;&#x5411;&#x4E0A;&#x5355;&#x4F4D;&#x9762;&#x79EF;&#x7684;&#x70ED;&#x901A;&#x91CF;&#xFF0C;&#x53EF;&#x4EE5;&#x8868;&#x8FBE;&#x4E3A;<br>$$q_x=-k \dfrac {d T}{dx}$$<br>&#x5176;&#x4E2D;<br>$k$&#x662F;&#x6750;&#x6599;&#x7684;&#x70ED;&#x4F20;&#x5BFC;&#x7CFB;&#x6570;&#xFF0C; $W&#xB7;m^{&#x2212;1}&#xB7;K^{&#x2212;1}$,<br>$ T$&#x662F;&#x7269;&#x4F53;&#x7684;&#x6E29;&#x5EA6;,  $K$<br>$ x $&#x662F;&#x957F;&#x5EA6;,  $m$</p>
 <hr>
-<h2 id="1-直角坐标系-x-y-z"><a href="#1-直角坐标系-x-y-z" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h2><table>
+<h2 id="1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z"><a href="#1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z" class="headerlink" title="1.&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)"></a>1.<strong>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)</strong></h2><table>
 <thead>
 <tr>
-<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;Cartesian coordinates ($\textit { x,y,z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -742,11 +742,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="2-圆柱坐标系（-r-theta-z"><a href="#2-圆柱坐标系（-r-theta-z" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h2><p>​     </p>
+<h2 id="2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z"><a href="#2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z" class="headerlink" title="2.&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)"></a>2.<strong>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -764,11 +764,11 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="3-球坐标系（-r-theta-phi"><a href="#3-球坐标系（-r-theta-phi" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h2><p>​     </p>
+<h2 id="3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi"><a href="#3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi" class="headerlink" title="3.&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)"></a>3.<strong>&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>&#x7403;&#x5750;&#x6807;&#x7CFB;Spherical coordinates&#xFF08;$\textit {r, $\theta$, $\phi$ }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -785,9 +785,9 @@
 <td>3-3</td>
 </tr>
 </tbody></table>
-<p>​    </p>
+<p>&#x200B;    </p>
 <hr>
-<p>####参考文献</p>
+<p>####&#x53C2;&#x8003;&#x6587;&#x732E;</p>
 <ol>
 <li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot.* Transport phenomena:Revised second edition* John Wiely &amp;Sons, Inc.</li>
 </ol>
@@ -802,14 +802,14 @@
   <entry>
     <title>Newton&#39;s Law of Viscosity</title>
     <url>/2020/01/26/Newton-s-Law-of-Viscosity/</url>
-    <content><![CDATA[<h1 id="牛顿黏度定律"><a href="#牛顿黏度定律" class="headerlink" title="牛顿黏度定律"></a>牛顿黏度定律</h1><h2 id="Newton’s-Law-of-Viscosity"><a href="#Newton’s-Law-of-Viscosity" class="headerlink" title="Newton’s Law of Viscosity"></a>Newton’s Law of Viscosity</h2><p>先定义矢量$\pmb{\tau }$</p>
+    <content><![CDATA[<h1 id="&#x725B;&#x987F;&#x9ECF;&#x5EA6;&#x5B9A;&#x5F8B;"><a href="#&#x725B;&#x987F;&#x9ECF;&#x5EA6;&#x5B9A;&#x5F8B;" class="headerlink" title="&#x725B;&#x987F;&#x9ECF;&#x5EA6;&#x5B9A;&#x5F8B;"></a>&#x725B;&#x987F;&#x9ECF;&#x5EA6;&#x5B9A;&#x5F8B;</h1><h2 id="Newton&#x2019;s-Law-of-Viscosity"><a href="#Newton&#x2019;s-Law-of-Viscosity" class="headerlink" title="Newton&#x2019;s Law of Viscosity"></a>Newton&#x2019;s Law of Viscosity</h2><p>&#x5148;&#x5B9A;&#x4E49;&#x77E2;&#x91CF;$\pmb{\tau }$</p>
 <p>$$ \pmb \tau=-\mu(\nabla \pmb v+(\nabla \pmb v)^{\dagger} )  +(\frac{2}{3}\mu-\kappa)(\nabla\cdot \pmb v)\delta$$</p>
-<p>$\tau_{yx}$物理的意义：在垂直于<em>y</em>方向的单位面积的面上所受到<em>x</em>方向上的力，可以表达为<br>$$\tau_{yx}=-\mu \frac {d v_x}{dy}$$<br>其中<br>$\tau$是流体所受的剪应力$[Pa]$<br>$ \mu $是流体的黏度 $[Pa·s]$<br>$ \frac  {dv_x}{dy} $是$x$方向上速度的分量在$y$方向上的梯度$ [s^{−1}]$</p>
+<p>$\tau_{yx}$&#x7269;&#x7406;&#x7684;&#x610F;&#x4E49;&#xFF1A;&#x5728;&#x5782;&#x76F4;&#x4E8E;<em>y</em>&#x65B9;&#x5411;&#x7684;&#x5355;&#x4F4D;&#x9762;&#x79EF;&#x7684;&#x9762;&#x4E0A;&#x6240;&#x53D7;&#x5230;<em>x</em>&#x65B9;&#x5411;&#x4E0A;&#x7684;&#x529B;&#xFF0C;&#x53EF;&#x4EE5;&#x8868;&#x8FBE;&#x4E3A;<br>$$\tau_{yx}=-\mu \frac {d v_x}{dy}$$<br>&#x5176;&#x4E2D;<br>$\tau$&#x662F;&#x6D41;&#x4F53;&#x6240;&#x53D7;&#x7684;&#x526A;&#x5E94;&#x529B;$[Pa]$<br>$ \mu $&#x662F;&#x6D41;&#x4F53;&#x7684;&#x9ECF;&#x5EA6; $[Pa&#xB7;s]$<br>$ \frac  {dv_x}{dy} $&#x662F;$x$&#x65B9;&#x5411;&#x4E0A;&#x901F;&#x5EA6;&#x7684;&#x5206;&#x91CF;&#x5728;$y$&#x65B9;&#x5411;&#x4E0A;&#x7684;&#x68AF;&#x5EA6;$ [s^{&#x2212;1}]$</p>
 <hr>
-<h2 id="1-直角坐标系-x-y-z"><a href="#1-直角坐标系-x-y-z" class="headerlink" title="1.直角坐标系($ x, y, z $)"></a>1.<strong>直角坐标系($ x, y, z $)</strong></h2><table>
+<h2 id="1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z"><a href="#1-&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;-x-y-z" class="headerlink" title="1.&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)"></a>1.<strong>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;($ x, y, z $)</strong></h2><table>
 <thead>
 <tr>
-<th>直角坐标系Cartesian coordinates ($\textit { x,y,z }$):</th>
+<th>&#x76F4;&#x89D2;&#x5750;&#x6807;&#x7CFB;Cartesian coordinates ($\textit { x,y,z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -838,13 +838,13 @@
 <td>1-6</td>
 </tr>
 </tbody></table>
-<p>其中<br>$$\nabla \cdot \pmb v=\frac {\partial v_x}{\partial x} + \frac {\partial v_y}{\partial y}+ \frac {\partial v_z}{\partial z}$$  </p>
+<p>&#x5176;&#x4E2D;<br>$$\nabla \cdot \pmb v=\frac {\partial v_x}{\partial x} + \frac {\partial v_y}{\partial y}+ \frac {\partial v_z}{\partial z}$$  </p>
 <hr>
-<h2 id="2-圆柱坐标系（-r-theta-z"><a href="#2-圆柱坐标系（-r-theta-z" class="headerlink" title="2.圆柱坐标系（$r,\theta, z$)"></a>2.<strong>圆柱坐标系（$r,\theta, z$)</strong></h2><p>​     </p>
+<h2 id="2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z"><a href="#2-&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-z" class="headerlink" title="2.&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)"></a>2.<strong>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r,\theta, z$)</strong></h2><p>&#x200B;     </p>
 <table>
 <thead>
 <tr>
-<th>圆柱坐标系Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
+<th>&#x5706;&#x67F1;&#x5750;&#x6807;&#x7CFB;Cylindrical coordinates coordinates ($\textit {r, $\theta$, z }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -873,7 +873,7 @@
 <td>2-6</td>
 </tr>
 <tr>
-<td>其中</td>
+<td>&#x5176;&#x4E2D;</td>
 <td></td>
 </tr>
 <tr>
@@ -882,10 +882,10 @@
 </tr>
 </tbody></table>
 <hr>
-<h2 id="3-球坐标系（-r-theta-phi"><a href="#3-球坐标系（-r-theta-phi" class="headerlink" title="3.球坐标系（$r, \theta, \phi $)"></a>3.<strong>球坐标系（$r, \theta, \phi $)</strong></h2><table>
+<h2 id="3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi"><a href="#3-&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;-r-theta-phi" class="headerlink" title="3.&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)"></a>3.<strong>&#x7403;&#x5750;&#x6807;&#x7CFB;&#xFF08;$r, \theta, \phi $)</strong></h2><table>
 <thead>
 <tr>
-<th>球坐标系Spherical coordinates（$\textit {r, $\theta$, $\phi$ }$):</th>
+<th>&#x7403;&#x5750;&#x6807;&#x7CFB;Spherical coordinates&#xFF08;$\textit {r, $\theta$, $\phi$ }$):</th>
 <th>NO.</th>
 </tr>
 </thead>
@@ -914,7 +914,7 @@
 <td>3-6</td>
 </tr>
 <tr>
-<td>其中</td>
+<td>&#x5176;&#x4E2D;</td>
 <td></td>
 </tr>
 <tr>
@@ -922,9 +922,9 @@
 <td></td>
 </tr>
 </tbody></table>
-<p>​    </p>
+<p>&#x200B;    </p>
 <hr>
-<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><ol>
+<h2 id="&#x53C2;&#x8003;&#x6587;&#x732E;"><a href="#&#x53C2;&#x8003;&#x6587;&#x732E;" class="headerlink" title="&#x53C2;&#x8003;&#x6587;&#x732E;"></a>&#x53C2;&#x8003;&#x6587;&#x732E;</h2><ol>
 <li>R. Byron Bird, Warren E. stewart, Edwin N. Lightfoot. Transport phenomena:Revised second edition John Wiely &amp;Sons, Inc.</li>
 </ol>
 ]]></content>
@@ -938,13 +938,13 @@
   <entry>
     <title>科学与民主</title>
     <url>/2020/01/26/kexue-yu-minzhu/</url>
-    <content><![CDATA[<h1 id="科学与民主"><a href="#科学与民主" class="headerlink" title="科学与民主"></a>科学与民主</h1><p>曾经一段时间在思考科学与民主的关系。Science and democracy。正好在机场书店随便翻阅了科学部分，然后然后看到了《极简科学起源课》的一个章节 <em>科学与民主</em>，遂拍了下来，逐字打出来，读之。</p>
-<h2 id="古希腊的城邦制"><a href="#古希腊的城邦制" class="headerlink" title="古希腊的城邦制"></a>古希腊的城邦制</h2><p>在希腊的黑暗时代结束之际，一种非常独特的问题名出现在世界面前。这种文明和它之前的迈锡尼威宁截然不同。恢宏的宫殿消失了，被视为半身的君主也消失了。在政治和文化都得到重生的希腊，在也灭有中央集权，没有强大的教会，没有权威的神职团体，也没有所谓的圣书。<br>人们第一次提到希腊城邦，他就像一个自治实体，能够独立做出决定。这些决定都是由所有市民通过自由讨论和直接参与做出来的。<br>希腊承办的政治结构各不相同，而且极其复杂：君主制度、贵族政治、僭主政治、民主政治。政党之间相互竞争，还有各种法典，比如梭伦法典和修订后的梭伦法典。总之，人们嫩对政治管理不断提出质疑。在希腊城邦中，市民阶层的数量众多，其中很大一部分人已经掌握了阅读和书写的技能，他们讨论建立政治结构的方式，对重大事件做出最理想的决定。<br>公共生活已经从君主和神明那里来到市民手中，伴随着公共生活的非神圣化和世俗化，只是也进入了一个非神圣化和世俗化的阶段。阿那克西曼德用来理解宇宙的规律与城邦市民为了合理自治而寻找的规律，这二者的道理是相通的，他们在也不是神定下的规律—并非一旦决定就不能更改，而是被不断讨论的规律。<br>从古巴比伦的《埃努玛*埃利什》到赫西俄德的《神谱》，其中体现出的古老宇宙观都是由原始神话构成的，宇宙秩序有一个伟大神来制定，比如马尔杜克和宙斯。在经历了很长一段时间的混乱和斗争之后，这位神明获得了最后的胜利，制定了一套总的秩序，这既是宇宙秩序，也是社会和道德秩序。赫西俄德的《神谱》就是一首歌颂万物的创造者和管理者-宙斯的赞歌。这种制醋的产生和发展都是围绕着神和君权进行的，这是文明发展最初的保证和推动力。<br>当希腊城邦的市民们驱逐君主时，当他们发现一个高度文明的集体不需要一个代表神的君主时，当他们发现没有君主城邦仍然可以繁荣发展史，他们对世界秩序的理解就从对创世神和命令者的臣服种解放出来，也因此开辟了理解世界、治理世界的新道路。<br>进阿里民主的政治结构意味着接受如下观点：第一、最正确的决定一定是通过所有人的讨论得出的，而非来自一个人的权威；第二，对各种提议展开公共批评才能够提炼出其中最好的一种；第三，人们们可以提出论据，最后得出一个共同的结论。这些观点同时也是知识科学研究的基本原理。</p>
-<h2 id="科学诞生的文化基础也是民主诞生的基础"><a href="#科学诞生的文化基础也是民主诞生的基础" class="headerlink" title="科学诞生的文化基础也是民主诞生的基础"></a>科学诞生的文化基础也是民主诞生的基础</h2><p>科学诞生的文化基础也是民主诞生的基础，同行之间进行互相批评和讨论会带来更好的效果。阿那克西曼德就曾公开批判他的老师泰勒斯，这种做法知识将来米力度公共广场上经常发生的事情应用到了知识领域。不要用一种顶礼膜拜的方式来赞颂神明、半神、领主，而要批评权威的观点，这并不是不尊敬的表现，而是一种为众人接受的观点：更好的提议永远存在。<br>希腊人在荷马的诗中找到了他们的文化身份，这些诗歌颂了他们过去的辉煌。探视作为描写对象，荷马笔下的诸神不是特别可信，也不是非常威严。因此，有评论说再不会有比《伊利亚特》更加弱化宗教的诗了。在这样一个没有中心、没有强神的世界，通向另一种思想的门户被打开了。</p>
-<p>新的社会和政治结构与科学思想诞生之间的关系已经很清晰了。二者的共同点也一目了然：世俗化。规律、前人的观点不一定是最好的。最正确的决定来自讨论，而不是君主的权威，更不会产生于对传统的定理膜拜中。对某项提议进行公共批评能够去其糟粕。人们可以提出论据，最后得出一个共同的结论。</p>
-<p>从某种意义上来说，这正是对科学方法的大发现。有人提出一个观点、一种解释，接下俩，人们认真看待、思考和批评这个观点，修正之后提出另一个新的观点，再将其与前一种观点进行比较。出人意料的是这些过程都会朝着一个方向发展。因此，一群人总是会达成一个共同的信念，或是绝大数人都认可的信念。这就是一个有效且共同的决定。</p>
-<h2 id="知识领域的大发现为批评提供自由的空间"><a href="#知识领域的大发现为批评提供自由的空间" class="headerlink" title="知识领域的大发现为批评提供自由的空间"></a>知识领域的大发现为批评提供自由的空间</h2><p>知识领域的大发现则是为批评提供自由的空间，允许质疑，让每一个人都能发表自己的观点，认真对待每一个提议。这并不是没有价值的不和谐，相反，批评能让我们排除不正确的假设，从而得出更好的观点。<br>但是这一切并未延续下来。几个世纪之后，罗马帝国又让权力集中到一个人手中，基督教又将知识送回了神的手中。君权和教权的结合形成了神权政治。</p>
-<p>人们曾经在几个世纪的时间里摆脱过神权政治。在阿那克西曼德所处的时代，米利都都是独立的，之和其他几个爱奥尼亚城邦结成了联盟。这个联盟不会介入某个城邦对其他城邦的管理中，但是会划定一个公共区域，在涉及利益或需要做出决定时，就会在此讨论。爱奥尼亚联盟的成员举行的集会可能就是世界历史上最早的“议会”之一，很有可能他就是最早的“议会”，当一群人用议会代替宫廷的时候，他们观察周围的世界，从宗教神秘思想的黑暗中解放出来，开始理解我们生活的世界如何运转。地球不是一个巨大的圆盘，而是一个悬浮在空间中的石子。</p>
+    <content><![CDATA[<h1 id="&#x79D1;&#x5B66;&#x4E0E;&#x6C11;&#x4E3B;"><a href="#&#x79D1;&#x5B66;&#x4E0E;&#x6C11;&#x4E3B;" class="headerlink" title="&#x79D1;&#x5B66;&#x4E0E;&#x6C11;&#x4E3B;"></a>&#x79D1;&#x5B66;&#x4E0E;&#x6C11;&#x4E3B;</h1><p>&#x66FE;&#x7ECF;&#x4E00;&#x6BB5;&#x65F6;&#x95F4;&#x5728;&#x601D;&#x8003;&#x79D1;&#x5B66;&#x4E0E;&#x6C11;&#x4E3B;&#x7684;&#x5173;&#x7CFB;&#x3002;Science and democracy&#x3002;&#x6B63;&#x597D;&#x5728;&#x673A;&#x573A;&#x4E66;&#x5E97;&#x968F;&#x4FBF;&#x7FFB;&#x9605;&#x4E86;&#x79D1;&#x5B66;&#x90E8;&#x5206;&#xFF0C;&#x7136;&#x540E;&#x7136;&#x540E;&#x770B;&#x5230;&#x4E86;&#x300A;&#x6781;&#x7B80;&#x79D1;&#x5B66;&#x8D77;&#x6E90;&#x8BFE;&#x300B;&#x7684;&#x4E00;&#x4E2A;&#x7AE0;&#x8282; <em>&#x79D1;&#x5B66;&#x4E0E;&#x6C11;&#x4E3B;</em>&#xFF0C;&#x9042;&#x62CD;&#x4E86;&#x4E0B;&#x6765;&#xFF0C;&#x9010;&#x5B57;&#x6253;&#x51FA;&#x6765;&#xFF0C;&#x8BFB;&#x4E4B;&#x3002;</p>
+<h2 id="&#x53E4;&#x5E0C;&#x814A;&#x7684;&#x57CE;&#x90A6;&#x5236;"><a href="#&#x53E4;&#x5E0C;&#x814A;&#x7684;&#x57CE;&#x90A6;&#x5236;" class="headerlink" title="&#x53E4;&#x5E0C;&#x814A;&#x7684;&#x57CE;&#x90A6;&#x5236;"></a>&#x53E4;&#x5E0C;&#x814A;&#x7684;&#x57CE;&#x90A6;&#x5236;</h2><p>&#x5728;&#x5E0C;&#x814A;&#x7684;&#x9ED1;&#x6697;&#x65F6;&#x4EE3;&#x7ED3;&#x675F;&#x4E4B;&#x9645;&#xFF0C;&#x4E00;&#x79CD;&#x975E;&#x5E38;&#x72EC;&#x7279;&#x7684;&#x95EE;&#x9898;&#x540D;&#x51FA;&#x73B0;&#x5728;&#x4E16;&#x754C;&#x9762;&#x524D;&#x3002;&#x8FD9;&#x79CD;&#x6587;&#x660E;&#x548C;&#x5B83;&#x4E4B;&#x524D;&#x7684;&#x8FC8;&#x9521;&#x5C3C;&#x5A01;&#x5B81;&#x622A;&#x7136;&#x4E0D;&#x540C;&#x3002;&#x6062;&#x5B8F;&#x7684;&#x5BAB;&#x6BBF;&#x6D88;&#x5931;&#x4E86;&#xFF0C;&#x88AB;&#x89C6;&#x4E3A;&#x534A;&#x8EAB;&#x7684;&#x541B;&#x4E3B;&#x4E5F;&#x6D88;&#x5931;&#x4E86;&#x3002;&#x5728;&#x653F;&#x6CBB;&#x548C;&#x6587;&#x5316;&#x90FD;&#x5F97;&#x5230;&#x91CD;&#x751F;&#x7684;&#x5E0C;&#x814A;&#xFF0C;&#x5728;&#x4E5F;&#x706D;&#x6709;&#x4E2D;&#x592E;&#x96C6;&#x6743;&#xFF0C;&#x6CA1;&#x6709;&#x5F3A;&#x5927;&#x7684;&#x6559;&#x4F1A;&#xFF0C;&#x6CA1;&#x6709;&#x6743;&#x5A01;&#x7684;&#x795E;&#x804C;&#x56E2;&#x4F53;&#xFF0C;&#x4E5F;&#x6CA1;&#x6709;&#x6240;&#x8C13;&#x7684;&#x5723;&#x4E66;&#x3002;<br>&#x4EBA;&#x4EEC;&#x7B2C;&#x4E00;&#x6B21;&#x63D0;&#x5230;&#x5E0C;&#x814A;&#x57CE;&#x90A6;&#xFF0C;&#x4ED6;&#x5C31;&#x50CF;&#x4E00;&#x4E2A;&#x81EA;&#x6CBB;&#x5B9E;&#x4F53;&#xFF0C;&#x80FD;&#x591F;&#x72EC;&#x7ACB;&#x505A;&#x51FA;&#x51B3;&#x5B9A;&#x3002;&#x8FD9;&#x4E9B;&#x51B3;&#x5B9A;&#x90FD;&#x662F;&#x7531;&#x6240;&#x6709;&#x5E02;&#x6C11;&#x901A;&#x8FC7;&#x81EA;&#x7531;&#x8BA8;&#x8BBA;&#x548C;&#x76F4;&#x63A5;&#x53C2;&#x4E0E;&#x505A;&#x51FA;&#x6765;&#x7684;&#x3002;<br>&#x5E0C;&#x814A;&#x627F;&#x529E;&#x7684;&#x653F;&#x6CBB;&#x7ED3;&#x6784;&#x5404;&#x4E0D;&#x76F8;&#x540C;&#xFF0C;&#x800C;&#x4E14;&#x6781;&#x5176;&#x590D;&#x6742;&#xFF1A;&#x541B;&#x4E3B;&#x5236;&#x5EA6;&#x3001;&#x8D35;&#x65CF;&#x653F;&#x6CBB;&#x3001;&#x50ED;&#x4E3B;&#x653F;&#x6CBB;&#x3001;&#x6C11;&#x4E3B;&#x653F;&#x6CBB;&#x3002;&#x653F;&#x515A;&#x4E4B;&#x95F4;&#x76F8;&#x4E92;&#x7ADE;&#x4E89;&#xFF0C;&#x8FD8;&#x6709;&#x5404;&#x79CD;&#x6CD5;&#x5178;&#xFF0C;&#x6BD4;&#x5982;&#x68AD;&#x4F26;&#x6CD5;&#x5178;&#x548C;&#x4FEE;&#x8BA2;&#x540E;&#x7684;&#x68AD;&#x4F26;&#x6CD5;&#x5178;&#x3002;&#x603B;&#x4E4B;&#xFF0C;&#x4EBA;&#x4EEC;&#x5AE9;&#x5BF9;&#x653F;&#x6CBB;&#x7BA1;&#x7406;&#x4E0D;&#x65AD;&#x63D0;&#x51FA;&#x8D28;&#x7591;&#x3002;&#x5728;&#x5E0C;&#x814A;&#x57CE;&#x90A6;&#x4E2D;&#xFF0C;&#x5E02;&#x6C11;&#x9636;&#x5C42;&#x7684;&#x6570;&#x91CF;&#x4F17;&#x591A;&#xFF0C;&#x5176;&#x4E2D;&#x5F88;&#x5927;&#x4E00;&#x90E8;&#x5206;&#x4EBA;&#x5DF2;&#x7ECF;&#x638C;&#x63E1;&#x4E86;&#x9605;&#x8BFB;&#x548C;&#x4E66;&#x5199;&#x7684;&#x6280;&#x80FD;&#xFF0C;&#x4ED6;&#x4EEC;&#x8BA8;&#x8BBA;&#x5EFA;&#x7ACB;&#x653F;&#x6CBB;&#x7ED3;&#x6784;&#x7684;&#x65B9;&#x5F0F;&#xFF0C;&#x5BF9;&#x91CD;&#x5927;&#x4E8B;&#x4EF6;&#x505A;&#x51FA;&#x6700;&#x7406;&#x60F3;&#x7684;&#x51B3;&#x5B9A;&#x3002;<br>&#x516C;&#x5171;&#x751F;&#x6D3B;&#x5DF2;&#x7ECF;&#x4ECE;&#x541B;&#x4E3B;&#x548C;&#x795E;&#x660E;&#x90A3;&#x91CC;&#x6765;&#x5230;&#x5E02;&#x6C11;&#x624B;&#x4E2D;&#xFF0C;&#x4F34;&#x968F;&#x7740;&#x516C;&#x5171;&#x751F;&#x6D3B;&#x7684;&#x975E;&#x795E;&#x5723;&#x5316;&#x548C;&#x4E16;&#x4FD7;&#x5316;&#xFF0C;&#x53EA;&#x662F;&#x4E5F;&#x8FDB;&#x5165;&#x4E86;&#x4E00;&#x4E2A;&#x975E;&#x795E;&#x5723;&#x5316;&#x548C;&#x4E16;&#x4FD7;&#x5316;&#x7684;&#x9636;&#x6BB5;&#x3002;&#x963F;&#x90A3;&#x514B;&#x897F;&#x66FC;&#x5FB7;&#x7528;&#x6765;&#x7406;&#x89E3;&#x5B87;&#x5B99;&#x7684;&#x89C4;&#x5F8B;&#x4E0E;&#x57CE;&#x90A6;&#x5E02;&#x6C11;&#x4E3A;&#x4E86;&#x5408;&#x7406;&#x81EA;&#x6CBB;&#x800C;&#x5BFB;&#x627E;&#x7684;&#x89C4;&#x5F8B;&#xFF0C;&#x8FD9;&#x4E8C;&#x8005;&#x7684;&#x9053;&#x7406;&#x662F;&#x76F8;&#x901A;&#x7684;&#xFF0C;&#x4ED6;&#x4EEC;&#x5728;&#x4E5F;&#x4E0D;&#x662F;&#x795E;&#x5B9A;&#x4E0B;&#x7684;&#x89C4;&#x5F8B;&#x2014;&#x5E76;&#x975E;&#x4E00;&#x65E6;&#x51B3;&#x5B9A;&#x5C31;&#x4E0D;&#x80FD;&#x66F4;&#x6539;&#xFF0C;&#x800C;&#x662F;&#x88AB;&#x4E0D;&#x65AD;&#x8BA8;&#x8BBA;&#x7684;&#x89C4;&#x5F8B;&#x3002;<br>&#x4ECE;&#x53E4;&#x5DF4;&#x6BD4;&#x4F26;&#x7684;&#x300A;&#x57C3;&#x52AA;&#x739B;*&#x57C3;&#x5229;&#x4EC0;&#x300B;&#x5230;&#x8D6B;&#x897F;&#x4FC4;&#x5FB7;&#x7684;&#x300A;&#x795E;&#x8C31;&#x300B;&#xFF0C;&#x5176;&#x4E2D;&#x4F53;&#x73B0;&#x51FA;&#x7684;&#x53E4;&#x8001;&#x5B87;&#x5B99;&#x89C2;&#x90FD;&#x662F;&#x7531;&#x539F;&#x59CB;&#x795E;&#x8BDD;&#x6784;&#x6210;&#x7684;&#xFF0C;&#x5B87;&#x5B99;&#x79E9;&#x5E8F;&#x6709;&#x4E00;&#x4E2A;&#x4F1F;&#x5927;&#x795E;&#x6765;&#x5236;&#x5B9A;&#xFF0C;&#x6BD4;&#x5982;&#x9A6C;&#x5C14;&#x675C;&#x514B;&#x548C;&#x5B99;&#x65AF;&#x3002;&#x5728;&#x7ECF;&#x5386;&#x4E86;&#x5F88;&#x957F;&#x4E00;&#x6BB5;&#x65F6;&#x95F4;&#x7684;&#x6DF7;&#x4E71;&#x548C;&#x6597;&#x4E89;&#x4E4B;&#x540E;&#xFF0C;&#x8FD9;&#x4F4D;&#x795E;&#x660E;&#x83B7;&#x5F97;&#x4E86;&#x6700;&#x540E;&#x7684;&#x80DC;&#x5229;&#xFF0C;&#x5236;&#x5B9A;&#x4E86;&#x4E00;&#x5957;&#x603B;&#x7684;&#x79E9;&#x5E8F;&#xFF0C;&#x8FD9;&#x65E2;&#x662F;&#x5B87;&#x5B99;&#x79E9;&#x5E8F;&#xFF0C;&#x4E5F;&#x662F;&#x793E;&#x4F1A;&#x548C;&#x9053;&#x5FB7;&#x79E9;&#x5E8F;&#x3002;&#x8D6B;&#x897F;&#x4FC4;&#x5FB7;&#x7684;&#x300A;&#x795E;&#x8C31;&#x300B;&#x5C31;&#x662F;&#x4E00;&#x9996;&#x6B4C;&#x9882;&#x4E07;&#x7269;&#x7684;&#x521B;&#x9020;&#x8005;&#x548C;&#x7BA1;&#x7406;&#x8005;-&#x5B99;&#x65AF;&#x7684;&#x8D5E;&#x6B4C;&#x3002;&#x8FD9;&#x79CD;&#x5236;&#x918B;&#x7684;&#x4EA7;&#x751F;&#x548C;&#x53D1;&#x5C55;&#x90FD;&#x662F;&#x56F4;&#x7ED5;&#x7740;&#x795E;&#x548C;&#x541B;&#x6743;&#x8FDB;&#x884C;&#x7684;&#xFF0C;&#x8FD9;&#x662F;&#x6587;&#x660E;&#x53D1;&#x5C55;&#x6700;&#x521D;&#x7684;&#x4FDD;&#x8BC1;&#x548C;&#x63A8;&#x52A8;&#x529B;&#x3002;<br>&#x5F53;&#x5E0C;&#x814A;&#x57CE;&#x90A6;&#x7684;&#x5E02;&#x6C11;&#x4EEC;&#x9A71;&#x9010;&#x541B;&#x4E3B;&#x65F6;&#xFF0C;&#x5F53;&#x4ED6;&#x4EEC;&#x53D1;&#x73B0;&#x4E00;&#x4E2A;&#x9AD8;&#x5EA6;&#x6587;&#x660E;&#x7684;&#x96C6;&#x4F53;&#x4E0D;&#x9700;&#x8981;&#x4E00;&#x4E2A;&#x4EE3;&#x8868;&#x795E;&#x7684;&#x541B;&#x4E3B;&#x65F6;&#xFF0C;&#x5F53;&#x4ED6;&#x4EEC;&#x53D1;&#x73B0;&#x6CA1;&#x6709;&#x541B;&#x4E3B;&#x57CE;&#x90A6;&#x4ECD;&#x7136;&#x53EF;&#x4EE5;&#x7E41;&#x8363;&#x53D1;&#x5C55;&#x53F2;&#xFF0C;&#x4ED6;&#x4EEC;&#x5BF9;&#x4E16;&#x754C;&#x79E9;&#x5E8F;&#x7684;&#x7406;&#x89E3;&#x5C31;&#x4ECE;&#x5BF9;&#x521B;&#x4E16;&#x795E;&#x548C;&#x547D;&#x4EE4;&#x8005;&#x7684;&#x81E3;&#x670D;&#x79CD;&#x89E3;&#x653E;&#x51FA;&#x6765;&#xFF0C;&#x4E5F;&#x56E0;&#x6B64;&#x5F00;&#x8F9F;&#x4E86;&#x7406;&#x89E3;&#x4E16;&#x754C;&#x3001;&#x6CBB;&#x7406;&#x4E16;&#x754C;&#x7684;&#x65B0;&#x9053;&#x8DEF;&#x3002;<br>&#x8FDB;&#x963F;&#x91CC;&#x6C11;&#x4E3B;&#x7684;&#x653F;&#x6CBB;&#x7ED3;&#x6784;&#x610F;&#x5473;&#x7740;&#x63A5;&#x53D7;&#x5982;&#x4E0B;&#x89C2;&#x70B9;&#xFF1A;&#x7B2C;&#x4E00;&#x3001;&#x6700;&#x6B63;&#x786E;&#x7684;&#x51B3;&#x5B9A;&#x4E00;&#x5B9A;&#x662F;&#x901A;&#x8FC7;&#x6240;&#x6709;&#x4EBA;&#x7684;&#x8BA8;&#x8BBA;&#x5F97;&#x51FA;&#x7684;&#xFF0C;&#x800C;&#x975E;&#x6765;&#x81EA;&#x4E00;&#x4E2A;&#x4EBA;&#x7684;&#x6743;&#x5A01;&#xFF1B;&#x7B2C;&#x4E8C;&#xFF0C;&#x5BF9;&#x5404;&#x79CD;&#x63D0;&#x8BAE;&#x5C55;&#x5F00;&#x516C;&#x5171;&#x6279;&#x8BC4;&#x624D;&#x80FD;&#x591F;&#x63D0;&#x70BC;&#x51FA;&#x5176;&#x4E2D;&#x6700;&#x597D;&#x7684;&#x4E00;&#x79CD;&#xFF1B;&#x7B2C;&#x4E09;&#xFF0C;&#x4EBA;&#x4EEC;&#x4EEC;&#x53EF;&#x4EE5;&#x63D0;&#x51FA;&#x8BBA;&#x636E;&#xFF0C;&#x6700;&#x540E;&#x5F97;&#x51FA;&#x4E00;&#x4E2A;&#x5171;&#x540C;&#x7684;&#x7ED3;&#x8BBA;&#x3002;&#x8FD9;&#x4E9B;&#x89C2;&#x70B9;&#x540C;&#x65F6;&#x4E5F;&#x662F;&#x77E5;&#x8BC6;&#x79D1;&#x5B66;&#x7814;&#x7A76;&#x7684;&#x57FA;&#x672C;&#x539F;&#x7406;&#x3002;</p>
+<h2 id="&#x79D1;&#x5B66;&#x8BDE;&#x751F;&#x7684;&#x6587;&#x5316;&#x57FA;&#x7840;&#x4E5F;&#x662F;&#x6C11;&#x4E3B;&#x8BDE;&#x751F;&#x7684;&#x57FA;&#x7840;"><a href="#&#x79D1;&#x5B66;&#x8BDE;&#x751F;&#x7684;&#x6587;&#x5316;&#x57FA;&#x7840;&#x4E5F;&#x662F;&#x6C11;&#x4E3B;&#x8BDE;&#x751F;&#x7684;&#x57FA;&#x7840;" class="headerlink" title="&#x79D1;&#x5B66;&#x8BDE;&#x751F;&#x7684;&#x6587;&#x5316;&#x57FA;&#x7840;&#x4E5F;&#x662F;&#x6C11;&#x4E3B;&#x8BDE;&#x751F;&#x7684;&#x57FA;&#x7840;"></a>&#x79D1;&#x5B66;&#x8BDE;&#x751F;&#x7684;&#x6587;&#x5316;&#x57FA;&#x7840;&#x4E5F;&#x662F;&#x6C11;&#x4E3B;&#x8BDE;&#x751F;&#x7684;&#x57FA;&#x7840;</h2><p>&#x79D1;&#x5B66;&#x8BDE;&#x751F;&#x7684;&#x6587;&#x5316;&#x57FA;&#x7840;&#x4E5F;&#x662F;&#x6C11;&#x4E3B;&#x8BDE;&#x751F;&#x7684;&#x57FA;&#x7840;&#xFF0C;&#x540C;&#x884C;&#x4E4B;&#x95F4;&#x8FDB;&#x884C;&#x4E92;&#x76F8;&#x6279;&#x8BC4;&#x548C;&#x8BA8;&#x8BBA;&#x4F1A;&#x5E26;&#x6765;&#x66F4;&#x597D;&#x7684;&#x6548;&#x679C;&#x3002;&#x963F;&#x90A3;&#x514B;&#x897F;&#x66FC;&#x5FB7;&#x5C31;&#x66FE;&#x516C;&#x5F00;&#x6279;&#x5224;&#x4ED6;&#x7684;&#x8001;&#x5E08;&#x6CF0;&#x52D2;&#x65AF;&#xFF0C;&#x8FD9;&#x79CD;&#x505A;&#x6CD5;&#x77E5;&#x8BC6;&#x5C06;&#x6765;&#x7C73;&#x529B;&#x5EA6;&#x516C;&#x5171;&#x5E7F;&#x573A;&#x4E0A;&#x7ECF;&#x5E38;&#x53D1;&#x751F;&#x7684;&#x4E8B;&#x60C5;&#x5E94;&#x7528;&#x5230;&#x4E86;&#x77E5;&#x8BC6;&#x9886;&#x57DF;&#x3002;&#x4E0D;&#x8981;&#x7528;&#x4E00;&#x79CD;&#x9876;&#x793C;&#x819C;&#x62DC;&#x7684;&#x65B9;&#x5F0F;&#x6765;&#x8D5E;&#x9882;&#x795E;&#x660E;&#x3001;&#x534A;&#x795E;&#x3001;&#x9886;&#x4E3B;&#xFF0C;&#x800C;&#x8981;&#x6279;&#x8BC4;&#x6743;&#x5A01;&#x7684;&#x89C2;&#x70B9;&#xFF0C;&#x8FD9;&#x5E76;&#x4E0D;&#x662F;&#x4E0D;&#x5C0A;&#x656C;&#x7684;&#x8868;&#x73B0;&#xFF0C;&#x800C;&#x662F;&#x4E00;&#x79CD;&#x4E3A;&#x4F17;&#x4EBA;&#x63A5;&#x53D7;&#x7684;&#x89C2;&#x70B9;&#xFF1A;&#x66F4;&#x597D;&#x7684;&#x63D0;&#x8BAE;&#x6C38;&#x8FDC;&#x5B58;&#x5728;&#x3002;<br>&#x5E0C;&#x814A;&#x4EBA;&#x5728;&#x8377;&#x9A6C;&#x7684;&#x8BD7;&#x4E2D;&#x627E;&#x5230;&#x4E86;&#x4ED6;&#x4EEC;&#x7684;&#x6587;&#x5316;&#x8EAB;&#x4EFD;&#xFF0C;&#x8FD9;&#x4E9B;&#x8BD7;&#x6B4C;&#x9882;&#x4E86;&#x4ED6;&#x4EEC;&#x8FC7;&#x53BB;&#x7684;&#x8F89;&#x714C;&#x3002;&#x63A2;&#x89C6;&#x4F5C;&#x4E3A;&#x63CF;&#x5199;&#x5BF9;&#x8C61;&#xFF0C;&#x8377;&#x9A6C;&#x7B14;&#x4E0B;&#x7684;&#x8BF8;&#x795E;&#x4E0D;&#x662F;&#x7279;&#x522B;&#x53EF;&#x4FE1;&#xFF0C;&#x4E5F;&#x4E0D;&#x662F;&#x975E;&#x5E38;&#x5A01;&#x4E25;&#x3002;&#x56E0;&#x6B64;&#xFF0C;&#x6709;&#x8BC4;&#x8BBA;&#x8BF4;&#x518D;&#x4E0D;&#x4F1A;&#x6709;&#x6BD4;&#x300A;&#x4F0A;&#x5229;&#x4E9A;&#x7279;&#x300B;&#x66F4;&#x52A0;&#x5F31;&#x5316;&#x5B97;&#x6559;&#x7684;&#x8BD7;&#x4E86;&#x3002;&#x5728;&#x8FD9;&#x6837;&#x4E00;&#x4E2A;&#x6CA1;&#x6709;&#x4E2D;&#x5FC3;&#x3001;&#x6CA1;&#x6709;&#x5F3A;&#x795E;&#x7684;&#x4E16;&#x754C;&#xFF0C;&#x901A;&#x5411;&#x53E6;&#x4E00;&#x79CD;&#x601D;&#x60F3;&#x7684;&#x95E8;&#x6237;&#x88AB;&#x6253;&#x5F00;&#x4E86;&#x3002;</p>
+<p>&#x65B0;&#x7684;&#x793E;&#x4F1A;&#x548C;&#x653F;&#x6CBB;&#x7ED3;&#x6784;&#x4E0E;&#x79D1;&#x5B66;&#x601D;&#x60F3;&#x8BDE;&#x751F;&#x4E4B;&#x95F4;&#x7684;&#x5173;&#x7CFB;&#x5DF2;&#x7ECF;&#x5F88;&#x6E05;&#x6670;&#x4E86;&#x3002;&#x4E8C;&#x8005;&#x7684;&#x5171;&#x540C;&#x70B9;&#x4E5F;&#x4E00;&#x76EE;&#x4E86;&#x7136;&#xFF1A;&#x4E16;&#x4FD7;&#x5316;&#x3002;&#x89C4;&#x5F8B;&#x3001;&#x524D;&#x4EBA;&#x7684;&#x89C2;&#x70B9;&#x4E0D;&#x4E00;&#x5B9A;&#x662F;&#x6700;&#x597D;&#x7684;&#x3002;&#x6700;&#x6B63;&#x786E;&#x7684;&#x51B3;&#x5B9A;&#x6765;&#x81EA;&#x8BA8;&#x8BBA;&#xFF0C;&#x800C;&#x4E0D;&#x662F;&#x541B;&#x4E3B;&#x7684;&#x6743;&#x5A01;&#xFF0C;&#x66F4;&#x4E0D;&#x4F1A;&#x4EA7;&#x751F;&#x4E8E;&#x5BF9;&#x4F20;&#x7EDF;&#x7684;&#x5B9A;&#x7406;&#x819C;&#x62DC;&#x4E2D;&#x3002;&#x5BF9;&#x67D0;&#x9879;&#x63D0;&#x8BAE;&#x8FDB;&#x884C;&#x516C;&#x5171;&#x6279;&#x8BC4;&#x80FD;&#x591F;&#x53BB;&#x5176;&#x7CDF;&#x7C95;&#x3002;&#x4EBA;&#x4EEC;&#x53EF;&#x4EE5;&#x63D0;&#x51FA;&#x8BBA;&#x636E;&#xFF0C;&#x6700;&#x540E;&#x5F97;&#x51FA;&#x4E00;&#x4E2A;&#x5171;&#x540C;&#x7684;&#x7ED3;&#x8BBA;&#x3002;</p>
+<p>&#x4ECE;&#x67D0;&#x79CD;&#x610F;&#x4E49;&#x4E0A;&#x6765;&#x8BF4;&#xFF0C;&#x8FD9;&#x6B63;&#x662F;&#x5BF9;&#x79D1;&#x5B66;&#x65B9;&#x6CD5;&#x7684;&#x5927;&#x53D1;&#x73B0;&#x3002;&#x6709;&#x4EBA;&#x63D0;&#x51FA;&#x4E00;&#x4E2A;&#x89C2;&#x70B9;&#x3001;&#x4E00;&#x79CD;&#x89E3;&#x91CA;&#xFF0C;&#x63A5;&#x4E0B;&#x4FE9;&#xFF0C;&#x4EBA;&#x4EEC;&#x8BA4;&#x771F;&#x770B;&#x5F85;&#x3001;&#x601D;&#x8003;&#x548C;&#x6279;&#x8BC4;&#x8FD9;&#x4E2A;&#x89C2;&#x70B9;&#xFF0C;&#x4FEE;&#x6B63;&#x4E4B;&#x540E;&#x63D0;&#x51FA;&#x53E6;&#x4E00;&#x4E2A;&#x65B0;&#x7684;&#x89C2;&#x70B9;&#xFF0C;&#x518D;&#x5C06;&#x5176;&#x4E0E;&#x524D;&#x4E00;&#x79CD;&#x89C2;&#x70B9;&#x8FDB;&#x884C;&#x6BD4;&#x8F83;&#x3002;&#x51FA;&#x4EBA;&#x610F;&#x6599;&#x7684;&#x662F;&#x8FD9;&#x4E9B;&#x8FC7;&#x7A0B;&#x90FD;&#x4F1A;&#x671D;&#x7740;&#x4E00;&#x4E2A;&#x65B9;&#x5411;&#x53D1;&#x5C55;&#x3002;&#x56E0;&#x6B64;&#xFF0C;&#x4E00;&#x7FA4;&#x4EBA;&#x603B;&#x662F;&#x4F1A;&#x8FBE;&#x6210;&#x4E00;&#x4E2A;&#x5171;&#x540C;&#x7684;&#x4FE1;&#x5FF5;&#xFF0C;&#x6216;&#x662F;&#x7EDD;&#x5927;&#x6570;&#x4EBA;&#x90FD;&#x8BA4;&#x53EF;&#x7684;&#x4FE1;&#x5FF5;&#x3002;&#x8FD9;&#x5C31;&#x662F;&#x4E00;&#x4E2A;&#x6709;&#x6548;&#x4E14;&#x5171;&#x540C;&#x7684;&#x51B3;&#x5B9A;&#x3002;</p>
+<h2 id="&#x77E5;&#x8BC6;&#x9886;&#x57DF;&#x7684;&#x5927;&#x53D1;&#x73B0;&#x4E3A;&#x6279;&#x8BC4;&#x63D0;&#x4F9B;&#x81EA;&#x7531;&#x7684;&#x7A7A;&#x95F4;"><a href="#&#x77E5;&#x8BC6;&#x9886;&#x57DF;&#x7684;&#x5927;&#x53D1;&#x73B0;&#x4E3A;&#x6279;&#x8BC4;&#x63D0;&#x4F9B;&#x81EA;&#x7531;&#x7684;&#x7A7A;&#x95F4;" class="headerlink" title="&#x77E5;&#x8BC6;&#x9886;&#x57DF;&#x7684;&#x5927;&#x53D1;&#x73B0;&#x4E3A;&#x6279;&#x8BC4;&#x63D0;&#x4F9B;&#x81EA;&#x7531;&#x7684;&#x7A7A;&#x95F4;"></a>&#x77E5;&#x8BC6;&#x9886;&#x57DF;&#x7684;&#x5927;&#x53D1;&#x73B0;&#x4E3A;&#x6279;&#x8BC4;&#x63D0;&#x4F9B;&#x81EA;&#x7531;&#x7684;&#x7A7A;&#x95F4;</h2><p>&#x77E5;&#x8BC6;&#x9886;&#x57DF;&#x7684;&#x5927;&#x53D1;&#x73B0;&#x5219;&#x662F;&#x4E3A;&#x6279;&#x8BC4;&#x63D0;&#x4F9B;&#x81EA;&#x7531;&#x7684;&#x7A7A;&#x95F4;&#xFF0C;&#x5141;&#x8BB8;&#x8D28;&#x7591;&#xFF0C;&#x8BA9;&#x6BCF;&#x4E00;&#x4E2A;&#x4EBA;&#x90FD;&#x80FD;&#x53D1;&#x8868;&#x81EA;&#x5DF1;&#x7684;&#x89C2;&#x70B9;&#xFF0C;&#x8BA4;&#x771F;&#x5BF9;&#x5F85;&#x6BCF;&#x4E00;&#x4E2A;&#x63D0;&#x8BAE;&#x3002;&#x8FD9;&#x5E76;&#x4E0D;&#x662F;&#x6CA1;&#x6709;&#x4EF7;&#x503C;&#x7684;&#x4E0D;&#x548C;&#x8C10;&#xFF0C;&#x76F8;&#x53CD;&#xFF0C;&#x6279;&#x8BC4;&#x80FD;&#x8BA9;&#x6211;&#x4EEC;&#x6392;&#x9664;&#x4E0D;&#x6B63;&#x786E;&#x7684;&#x5047;&#x8BBE;&#xFF0C;&#x4ECE;&#x800C;&#x5F97;&#x51FA;&#x66F4;&#x597D;&#x7684;&#x89C2;&#x70B9;&#x3002;<br>&#x4F46;&#x662F;&#x8FD9;&#x4E00;&#x5207;&#x5E76;&#x672A;&#x5EF6;&#x7EED;&#x4E0B;&#x6765;&#x3002;&#x51E0;&#x4E2A;&#x4E16;&#x7EAA;&#x4E4B;&#x540E;&#xFF0C;&#x7F57;&#x9A6C;&#x5E1D;&#x56FD;&#x53C8;&#x8BA9;&#x6743;&#x529B;&#x96C6;&#x4E2D;&#x5230;&#x4E00;&#x4E2A;&#x4EBA;&#x624B;&#x4E2D;&#xFF0C;&#x57FA;&#x7763;&#x6559;&#x53C8;&#x5C06;&#x77E5;&#x8BC6;&#x9001;&#x56DE;&#x4E86;&#x795E;&#x7684;&#x624B;&#x4E2D;&#x3002;&#x541B;&#x6743;&#x548C;&#x6559;&#x6743;&#x7684;&#x7ED3;&#x5408;&#x5F62;&#x6210;&#x4E86;&#x795E;&#x6743;&#x653F;&#x6CBB;&#x3002;</p>
+<p>&#x4EBA;&#x4EEC;&#x66FE;&#x7ECF;&#x5728;&#x51E0;&#x4E2A;&#x4E16;&#x7EAA;&#x7684;&#x65F6;&#x95F4;&#x91CC;&#x6446;&#x8131;&#x8FC7;&#x795E;&#x6743;&#x653F;&#x6CBB;&#x3002;&#x5728;&#x963F;&#x90A3;&#x514B;&#x897F;&#x66FC;&#x5FB7;&#x6240;&#x5904;&#x7684;&#x65F6;&#x4EE3;&#xFF0C;&#x7C73;&#x5229;&#x90FD;&#x90FD;&#x662F;&#x72EC;&#x7ACB;&#x7684;&#xFF0C;&#x4E4B;&#x548C;&#x5176;&#x4ED6;&#x51E0;&#x4E2A;&#x7231;&#x5965;&#x5C3C;&#x4E9A;&#x57CE;&#x90A6;&#x7ED3;&#x6210;&#x4E86;&#x8054;&#x76DF;&#x3002;&#x8FD9;&#x4E2A;&#x8054;&#x76DF;&#x4E0D;&#x4F1A;&#x4ECB;&#x5165;&#x67D0;&#x4E2A;&#x57CE;&#x90A6;&#x5BF9;&#x5176;&#x4ED6;&#x57CE;&#x90A6;&#x7684;&#x7BA1;&#x7406;&#x4E2D;&#xFF0C;&#x4F46;&#x662F;&#x4F1A;&#x5212;&#x5B9A;&#x4E00;&#x4E2A;&#x516C;&#x5171;&#x533A;&#x57DF;&#xFF0C;&#x5728;&#x6D89;&#x53CA;&#x5229;&#x76CA;&#x6216;&#x9700;&#x8981;&#x505A;&#x51FA;&#x51B3;&#x5B9A;&#x65F6;&#xFF0C;&#x5C31;&#x4F1A;&#x5728;&#x6B64;&#x8BA8;&#x8BBA;&#x3002;&#x7231;&#x5965;&#x5C3C;&#x4E9A;&#x8054;&#x76DF;&#x7684;&#x6210;&#x5458;&#x4E3E;&#x884C;&#x7684;&#x96C6;&#x4F1A;&#x53EF;&#x80FD;&#x5C31;&#x662F;&#x4E16;&#x754C;&#x5386;&#x53F2;&#x4E0A;&#x6700;&#x65E9;&#x7684;&#x201C;&#x8BAE;&#x4F1A;&#x201D;&#x4E4B;&#x4E00;&#xFF0C;&#x5F88;&#x6709;&#x53EF;&#x80FD;&#x4ED6;&#x5C31;&#x662F;&#x6700;&#x65E9;&#x7684;&#x201C;&#x8BAE;&#x4F1A;&#x201D;&#xFF0C;&#x5F53;&#x4E00;&#x7FA4;&#x4EBA;&#x7528;&#x8BAE;&#x4F1A;&#x4EE3;&#x66FF;&#x5BAB;&#x5EF7;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x4ED6;&#x4EEC;&#x89C2;&#x5BDF;&#x5468;&#x56F4;&#x7684;&#x4E16;&#x754C;&#xFF0C;&#x4ECE;&#x5B97;&#x6559;&#x795E;&#x79D8;&#x601D;&#x60F3;&#x7684;&#x9ED1;&#x6697;&#x4E2D;&#x89E3;&#x653E;&#x51FA;&#x6765;&#xFF0C;&#x5F00;&#x59CB;&#x7406;&#x89E3;&#x6211;&#x4EEC;&#x751F;&#x6D3B;&#x7684;&#x4E16;&#x754C;&#x5982;&#x4F55;&#x8FD0;&#x8F6C;&#x3002;&#x5730;&#x7403;&#x4E0D;&#x662F;&#x4E00;&#x4E2A;&#x5DE8;&#x5927;&#x7684;&#x5706;&#x76D8;&#xFF0C;&#x800C;&#x662F;&#x4E00;&#x4E2A;&#x60AC;&#x6D6E;&#x5728;&#x7A7A;&#x95F4;&#x4E2D;&#x7684;&#x77F3;&#x5B50;&#x3002;</p>
 ]]></content>
       <categories>
         <category>随笔</category>
@@ -957,26 +957,26 @@
   <entry>
     <title>《读书方法》</title>
     <url>/2020/01/26/du-shu-fang-fa/</url>
-    <content><![CDATA[<h1 id="《读书方法》–张其昀"><a href="#《读书方法》–张其昀" class="headerlink" title="《读书方法》–张其昀"></a>《读书方法》–张其昀</h1><p>这篇文章已经在几年前我买过的一本旧书里看过，感觉张其昀老先生把读书方法和读书的意义阐述的非常清楚和明白，一气呵成，行云流水，字字珠玑。虽然时隔几十年，也甚具实用意义。而今我也经常读这篇文章，常读常新。全篇文字较长，但是并没有影响阅读的负担。</p>
-<h2 id="读书是学习的一种方法"><a href="#读书是学习的一种方法" class="headerlink" title="读书是学习的一种方法"></a>读书是学习的一种方法</h2><p>子路曰：“何必读书，然后为学。”这是说读书只是求学方法的一种，求学并非以读书为止境。朱子以即物穷理，释格物致知，物是事物，并非书籍。研究科学贵能读无字之书。故赫胥黎曰：“读书得智是第二手事。”科学之精义在能以自然为我简编，万物为我文字。又庄子曰：“古之人与其不可传者死矣，然则君之所读者，古人之糟粕已夫。”这乃是说：“书不尽言，言不尽意。”学问有正本副本之别，正本指宇宙的真相和历史的精神，而书籍不过为其副本。读书喻如一座桥梁，由此历程，方可进而探究宇宙的真相，体会古人的精神，所以读书本身，也只是一种方法而已。</p>
-<h2 id="学者须能自动自得，方能日进日新"><a href="#学者须能自动自得，方能日进日新" class="headerlink" title="学者须能自动自得，方能日进日新"></a>学者须能自动自得，方能日进日新</h2><p>古今书籍浩如烟海，但专言读书方法者极为平凡。古语云：“知者不言，言者不知。”能言方法者，未必善读书。学记曰：“虽有佳肴，弗食不知其味也。虽有至道，弗学不知其美也。”大凡名家著作，其义甚精，其类例甚博，学者苟能用心阅读，效其所为，处处皆可领悟方法。治学最怕拘板，必有一种活泼自动处方能自得。读书方法与学力成正比例，即随自己学问之进步而俱进，所谓短绠不可汲深井之泉，不能躐等躁进。孔子曰：“学而时习之。”学者须能自动自得，方能日进日新，时习之义，应在于此。</p>
-<p>本篇命题为读书方法，实际所谈者要不外乎为学途径与先后次第。学须辨路径，若漫无准的，或至于榛莽荆棘之间，而渐入于穷山空谷之内。路径既明，依次而入，虽行之不能至，然不失日日在康庄大道。譬如学艺者，必先遵师以为绳矩，他日神机妙手，趋过其师，谁得而限之也。本篇所述系读书之普通方法，大抵皆前人经验之谈，虽似平易，而切实可握。有如君子之交，“淡而弥永”。初学者苟能从容玩味，自能有所取法。</p>
-<h2 id="能专而后能博，能博而后能精"><a href="#能专而后能博，能博而后能精" class="headerlink" title="能专而后能博，能博而后能精"></a>能专而后能博，能博而后能精</h2><p>凡人为一事，以专而精，以纷而散。庄子谓用志不纷，乃凝于神，实有至理。为学必先立志，自家有主意头脑，方有以自立。譬如栽培必先有根，既栽既培，自有生生之意。黄梨洲①云：“学问之道，以各人用得着者为真。”此语最为紧要。否则，以书为主，心为奴隶，释卷之后仍属茫然。能专而后能博，盖自家有主宰，则多见多闻，互入交参，能使心地开展而善于应用。能博而后能精，当旁观博取之时，须常存趋约之意，则专而不杂，致一而不懈，故得精通。</p>
-<p>英人达尔文致力于生物学垂三十年，偶读马尔萨斯人口论，恍然悟物竞天择之理，进化学说由是大明。能专而后能博，能博而后能精，此其明证。博览之法，当知目录学与学术史。记载日衍而日多，体例亦益分而益密，例如汉代，七略列史记于春秋家，列离骚于赋家，后史记别为正史，离骚别为楚辞。学术派别以渐而增，初附见而后特书，古略今详，义各有当。宋代以后，书籍解题之作乃渐盛，最著名者为清代四库全书提要。每书先列作者，以论世知人，次沦其著作之本末与学说之价值，使读者可以粗窥端倪，略明旨趣。现代图书目录愈见完备，而新书日出不穷，鱼目混珠，猝杂读书的艺术：如何阅读和阅读什么究诘，故有学术地位之定期刊物，大率附有书评，即古所谓解题。此类书目当然也有循名贵实，配隶乖宜的，所有书评也未必都能持是非之公心，扫门户之私见，此在学者能得良师益友之指导，善自审择。</p>
-<p>图书目录之性质系横的，学术史则系纵的，一经一纬，学者欲求殚见洽闻，不患无途径可循。苟无学术史，则前人之知无以为后者之凭借，以益求进步，前人求知之法亦无以资后学者之考镜，以益求精密。学问之道，大抵前修未密，后出转精，但各门学术历史的名著，仍有不朽之价值。譬如木之有本，水之有源，其内容固常有待于修正补充，而其创造的精神则永足以资后人之兴起。此类名著经后学者之传述，常可间接阅读，但终须亲自涉历一番。正缘不欲于卖花担上看桃李，须树头枝底方见得活精神也。</p>
-<h2 id="书有精粗高下，有急需不急需之异"><a href="#书有精粗高下，有急需不急需之异" class="headerlink" title="书有精粗高下，有急需不急需之异"></a>书有精粗高下，有急需不急需之异</h2><p>书有精粗高下，有急需不急需之异，大致可分为五等，有当读之书，有当熟读之书，有当看之书，有当再三细看之书，有当必备以资查考之书。五者固不容偏废，学者试加分别，则知工夫缓急先后之序，而获收事半功倍之效。如常备查考者，即所谓工具书，可以节省精力不少，苟不备之，则无从参考。凡学术系统，皆如枝叶扶疏之树，其中各部皆首尾贯彻，打成一片。著书各有体例，或详尽、或简明，举大体者得其英华，述细目者穷其枝叶，因此而有洪纤之别，精粗之异。然读书务求其是，使其是则循枝叶即可以得本根，固不妨于并行也。又读书不可为书所愚，智者千虑必有一失，又书经传刊，论误滋多，“尽信书不如无书”，此孟子之语，已早有诏示。</p>
-<h2 id="读书之法当目过、口过、手过，盖手过则心必随之"><a href="#读书之法当目过、口过、手过，盖手过则心必随之" class="headerlink" title="读书之法当目过、口过、手过，盖手过则心必随之"></a>读书之法当目过、口过、手过，盖手过则心必随之</h2><p>读书之法当手眼并用，凡书目过口过，不如手过，盖手过则心必随之。心有所得即随手笔记(或曰札记，亦曰疏记)，日积月累，自然充足，后重省览，欢兴弥深，习与性成，不觉笔倦，所谓日知其所无，月无忘其所有。顾亭林③撰日知录，称自少读书，有所得辄记之，其有不合，时复改定，或古人先我而有者，则遂削之，积之三十年乃成一编，盖其一生精力所注也。学者著书无不从笔记入手，笔记之法亦随学力而俱进，眼明则巧于掇拾，手辣则易于剪裁。须是有大规模又有细工夫。朱子论为学曰：“愈细密愈广大，愈谨确愈高明。”凡大人物无不如是。</p>
-<p>韩文公曰：“记事者必提其要，纂言者必钩其玄。”此二语可视为笔记之定法。凡书籍宜有目次，提要工作自此始；凡书籍宜有自序或绪论，钩玄工作自此始。读书之要，在得其宗旨，得其要领，明其大义，明其条理，凡此均非笔记不为功，有或问苏东坡曰：“公之博洽可以学乎?” 曰：“可。吾读汉书，盖数过而始尽之。如治道、人物，官制、兵法、货财之类，每过博求一事，不待数过而事事精核矣。参伍错综，八面受敌，沛然应之，而莫御焉。”凡书籍或端绪从杂，如治乱丝。善用笔记者，由合而分，由分而合，条理秩如，灿然可观，而后始有融会绩通之效。</p>
-<p>或问笔记是否有一定格式，曰此随各人之便利，初无定法。但如裁篇别出之法、重复互注之法、散叶法、索引法以及其它种种足以促进工作之效率者，均甚重要。裁篇别出者，如某篇本在说明甲事(如大学)，而又连类及于乙事(如印书)，乃将乙事别行录出。重复互注者，即一事有多方面之关系，应连载数处，则分别互记，以便考镜。散叶法(或曰活叶亦曰卡片)，即以每一子目为一页，自为起讫，俾得随时抽阅。索引法者，材料纷繁，当自订一便于归类之索引，且随时修补之，庶可以简驭繁。韩信将兵，多多益善，处理笔记之法亦犹是也。</p>
-<h2 id="熟读深思子自知，用时一唤，便在目前"><a href="#熟读深思子自知，用时一唤，便在目前" class="headerlink" title="熟读深思子自知，用时一唤，便在目前"></a>熟读深思子自知，用时一唤，便在目前</h2><p>古人云：读书不寻思，如迅风飞鸟之过去，响绝影灭。笔记原为供给思想之资料，学而不思，无异货弃于地，虽有笔记，等于乌有。读书如饮食，吃得又要消得。太史公曰：“好学深思。”学以穷理，问以决疑，问前须学，学后要思。故学问之道，以致思为最要，思则得之，不思则不得也。管子曰，“思之，思之，又重思之，思之不通，鬼神将通之。”学者诚能原始要终，熟读深思，功力既深，自然有涣然冰释，怡然理顺之功效。如此则旧日笔记，莫非宝藏，用时一唤，便在目前。</p>
-<p>颜子善学，故孔子有见其进，未见其止之叹。须在百尺竿头更求进步，始为得之。学不可缓，亦不可急，缓则怠而无功，急则进锐而退速。学问要勤苦，又要从容，其法在渐进而有恒，到有味时，便能以甘偿苦；前人诗云：“读书切戒在慌忙，涵泳工夫兴味长。”旨哉斯言。欲速是读书第一大病。用功但须按定日程，静心为之，锲而不合，循序而有常，绵密而不间断，则断无不成之事。不要过锐，过锐则不克持久，一曝十寒，劳而鲜功，亦虑于身体有妨害。</p>
-<p>读书既须有深湛之思，故不读时之重要与读书时相等。读书时，优游餍饫，得书之益；不读时，体察涵养，尤得书之益也。读书要有心得，往往于无意中得之。所谓从容默会于幽闲静一之中，超然自得于书言像意之表。朱子诗云：“书册埋头何日了，不如抛却去寻春。”凡人读书至纷颐难通，或思路俱绝处，且放下书册，至空旷处游行，有时忽然思致触发，失然有会，有不期然而然者。读书并不专靠用功，休息有方亦是一种收获。朱子以其经验告人，故尤有味。</p>
-<h2 id="读书养心，虽值拂逆而开卷时许，如扇清风而解烦热。"><a href="#读书养心，虽值拂逆而开卷时许，如扇清风而解烦热。" class="headerlink" title="读书养心，虽值拂逆而开卷时许，如扇清风而解烦热。"></a>读书养心，虽值拂逆而开卷时许，如扇清风而解烦热。</h2><p>学者所以求精神修养，学虽多而心不治，何以学为? 读书可以养心，虽值拂逆而开卷时许，如扇清风而解烦热。善读书者视书籍为一种美术，美善相乐，是谓读书之胜义。如群经诸子及古来大史家大文豪之作品，往往为国魂之所寄托，其中若干部分，应为国民所共同必修，与专门学术之分科而治者不侔。学易可以无大过，是孔子明易以切于人事。博学之，审问之，慎思之，明辨之，笃行之，此是中庸要语，上四明体属知，下一达用属行，读书贵于知行合一。吾国人对于古人著作，极重视其人格，如严嵩之钤山堂诗，虽词华甚美，然以怙权蠹国，致为人所羞称。刘宗周论语学案，其解见危授命曰：“人未有错过义理关，而能判然于生死之分者”，卒之明社既屋，甘蹈首阳之饿，可谓大节皎然，不负所言。古人之言读书，莫不主于反躬自省，实行实用，穷则励行，出则经世，而深以清谈废务为足戒。</p>
-<h2 id="读书如水流冲石，势甚缓和，要时日，纹痕方显著。"><a href="#读书如水流冲石，势甚缓和，要时日，纹痕方显著。" class="headerlink" title="读书如水流冲石，势甚缓和，要时日，纹痕方显著。"></a>读书如水流冲石，势甚缓和，要时日，纹痕方显著。</h2><p>朱子福州州学经史阁记有云：</p>
-<p>自圣学不传，世之为士者，不知学之有本、而惟书之读，则其所以求于书，不越于记诵训诂文辞之间，以钓声名千禄利而已。是以天下之书愈多，而理愈味；学者之事愈勤，而心愈放，辞章愈丽，议论愈高，而其德业事功之实，愈无以逮乎古人。读者不知学之有本，而无以为之地也。</p>
-<p>许多人不免轻视书籍，以籍对于人生，恐渺无影响，这实是大错误。读书苟能知本，对于人生确有伟大助力。不过其助力如水流冲石，势甚缓和，要经过若干时日，纹痕才能显著。假使每日有若干时间，与古来大人物晤对一室，上下其议论，想见其丰采，则未有不受其感应的。即如我们对于朱子这一段话，果能潜心领会，效法古人笃实之精神，深自勖勉，则其得益已绝非浅鲜了</p>
+    <content><![CDATA[<h1 id="&#x300A;&#x8BFB;&#x4E66;&#x65B9;&#x6CD5;&#x300B;&#x2013;&#x5F20;&#x5176;&#x6600;"><a href="#&#x300A;&#x8BFB;&#x4E66;&#x65B9;&#x6CD5;&#x300B;&#x2013;&#x5F20;&#x5176;&#x6600;" class="headerlink" title="&#x300A;&#x8BFB;&#x4E66;&#x65B9;&#x6CD5;&#x300B;&#x2013;&#x5F20;&#x5176;&#x6600;"></a>&#x300A;&#x8BFB;&#x4E66;&#x65B9;&#x6CD5;&#x300B;&#x2013;&#x5F20;&#x5176;&#x6600;</h1><p>&#x8FD9;&#x7BC7;&#x6587;&#x7AE0;&#x5DF2;&#x7ECF;&#x5728;&#x51E0;&#x5E74;&#x524D;&#x6211;&#x4E70;&#x8FC7;&#x7684;&#x4E00;&#x672C;&#x65E7;&#x4E66;&#x91CC;&#x770B;&#x8FC7;&#xFF0C;&#x611F;&#x89C9;&#x5F20;&#x5176;&#x6600;&#x8001;&#x5148;&#x751F;&#x628A;&#x8BFB;&#x4E66;&#x65B9;&#x6CD5;&#x548C;&#x8BFB;&#x4E66;&#x7684;&#x610F;&#x4E49;&#x9610;&#x8FF0;&#x7684;&#x975E;&#x5E38;&#x6E05;&#x695A;&#x548C;&#x660E;&#x767D;&#xFF0C;&#x4E00;&#x6C14;&#x5475;&#x6210;&#xFF0C;&#x884C;&#x4E91;&#x6D41;&#x6C34;&#xFF0C;&#x5B57;&#x5B57;&#x73E0;&#x7391;&#x3002;&#x867D;&#x7136;&#x65F6;&#x9694;&#x51E0;&#x5341;&#x5E74;&#xFF0C;&#x4E5F;&#x751A;&#x5177;&#x5B9E;&#x7528;&#x610F;&#x4E49;&#x3002;&#x800C;&#x4ECA;&#x6211;&#x4E5F;&#x7ECF;&#x5E38;&#x8BFB;&#x8FD9;&#x7BC7;&#x6587;&#x7AE0;&#xFF0C;&#x5E38;&#x8BFB;&#x5E38;&#x65B0;&#x3002;&#x5168;&#x7BC7;&#x6587;&#x5B57;&#x8F83;&#x957F;&#xFF0C;&#x4F46;&#x662F;&#x5E76;&#x6CA1;&#x6709;&#x5F71;&#x54CD;&#x9605;&#x8BFB;&#x7684;&#x8D1F;&#x62C5;&#x3002;</p>
+<h2 id="&#x8BFB;&#x4E66;&#x662F;&#x5B66;&#x4E60;&#x7684;&#x4E00;&#x79CD;&#x65B9;&#x6CD5;"><a href="#&#x8BFB;&#x4E66;&#x662F;&#x5B66;&#x4E60;&#x7684;&#x4E00;&#x79CD;&#x65B9;&#x6CD5;" class="headerlink" title="&#x8BFB;&#x4E66;&#x662F;&#x5B66;&#x4E60;&#x7684;&#x4E00;&#x79CD;&#x65B9;&#x6CD5;"></a>&#x8BFB;&#x4E66;&#x662F;&#x5B66;&#x4E60;&#x7684;&#x4E00;&#x79CD;&#x65B9;&#x6CD5;</h2><p>&#x5B50;&#x8DEF;&#x66F0;&#xFF1A;&#x201C;&#x4F55;&#x5FC5;&#x8BFB;&#x4E66;&#xFF0C;&#x7136;&#x540E;&#x4E3A;&#x5B66;&#x3002;&#x201D;&#x8FD9;&#x662F;&#x8BF4;&#x8BFB;&#x4E66;&#x53EA;&#x662F;&#x6C42;&#x5B66;&#x65B9;&#x6CD5;&#x7684;&#x4E00;&#x79CD;&#xFF0C;&#x6C42;&#x5B66;&#x5E76;&#x975E;&#x4EE5;&#x8BFB;&#x4E66;&#x4E3A;&#x6B62;&#x5883;&#x3002;&#x6731;&#x5B50;&#x4EE5;&#x5373;&#x7269;&#x7A77;&#x7406;&#xFF0C;&#x91CA;&#x683C;&#x7269;&#x81F4;&#x77E5;&#xFF0C;&#x7269;&#x662F;&#x4E8B;&#x7269;&#xFF0C;&#x5E76;&#x975E;&#x4E66;&#x7C4D;&#x3002;&#x7814;&#x7A76;&#x79D1;&#x5B66;&#x8D35;&#x80FD;&#x8BFB;&#x65E0;&#x5B57;&#x4E4B;&#x4E66;&#x3002;&#x6545;&#x8D6B;&#x80E5;&#x9ECE;&#x66F0;&#xFF1A;&#x201C;&#x8BFB;&#x4E66;&#x5F97;&#x667A;&#x662F;&#x7B2C;&#x4E8C;&#x624B;&#x4E8B;&#x3002;&#x201D;&#x79D1;&#x5B66;&#x4E4B;&#x7CBE;&#x4E49;&#x5728;&#x80FD;&#x4EE5;&#x81EA;&#x7136;&#x4E3A;&#x6211;&#x7B80;&#x7F16;&#xFF0C;&#x4E07;&#x7269;&#x4E3A;&#x6211;&#x6587;&#x5B57;&#x3002;&#x53C8;&#x5E84;&#x5B50;&#x66F0;&#xFF1A;&#x201C;&#x53E4;&#x4E4B;&#x4EBA;&#x4E0E;&#x5176;&#x4E0D;&#x53EF;&#x4F20;&#x8005;&#x6B7B;&#x77E3;&#xFF0C;&#x7136;&#x5219;&#x541B;&#x4E4B;&#x6240;&#x8BFB;&#x8005;&#xFF0C;&#x53E4;&#x4EBA;&#x4E4B;&#x7CDF;&#x7C95;&#x5DF2;&#x592B;&#x3002;&#x201D;&#x8FD9;&#x4E43;&#x662F;&#x8BF4;&#xFF1A;&#x201C;&#x4E66;&#x4E0D;&#x5C3D;&#x8A00;&#xFF0C;&#x8A00;&#x4E0D;&#x5C3D;&#x610F;&#x3002;&#x201D;&#x5B66;&#x95EE;&#x6709;&#x6B63;&#x672C;&#x526F;&#x672C;&#x4E4B;&#x522B;&#xFF0C;&#x6B63;&#x672C;&#x6307;&#x5B87;&#x5B99;&#x7684;&#x771F;&#x76F8;&#x548C;&#x5386;&#x53F2;&#x7684;&#x7CBE;&#x795E;&#xFF0C;&#x800C;&#x4E66;&#x7C4D;&#x4E0D;&#x8FC7;&#x4E3A;&#x5176;&#x526F;&#x672C;&#x3002;&#x8BFB;&#x4E66;&#x55BB;&#x5982;&#x4E00;&#x5EA7;&#x6865;&#x6881;&#xFF0C;&#x7531;&#x6B64;&#x5386;&#x7A0B;&#xFF0C;&#x65B9;&#x53EF;&#x8FDB;&#x800C;&#x63A2;&#x7A76;&#x5B87;&#x5B99;&#x7684;&#x771F;&#x76F8;&#xFF0C;&#x4F53;&#x4F1A;&#x53E4;&#x4EBA;&#x7684;&#x7CBE;&#x795E;&#xFF0C;&#x6240;&#x4EE5;&#x8BFB;&#x4E66;&#x672C;&#x8EAB;&#xFF0C;&#x4E5F;&#x53EA;&#x662F;&#x4E00;&#x79CD;&#x65B9;&#x6CD5;&#x800C;&#x5DF2;&#x3002;</p>
+<h2 id="&#x5B66;&#x8005;&#x987B;&#x80FD;&#x81EA;&#x52A8;&#x81EA;&#x5F97;&#xFF0C;&#x65B9;&#x80FD;&#x65E5;&#x8FDB;&#x65E5;&#x65B0;"><a href="#&#x5B66;&#x8005;&#x987B;&#x80FD;&#x81EA;&#x52A8;&#x81EA;&#x5F97;&#xFF0C;&#x65B9;&#x80FD;&#x65E5;&#x8FDB;&#x65E5;&#x65B0;" class="headerlink" title="&#x5B66;&#x8005;&#x987B;&#x80FD;&#x81EA;&#x52A8;&#x81EA;&#x5F97;&#xFF0C;&#x65B9;&#x80FD;&#x65E5;&#x8FDB;&#x65E5;&#x65B0;"></a>&#x5B66;&#x8005;&#x987B;&#x80FD;&#x81EA;&#x52A8;&#x81EA;&#x5F97;&#xFF0C;&#x65B9;&#x80FD;&#x65E5;&#x8FDB;&#x65E5;&#x65B0;</h2><p>&#x53E4;&#x4ECA;&#x4E66;&#x7C4D;&#x6D69;&#x5982;&#x70DF;&#x6D77;&#xFF0C;&#x4F46;&#x4E13;&#x8A00;&#x8BFB;&#x4E66;&#x65B9;&#x6CD5;&#x8005;&#x6781;&#x4E3A;&#x5E73;&#x51E1;&#x3002;&#x53E4;&#x8BED;&#x4E91;&#xFF1A;&#x201C;&#x77E5;&#x8005;&#x4E0D;&#x8A00;&#xFF0C;&#x8A00;&#x8005;&#x4E0D;&#x77E5;&#x3002;&#x201D;&#x80FD;&#x8A00;&#x65B9;&#x6CD5;&#x8005;&#xFF0C;&#x672A;&#x5FC5;&#x5584;&#x8BFB;&#x4E66;&#x3002;&#x5B66;&#x8BB0;&#x66F0;&#xFF1A;&#x201C;&#x867D;&#x6709;&#x4F73;&#x80B4;&#xFF0C;&#x5F17;&#x98DF;&#x4E0D;&#x77E5;&#x5176;&#x5473;&#x4E5F;&#x3002;&#x867D;&#x6709;&#x81F3;&#x9053;&#xFF0C;&#x5F17;&#x5B66;&#x4E0D;&#x77E5;&#x5176;&#x7F8E;&#x4E5F;&#x3002;&#x201D;&#x5927;&#x51E1;&#x540D;&#x5BB6;&#x8457;&#x4F5C;&#xFF0C;&#x5176;&#x4E49;&#x751A;&#x7CBE;&#xFF0C;&#x5176;&#x7C7B;&#x4F8B;&#x751A;&#x535A;&#xFF0C;&#x5B66;&#x8005;&#x82DF;&#x80FD;&#x7528;&#x5FC3;&#x9605;&#x8BFB;&#xFF0C;&#x6548;&#x5176;&#x6240;&#x4E3A;&#xFF0C;&#x5904;&#x5904;&#x7686;&#x53EF;&#x9886;&#x609F;&#x65B9;&#x6CD5;&#x3002;&#x6CBB;&#x5B66;&#x6700;&#x6015;&#x62D8;&#x677F;&#xFF0C;&#x5FC5;&#x6709;&#x4E00;&#x79CD;&#x6D3B;&#x6CFC;&#x81EA;&#x52A8;&#x5904;&#x65B9;&#x80FD;&#x81EA;&#x5F97;&#x3002;&#x8BFB;&#x4E66;&#x65B9;&#x6CD5;&#x4E0E;&#x5B66;&#x529B;&#x6210;&#x6B63;&#x6BD4;&#x4F8B;&#xFF0C;&#x5373;&#x968F;&#x81EA;&#x5DF1;&#x5B66;&#x95EE;&#x4E4B;&#x8FDB;&#x6B65;&#x800C;&#x4FF1;&#x8FDB;&#xFF0C;&#x6240;&#x8C13;&#x77ED;&#x7EE0;&#x4E0D;&#x53EF;&#x6C72;&#x6DF1;&#x4E95;&#x4E4B;&#x6CC9;&#xFF0C;&#x4E0D;&#x80FD;&#x8E90;&#x7B49;&#x8E81;&#x8FDB;&#x3002;&#x5B54;&#x5B50;&#x66F0;&#xFF1A;&#x201C;&#x5B66;&#x800C;&#x65F6;&#x4E60;&#x4E4B;&#x3002;&#x201D;&#x5B66;&#x8005;&#x987B;&#x80FD;&#x81EA;&#x52A8;&#x81EA;&#x5F97;&#xFF0C;&#x65B9;&#x80FD;&#x65E5;&#x8FDB;&#x65E5;&#x65B0;&#xFF0C;&#x65F6;&#x4E60;&#x4E4B;&#x4E49;&#xFF0C;&#x5E94;&#x5728;&#x4E8E;&#x6B64;&#x3002;</p>
+<p>&#x672C;&#x7BC7;&#x547D;&#x9898;&#x4E3A;&#x8BFB;&#x4E66;&#x65B9;&#x6CD5;&#xFF0C;&#x5B9E;&#x9645;&#x6240;&#x8C08;&#x8005;&#x8981;&#x4E0D;&#x5916;&#x4E4E;&#x4E3A;&#x5B66;&#x9014;&#x5F84;&#x4E0E;&#x5148;&#x540E;&#x6B21;&#x7B2C;&#x3002;&#x5B66;&#x987B;&#x8FA8;&#x8DEF;&#x5F84;&#xFF0C;&#x82E5;&#x6F2B;&#x65E0;&#x51C6;&#x7684;&#xFF0C;&#x6216;&#x81F3;&#x4E8E;&#x699B;&#x83BD;&#x8346;&#x68D8;&#x4E4B;&#x95F4;&#xFF0C;&#x800C;&#x6E10;&#x5165;&#x4E8E;&#x7A77;&#x5C71;&#x7A7A;&#x8C37;&#x4E4B;&#x5185;&#x3002;&#x8DEF;&#x5F84;&#x65E2;&#x660E;&#xFF0C;&#x4F9D;&#x6B21;&#x800C;&#x5165;&#xFF0C;&#x867D;&#x884C;&#x4E4B;&#x4E0D;&#x80FD;&#x81F3;&#xFF0C;&#x7136;&#x4E0D;&#x5931;&#x65E5;&#x65E5;&#x5728;&#x5EB7;&#x5E84;&#x5927;&#x9053;&#x3002;&#x8B6C;&#x5982;&#x5B66;&#x827A;&#x8005;&#xFF0C;&#x5FC5;&#x5148;&#x9075;&#x5E08;&#x4EE5;&#x4E3A;&#x7EF3;&#x77E9;&#xFF0C;&#x4ED6;&#x65E5;&#x795E;&#x673A;&#x5999;&#x624B;&#xFF0C;&#x8D8B;&#x8FC7;&#x5176;&#x5E08;&#xFF0C;&#x8C01;&#x5F97;&#x800C;&#x9650;&#x4E4B;&#x4E5F;&#x3002;&#x672C;&#x7BC7;&#x6240;&#x8FF0;&#x7CFB;&#x8BFB;&#x4E66;&#x4E4B;&#x666E;&#x901A;&#x65B9;&#x6CD5;&#xFF0C;&#x5927;&#x62B5;&#x7686;&#x524D;&#x4EBA;&#x7ECF;&#x9A8C;&#x4E4B;&#x8C08;&#xFF0C;&#x867D;&#x4F3C;&#x5E73;&#x6613;&#xFF0C;&#x800C;&#x5207;&#x5B9E;&#x53EF;&#x63E1;&#x3002;&#x6709;&#x5982;&#x541B;&#x5B50;&#x4E4B;&#x4EA4;&#xFF0C;&#x201C;&#x6DE1;&#x800C;&#x5F25;&#x6C38;&#x201D;&#x3002;&#x521D;&#x5B66;&#x8005;&#x82DF;&#x80FD;&#x4ECE;&#x5BB9;&#x73A9;&#x5473;&#xFF0C;&#x81EA;&#x80FD;&#x6709;&#x6240;&#x53D6;&#x6CD5;&#x3002;</p>
+<h2 id="&#x80FD;&#x4E13;&#x800C;&#x540E;&#x80FD;&#x535A;&#xFF0C;&#x80FD;&#x535A;&#x800C;&#x540E;&#x80FD;&#x7CBE;"><a href="#&#x80FD;&#x4E13;&#x800C;&#x540E;&#x80FD;&#x535A;&#xFF0C;&#x80FD;&#x535A;&#x800C;&#x540E;&#x80FD;&#x7CBE;" class="headerlink" title="&#x80FD;&#x4E13;&#x800C;&#x540E;&#x80FD;&#x535A;&#xFF0C;&#x80FD;&#x535A;&#x800C;&#x540E;&#x80FD;&#x7CBE;"></a>&#x80FD;&#x4E13;&#x800C;&#x540E;&#x80FD;&#x535A;&#xFF0C;&#x80FD;&#x535A;&#x800C;&#x540E;&#x80FD;&#x7CBE;</h2><p>&#x51E1;&#x4EBA;&#x4E3A;&#x4E00;&#x4E8B;&#xFF0C;&#x4EE5;&#x4E13;&#x800C;&#x7CBE;&#xFF0C;&#x4EE5;&#x7EB7;&#x800C;&#x6563;&#x3002;&#x5E84;&#x5B50;&#x8C13;&#x7528;&#x5FD7;&#x4E0D;&#x7EB7;&#xFF0C;&#x4E43;&#x51DD;&#x4E8E;&#x795E;&#xFF0C;&#x5B9E;&#x6709;&#x81F3;&#x7406;&#x3002;&#x4E3A;&#x5B66;&#x5FC5;&#x5148;&#x7ACB;&#x5FD7;&#xFF0C;&#x81EA;&#x5BB6;&#x6709;&#x4E3B;&#x610F;&#x5934;&#x8111;&#xFF0C;&#x65B9;&#x6709;&#x4EE5;&#x81EA;&#x7ACB;&#x3002;&#x8B6C;&#x5982;&#x683D;&#x57F9;&#x5FC5;&#x5148;&#x6709;&#x6839;&#xFF0C;&#x65E2;&#x683D;&#x65E2;&#x57F9;&#xFF0C;&#x81EA;&#x6709;&#x751F;&#x751F;&#x4E4B;&#x610F;&#x3002;&#x9EC4;&#x68A8;&#x6D32;&#x2460;&#x4E91;&#xFF1A;&#x201C;&#x5B66;&#x95EE;&#x4E4B;&#x9053;&#xFF0C;&#x4EE5;&#x5404;&#x4EBA;&#x7528;&#x5F97;&#x7740;&#x8005;&#x4E3A;&#x771F;&#x3002;&#x201D;&#x6B64;&#x8BED;&#x6700;&#x4E3A;&#x7D27;&#x8981;&#x3002;&#x5426;&#x5219;&#xFF0C;&#x4EE5;&#x4E66;&#x4E3A;&#x4E3B;&#xFF0C;&#x5FC3;&#x4E3A;&#x5974;&#x96B6;&#xFF0C;&#x91CA;&#x5377;&#x4E4B;&#x540E;&#x4ECD;&#x5C5E;&#x832B;&#x7136;&#x3002;&#x80FD;&#x4E13;&#x800C;&#x540E;&#x80FD;&#x535A;&#xFF0C;&#x76D6;&#x81EA;&#x5BB6;&#x6709;&#x4E3B;&#x5BB0;&#xFF0C;&#x5219;&#x591A;&#x89C1;&#x591A;&#x95FB;&#xFF0C;&#x4E92;&#x5165;&#x4EA4;&#x53C2;&#xFF0C;&#x80FD;&#x4F7F;&#x5FC3;&#x5730;&#x5F00;&#x5C55;&#x800C;&#x5584;&#x4E8E;&#x5E94;&#x7528;&#x3002;&#x80FD;&#x535A;&#x800C;&#x540E;&#x80FD;&#x7CBE;&#xFF0C;&#x5F53;&#x65C1;&#x89C2;&#x535A;&#x53D6;&#x4E4B;&#x65F6;&#xFF0C;&#x987B;&#x5E38;&#x5B58;&#x8D8B;&#x7EA6;&#x4E4B;&#x610F;&#xFF0C;&#x5219;&#x4E13;&#x800C;&#x4E0D;&#x6742;&#xFF0C;&#x81F4;&#x4E00;&#x800C;&#x4E0D;&#x61C8;&#xFF0C;&#x6545;&#x5F97;&#x7CBE;&#x901A;&#x3002;</p>
+<p>&#x82F1;&#x4EBA;&#x8FBE;&#x5C14;&#x6587;&#x81F4;&#x529B;&#x4E8E;&#x751F;&#x7269;&#x5B66;&#x5782;&#x4E09;&#x5341;&#x5E74;&#xFF0C;&#x5076;&#x8BFB;&#x9A6C;&#x5C14;&#x8428;&#x65AF;&#x4EBA;&#x53E3;&#x8BBA;&#xFF0C;&#x604D;&#x7136;&#x609F;&#x7269;&#x7ADE;&#x5929;&#x62E9;&#x4E4B;&#x7406;&#xFF0C;&#x8FDB;&#x5316;&#x5B66;&#x8BF4;&#x7531;&#x662F;&#x5927;&#x660E;&#x3002;&#x80FD;&#x4E13;&#x800C;&#x540E;&#x80FD;&#x535A;&#xFF0C;&#x80FD;&#x535A;&#x800C;&#x540E;&#x80FD;&#x7CBE;&#xFF0C;&#x6B64;&#x5176;&#x660E;&#x8BC1;&#x3002;&#x535A;&#x89C8;&#x4E4B;&#x6CD5;&#xFF0C;&#x5F53;&#x77E5;&#x76EE;&#x5F55;&#x5B66;&#x4E0E;&#x5B66;&#x672F;&#x53F2;&#x3002;&#x8BB0;&#x8F7D;&#x65E5;&#x884D;&#x800C;&#x65E5;&#x591A;&#xFF0C;&#x4F53;&#x4F8B;&#x4EA6;&#x76CA;&#x5206;&#x800C;&#x76CA;&#x5BC6;&#xFF0C;&#x4F8B;&#x5982;&#x6C49;&#x4EE3;&#xFF0C;&#x4E03;&#x7565;&#x5217;&#x53F2;&#x8BB0;&#x4E8E;&#x6625;&#x79CB;&#x5BB6;&#xFF0C;&#x5217;&#x79BB;&#x9A9A;&#x4E8E;&#x8D4B;&#x5BB6;&#xFF0C;&#x540E;&#x53F2;&#x8BB0;&#x522B;&#x4E3A;&#x6B63;&#x53F2;&#xFF0C;&#x79BB;&#x9A9A;&#x522B;&#x4E3A;&#x695A;&#x8F9E;&#x3002;&#x5B66;&#x672F;&#x6D3E;&#x522B;&#x4EE5;&#x6E10;&#x800C;&#x589E;&#xFF0C;&#x521D;&#x9644;&#x89C1;&#x800C;&#x540E;&#x7279;&#x4E66;&#xFF0C;&#x53E4;&#x7565;&#x4ECA;&#x8BE6;&#xFF0C;&#x4E49;&#x5404;&#x6709;&#x5F53;&#x3002;&#x5B8B;&#x4EE3;&#x4EE5;&#x540E;&#xFF0C;&#x4E66;&#x7C4D;&#x89E3;&#x9898;&#x4E4B;&#x4F5C;&#x4E43;&#x6E10;&#x76DB;&#xFF0C;&#x6700;&#x8457;&#x540D;&#x8005;&#x4E3A;&#x6E05;&#x4EE3;&#x56DB;&#x5E93;&#x5168;&#x4E66;&#x63D0;&#x8981;&#x3002;&#x6BCF;&#x4E66;&#x5148;&#x5217;&#x4F5C;&#x8005;&#xFF0C;&#x4EE5;&#x8BBA;&#x4E16;&#x77E5;&#x4EBA;&#xFF0C;&#x6B21;&#x6CA6;&#x5176;&#x8457;&#x4F5C;&#x4E4B;&#x672C;&#x672B;&#x4E0E;&#x5B66;&#x8BF4;&#x4E4B;&#x4EF7;&#x503C;&#xFF0C;&#x4F7F;&#x8BFB;&#x8005;&#x53EF;&#x4EE5;&#x7C97;&#x7AA5;&#x7AEF;&#x502A;&#xFF0C;&#x7565;&#x660E;&#x65E8;&#x8DA3;&#x3002;&#x73B0;&#x4EE3;&#x56FE;&#x4E66;&#x76EE;&#x5F55;&#x6108;&#x89C1;&#x5B8C;&#x5907;&#xFF0C;&#x800C;&#x65B0;&#x4E66;&#x65E5;&#x51FA;&#x4E0D;&#x7A77;&#xFF0C;&#x9C7C;&#x76EE;&#x6DF7;&#x73E0;&#xFF0C;&#x731D;&#x6742;&#x8BFB;&#x4E66;&#x7684;&#x827A;&#x672F;&#xFF1A;&#x5982;&#x4F55;&#x9605;&#x8BFB;&#x548C;&#x9605;&#x8BFB;&#x4EC0;&#x4E48;&#x7A76;&#x8BD8;&#xFF0C;&#x6545;&#x6709;&#x5B66;&#x672F;&#x5730;&#x4F4D;&#x4E4B;&#x5B9A;&#x671F;&#x520A;&#x7269;&#xFF0C;&#x5927;&#x7387;&#x9644;&#x6709;&#x4E66;&#x8BC4;&#xFF0C;&#x5373;&#x53E4;&#x6240;&#x8C13;&#x89E3;&#x9898;&#x3002;&#x6B64;&#x7C7B;&#x4E66;&#x76EE;&#x5F53;&#x7136;&#x4E5F;&#x6709;&#x5FAA;&#x540D;&#x8D35;&#x5B9E;&#xFF0C;&#x914D;&#x96B6;&#x4E56;&#x5B9C;&#x7684;&#xFF0C;&#x6240;&#x6709;&#x4E66;&#x8BC4;&#x4E5F;&#x672A;&#x5FC5;&#x90FD;&#x80FD;&#x6301;&#x662F;&#x975E;&#x4E4B;&#x516C;&#x5FC3;&#xFF0C;&#x626B;&#x95E8;&#x6237;&#x4E4B;&#x79C1;&#x89C1;&#xFF0C;&#x6B64;&#x5728;&#x5B66;&#x8005;&#x80FD;&#x5F97;&#x826F;&#x5E08;&#x76CA;&#x53CB;&#x4E4B;&#x6307;&#x5BFC;&#xFF0C;&#x5584;&#x81EA;&#x5BA1;&#x62E9;&#x3002;</p>
+<p>&#x56FE;&#x4E66;&#x76EE;&#x5F55;&#x4E4B;&#x6027;&#x8D28;&#x7CFB;&#x6A2A;&#x7684;&#xFF0C;&#x5B66;&#x672F;&#x53F2;&#x5219;&#x7CFB;&#x7EB5;&#x7684;&#xFF0C;&#x4E00;&#x7ECF;&#x4E00;&#x7EAC;&#xFF0C;&#x5B66;&#x8005;&#x6B32;&#x6C42;&#x6B9A;&#x89C1;&#x6D3D;&#x95FB;&#xFF0C;&#x4E0D;&#x60A3;&#x65E0;&#x9014;&#x5F84;&#x53EF;&#x5FAA;&#x3002;&#x82DF;&#x65E0;&#x5B66;&#x672F;&#x53F2;&#xFF0C;&#x5219;&#x524D;&#x4EBA;&#x4E4B;&#x77E5;&#x65E0;&#x4EE5;&#x4E3A;&#x540E;&#x8005;&#x4E4B;&#x51ED;&#x501F;&#xFF0C;&#x4EE5;&#x76CA;&#x6C42;&#x8FDB;&#x6B65;&#xFF0C;&#x524D;&#x4EBA;&#x6C42;&#x77E5;&#x4E4B;&#x6CD5;&#x4EA6;&#x65E0;&#x4EE5;&#x8D44;&#x540E;&#x5B66;&#x8005;&#x4E4B;&#x8003;&#x955C;&#xFF0C;&#x4EE5;&#x76CA;&#x6C42;&#x7CBE;&#x5BC6;&#x3002;&#x5B66;&#x95EE;&#x4E4B;&#x9053;&#xFF0C;&#x5927;&#x62B5;&#x524D;&#x4FEE;&#x672A;&#x5BC6;&#xFF0C;&#x540E;&#x51FA;&#x8F6C;&#x7CBE;&#xFF0C;&#x4F46;&#x5404;&#x95E8;&#x5B66;&#x672F;&#x5386;&#x53F2;&#x7684;&#x540D;&#x8457;&#xFF0C;&#x4ECD;&#x6709;&#x4E0D;&#x673D;&#x4E4B;&#x4EF7;&#x503C;&#x3002;&#x8B6C;&#x5982;&#x6728;&#x4E4B;&#x6709;&#x672C;&#xFF0C;&#x6C34;&#x4E4B;&#x6709;&#x6E90;&#xFF0C;&#x5176;&#x5185;&#x5BB9;&#x56FA;&#x5E38;&#x6709;&#x5F85;&#x4E8E;&#x4FEE;&#x6B63;&#x8865;&#x5145;&#xFF0C;&#x800C;&#x5176;&#x521B;&#x9020;&#x7684;&#x7CBE;&#x795E;&#x5219;&#x6C38;&#x8DB3;&#x4EE5;&#x8D44;&#x540E;&#x4EBA;&#x4E4B;&#x5174;&#x8D77;&#x3002;&#x6B64;&#x7C7B;&#x540D;&#x8457;&#x7ECF;&#x540E;&#x5B66;&#x8005;&#x4E4B;&#x4F20;&#x8FF0;&#xFF0C;&#x5E38;&#x53EF;&#x95F4;&#x63A5;&#x9605;&#x8BFB;&#xFF0C;&#x4F46;&#x7EC8;&#x987B;&#x4EB2;&#x81EA;&#x6D89;&#x5386;&#x4E00;&#x756A;&#x3002;&#x6B63;&#x7F18;&#x4E0D;&#x6B32;&#x4E8E;&#x5356;&#x82B1;&#x62C5;&#x4E0A;&#x770B;&#x6843;&#x674E;&#xFF0C;&#x987B;&#x6811;&#x5934;&#x679D;&#x5E95;&#x65B9;&#x89C1;&#x5F97;&#x6D3B;&#x7CBE;&#x795E;&#x4E5F;&#x3002;</p>
+<h2 id="&#x4E66;&#x6709;&#x7CBE;&#x7C97;&#x9AD8;&#x4E0B;&#xFF0C;&#x6709;&#x6025;&#x9700;&#x4E0D;&#x6025;&#x9700;&#x4E4B;&#x5F02;"><a href="#&#x4E66;&#x6709;&#x7CBE;&#x7C97;&#x9AD8;&#x4E0B;&#xFF0C;&#x6709;&#x6025;&#x9700;&#x4E0D;&#x6025;&#x9700;&#x4E4B;&#x5F02;" class="headerlink" title="&#x4E66;&#x6709;&#x7CBE;&#x7C97;&#x9AD8;&#x4E0B;&#xFF0C;&#x6709;&#x6025;&#x9700;&#x4E0D;&#x6025;&#x9700;&#x4E4B;&#x5F02;"></a>&#x4E66;&#x6709;&#x7CBE;&#x7C97;&#x9AD8;&#x4E0B;&#xFF0C;&#x6709;&#x6025;&#x9700;&#x4E0D;&#x6025;&#x9700;&#x4E4B;&#x5F02;</h2><p>&#x4E66;&#x6709;&#x7CBE;&#x7C97;&#x9AD8;&#x4E0B;&#xFF0C;&#x6709;&#x6025;&#x9700;&#x4E0D;&#x6025;&#x9700;&#x4E4B;&#x5F02;&#xFF0C;&#x5927;&#x81F4;&#x53EF;&#x5206;&#x4E3A;&#x4E94;&#x7B49;&#xFF0C;&#x6709;&#x5F53;&#x8BFB;&#x4E4B;&#x4E66;&#xFF0C;&#x6709;&#x5F53;&#x719F;&#x8BFB;&#x4E4B;&#x4E66;&#xFF0C;&#x6709;&#x5F53;&#x770B;&#x4E4B;&#x4E66;&#xFF0C;&#x6709;&#x5F53;&#x518D;&#x4E09;&#x7EC6;&#x770B;&#x4E4B;&#x4E66;&#xFF0C;&#x6709;&#x5F53;&#x5FC5;&#x5907;&#x4EE5;&#x8D44;&#x67E5;&#x8003;&#x4E4B;&#x4E66;&#x3002;&#x4E94;&#x8005;&#x56FA;&#x4E0D;&#x5BB9;&#x504F;&#x5E9F;&#xFF0C;&#x5B66;&#x8005;&#x8BD5;&#x52A0;&#x5206;&#x522B;&#xFF0C;&#x5219;&#x77E5;&#x5DE5;&#x592B;&#x7F13;&#x6025;&#x5148;&#x540E;&#x4E4B;&#x5E8F;&#xFF0C;&#x800C;&#x83B7;&#x6536;&#x4E8B;&#x534A;&#x529F;&#x500D;&#x4E4B;&#x6548;&#x3002;&#x5982;&#x5E38;&#x5907;&#x67E5;&#x8003;&#x8005;&#xFF0C;&#x5373;&#x6240;&#x8C13;&#x5DE5;&#x5177;&#x4E66;&#xFF0C;&#x53EF;&#x4EE5;&#x8282;&#x7701;&#x7CBE;&#x529B;&#x4E0D;&#x5C11;&#xFF0C;&#x82DF;&#x4E0D;&#x5907;&#x4E4B;&#xFF0C;&#x5219;&#x65E0;&#x4ECE;&#x53C2;&#x8003;&#x3002;&#x51E1;&#x5B66;&#x672F;&#x7CFB;&#x7EDF;&#xFF0C;&#x7686;&#x5982;&#x679D;&#x53F6;&#x6276;&#x758F;&#x4E4B;&#x6811;&#xFF0C;&#x5176;&#x4E2D;&#x5404;&#x90E8;&#x7686;&#x9996;&#x5C3E;&#x8D2F;&#x5F7B;&#xFF0C;&#x6253;&#x6210;&#x4E00;&#x7247;&#x3002;&#x8457;&#x4E66;&#x5404;&#x6709;&#x4F53;&#x4F8B;&#xFF0C;&#x6216;&#x8BE6;&#x5C3D;&#x3001;&#x6216;&#x7B80;&#x660E;&#xFF0C;&#x4E3E;&#x5927;&#x4F53;&#x8005;&#x5F97;&#x5176;&#x82F1;&#x534E;&#xFF0C;&#x8FF0;&#x7EC6;&#x76EE;&#x8005;&#x7A77;&#x5176;&#x679D;&#x53F6;&#xFF0C;&#x56E0;&#x6B64;&#x800C;&#x6709;&#x6D2A;&#x7EA4;&#x4E4B;&#x522B;&#xFF0C;&#x7CBE;&#x7C97;&#x4E4B;&#x5F02;&#x3002;&#x7136;&#x8BFB;&#x4E66;&#x52A1;&#x6C42;&#x5176;&#x662F;&#xFF0C;&#x4F7F;&#x5176;&#x662F;&#x5219;&#x5FAA;&#x679D;&#x53F6;&#x5373;&#x53EF;&#x4EE5;&#x5F97;&#x672C;&#x6839;&#xFF0C;&#x56FA;&#x4E0D;&#x59A8;&#x4E8E;&#x5E76;&#x884C;&#x4E5F;&#x3002;&#x53C8;&#x8BFB;&#x4E66;&#x4E0D;&#x53EF;&#x4E3A;&#x4E66;&#x6240;&#x611A;&#xFF0C;&#x667A;&#x8005;&#x5343;&#x8651;&#x5FC5;&#x6709;&#x4E00;&#x5931;&#xFF0C;&#x53C8;&#x4E66;&#x7ECF;&#x4F20;&#x520A;&#xFF0C;&#x8BBA;&#x8BEF;&#x6ECB;&#x591A;&#xFF0C;&#x201C;&#x5C3D;&#x4FE1;&#x4E66;&#x4E0D;&#x5982;&#x65E0;&#x4E66;&#x201D;&#xFF0C;&#x6B64;&#x5B5F;&#x5B50;&#x4E4B;&#x8BED;&#xFF0C;&#x5DF2;&#x65E9;&#x6709;&#x8BCF;&#x793A;&#x3002;</p>
+<h2 id="&#x8BFB;&#x4E66;&#x4E4B;&#x6CD5;&#x5F53;&#x76EE;&#x8FC7;&#x3001;&#x53E3;&#x8FC7;&#x3001;&#x624B;&#x8FC7;&#xFF0C;&#x76D6;&#x624B;&#x8FC7;&#x5219;&#x5FC3;&#x5FC5;&#x968F;&#x4E4B;"><a href="#&#x8BFB;&#x4E66;&#x4E4B;&#x6CD5;&#x5F53;&#x76EE;&#x8FC7;&#x3001;&#x53E3;&#x8FC7;&#x3001;&#x624B;&#x8FC7;&#xFF0C;&#x76D6;&#x624B;&#x8FC7;&#x5219;&#x5FC3;&#x5FC5;&#x968F;&#x4E4B;" class="headerlink" title="&#x8BFB;&#x4E66;&#x4E4B;&#x6CD5;&#x5F53;&#x76EE;&#x8FC7;&#x3001;&#x53E3;&#x8FC7;&#x3001;&#x624B;&#x8FC7;&#xFF0C;&#x76D6;&#x624B;&#x8FC7;&#x5219;&#x5FC3;&#x5FC5;&#x968F;&#x4E4B;"></a>&#x8BFB;&#x4E66;&#x4E4B;&#x6CD5;&#x5F53;&#x76EE;&#x8FC7;&#x3001;&#x53E3;&#x8FC7;&#x3001;&#x624B;&#x8FC7;&#xFF0C;&#x76D6;&#x624B;&#x8FC7;&#x5219;&#x5FC3;&#x5FC5;&#x968F;&#x4E4B;</h2><p>&#x8BFB;&#x4E66;&#x4E4B;&#x6CD5;&#x5F53;&#x624B;&#x773C;&#x5E76;&#x7528;&#xFF0C;&#x51E1;&#x4E66;&#x76EE;&#x8FC7;&#x53E3;&#x8FC7;&#xFF0C;&#x4E0D;&#x5982;&#x624B;&#x8FC7;&#xFF0C;&#x76D6;&#x624B;&#x8FC7;&#x5219;&#x5FC3;&#x5FC5;&#x968F;&#x4E4B;&#x3002;&#x5FC3;&#x6709;&#x6240;&#x5F97;&#x5373;&#x968F;&#x624B;&#x7B14;&#x8BB0;(&#x6216;&#x66F0;&#x672D;&#x8BB0;&#xFF0C;&#x4EA6;&#x66F0;&#x758F;&#x8BB0;)&#xFF0C;&#x65E5;&#x79EF;&#x6708;&#x7D2F;&#xFF0C;&#x81EA;&#x7136;&#x5145;&#x8DB3;&#xFF0C;&#x540E;&#x91CD;&#x7701;&#x89C8;&#xFF0C;&#x6B22;&#x5174;&#x5F25;&#x6DF1;&#xFF0C;&#x4E60;&#x4E0E;&#x6027;&#x6210;&#xFF0C;&#x4E0D;&#x89C9;&#x7B14;&#x5026;&#xFF0C;&#x6240;&#x8C13;&#x65E5;&#x77E5;&#x5176;&#x6240;&#x65E0;&#xFF0C;&#x6708;&#x65E0;&#x5FD8;&#x5176;&#x6240;&#x6709;&#x3002;&#x987E;&#x4EAD;&#x6797;&#x2462;&#x64B0;&#x65E5;&#x77E5;&#x5F55;&#xFF0C;&#x79F0;&#x81EA;&#x5C11;&#x8BFB;&#x4E66;&#xFF0C;&#x6709;&#x6240;&#x5F97;&#x8F84;&#x8BB0;&#x4E4B;&#xFF0C;&#x5176;&#x6709;&#x4E0D;&#x5408;&#xFF0C;&#x65F6;&#x590D;&#x6539;&#x5B9A;&#xFF0C;&#x6216;&#x53E4;&#x4EBA;&#x5148;&#x6211;&#x800C;&#x6709;&#x8005;&#xFF0C;&#x5219;&#x9042;&#x524A;&#x4E4B;&#xFF0C;&#x79EF;&#x4E4B;&#x4E09;&#x5341;&#x5E74;&#x4E43;&#x6210;&#x4E00;&#x7F16;&#xFF0C;&#x76D6;&#x5176;&#x4E00;&#x751F;&#x7CBE;&#x529B;&#x6240;&#x6CE8;&#x4E5F;&#x3002;&#x5B66;&#x8005;&#x8457;&#x4E66;&#x65E0;&#x4E0D;&#x4ECE;&#x7B14;&#x8BB0;&#x5165;&#x624B;&#xFF0C;&#x7B14;&#x8BB0;&#x4E4B;&#x6CD5;&#x4EA6;&#x968F;&#x5B66;&#x529B;&#x800C;&#x4FF1;&#x8FDB;&#xFF0C;&#x773C;&#x660E;&#x5219;&#x5DE7;&#x4E8E;&#x6387;&#x62FE;&#xFF0C;&#x624B;&#x8FA3;&#x5219;&#x6613;&#x4E8E;&#x526A;&#x88C1;&#x3002;&#x987B;&#x662F;&#x6709;&#x5927;&#x89C4;&#x6A21;&#x53C8;&#x6709;&#x7EC6;&#x5DE5;&#x592B;&#x3002;&#x6731;&#x5B50;&#x8BBA;&#x4E3A;&#x5B66;&#x66F0;&#xFF1A;&#x201C;&#x6108;&#x7EC6;&#x5BC6;&#x6108;&#x5E7F;&#x5927;&#xFF0C;&#x6108;&#x8C28;&#x786E;&#x6108;&#x9AD8;&#x660E;&#x3002;&#x201D;&#x51E1;&#x5927;&#x4EBA;&#x7269;&#x65E0;&#x4E0D;&#x5982;&#x662F;&#x3002;</p>
+<p>&#x97E9;&#x6587;&#x516C;&#x66F0;&#xFF1A;&#x201C;&#x8BB0;&#x4E8B;&#x8005;&#x5FC5;&#x63D0;&#x5176;&#x8981;&#xFF0C;&#x7E82;&#x8A00;&#x8005;&#x5FC5;&#x94A9;&#x5176;&#x7384;&#x3002;&#x201D;&#x6B64;&#x4E8C;&#x8BED;&#x53EF;&#x89C6;&#x4E3A;&#x7B14;&#x8BB0;&#x4E4B;&#x5B9A;&#x6CD5;&#x3002;&#x51E1;&#x4E66;&#x7C4D;&#x5B9C;&#x6709;&#x76EE;&#x6B21;&#xFF0C;&#x63D0;&#x8981;&#x5DE5;&#x4F5C;&#x81EA;&#x6B64;&#x59CB;&#xFF1B;&#x51E1;&#x4E66;&#x7C4D;&#x5B9C;&#x6709;&#x81EA;&#x5E8F;&#x6216;&#x7EEA;&#x8BBA;&#xFF0C;&#x94A9;&#x7384;&#x5DE5;&#x4F5C;&#x81EA;&#x6B64;&#x59CB;&#x3002;&#x8BFB;&#x4E66;&#x4E4B;&#x8981;&#xFF0C;&#x5728;&#x5F97;&#x5176;&#x5B97;&#x65E8;&#xFF0C;&#x5F97;&#x5176;&#x8981;&#x9886;&#xFF0C;&#x660E;&#x5176;&#x5927;&#x4E49;&#xFF0C;&#x660E;&#x5176;&#x6761;&#x7406;&#xFF0C;&#x51E1;&#x6B64;&#x5747;&#x975E;&#x7B14;&#x8BB0;&#x4E0D;&#x4E3A;&#x529F;&#xFF0C;&#x6709;&#x6216;&#x95EE;&#x82CF;&#x4E1C;&#x5761;&#x66F0;&#xFF1A;&#x201C;&#x516C;&#x4E4B;&#x535A;&#x6D3D;&#x53EF;&#x4EE5;&#x5B66;&#x4E4E;?&#x201D; &#x66F0;&#xFF1A;&#x201C;&#x53EF;&#x3002;&#x543E;&#x8BFB;&#x6C49;&#x4E66;&#xFF0C;&#x76D6;&#x6570;&#x8FC7;&#x800C;&#x59CB;&#x5C3D;&#x4E4B;&#x3002;&#x5982;&#x6CBB;&#x9053;&#x3001;&#x4EBA;&#x7269;&#xFF0C;&#x5B98;&#x5236;&#x3001;&#x5175;&#x6CD5;&#x3001;&#x8D27;&#x8D22;&#x4E4B;&#x7C7B;&#xFF0C;&#x6BCF;&#x8FC7;&#x535A;&#x6C42;&#x4E00;&#x4E8B;&#xFF0C;&#x4E0D;&#x5F85;&#x6570;&#x8FC7;&#x800C;&#x4E8B;&#x4E8B;&#x7CBE;&#x6838;&#x77E3;&#x3002;&#x53C2;&#x4F0D;&#x9519;&#x7EFC;&#xFF0C;&#x516B;&#x9762;&#x53D7;&#x654C;&#xFF0C;&#x6C9B;&#x7136;&#x5E94;&#x4E4B;&#xFF0C;&#x800C;&#x83AB;&#x5FA1;&#x7109;&#x3002;&#x201D;&#x51E1;&#x4E66;&#x7C4D;&#x6216;&#x7AEF;&#x7EEA;&#x4ECE;&#x6742;&#xFF0C;&#x5982;&#x6CBB;&#x4E71;&#x4E1D;&#x3002;&#x5584;&#x7528;&#x7B14;&#x8BB0;&#x8005;&#xFF0C;&#x7531;&#x5408;&#x800C;&#x5206;&#xFF0C;&#x7531;&#x5206;&#x800C;&#x5408;&#xFF0C;&#x6761;&#x7406;&#x79E9;&#x5982;&#xFF0C;&#x707F;&#x7136;&#x53EF;&#x89C2;&#xFF0C;&#x800C;&#x540E;&#x59CB;&#x6709;&#x878D;&#x4F1A;&#x7EE9;&#x901A;&#x4E4B;&#x6548;&#x3002;</p>
+<p>&#x6216;&#x95EE;&#x7B14;&#x8BB0;&#x662F;&#x5426;&#x6709;&#x4E00;&#x5B9A;&#x683C;&#x5F0F;&#xFF0C;&#x66F0;&#x6B64;&#x968F;&#x5404;&#x4EBA;&#x4E4B;&#x4FBF;&#x5229;&#xFF0C;&#x521D;&#x65E0;&#x5B9A;&#x6CD5;&#x3002;&#x4F46;&#x5982;&#x88C1;&#x7BC7;&#x522B;&#x51FA;&#x4E4B;&#x6CD5;&#x3001;&#x91CD;&#x590D;&#x4E92;&#x6CE8;&#x4E4B;&#x6CD5;&#x3001;&#x6563;&#x53F6;&#x6CD5;&#x3001;&#x7D22;&#x5F15;&#x6CD5;&#x4EE5;&#x53CA;&#x5176;&#x5B83;&#x79CD;&#x79CD;&#x8DB3;&#x4EE5;&#x4FC3;&#x8FDB;&#x5DE5;&#x4F5C;&#x4E4B;&#x6548;&#x7387;&#x8005;&#xFF0C;&#x5747;&#x751A;&#x91CD;&#x8981;&#x3002;&#x88C1;&#x7BC7;&#x522B;&#x51FA;&#x8005;&#xFF0C;&#x5982;&#x67D0;&#x7BC7;&#x672C;&#x5728;&#x8BF4;&#x660E;&#x7532;&#x4E8B;(&#x5982;&#x5927;&#x5B66;)&#xFF0C;&#x800C;&#x53C8;&#x8FDE;&#x7C7B;&#x53CA;&#x4E8E;&#x4E59;&#x4E8B;(&#x5982;&#x5370;&#x4E66;)&#xFF0C;&#x4E43;&#x5C06;&#x4E59;&#x4E8B;&#x522B;&#x884C;&#x5F55;&#x51FA;&#x3002;&#x91CD;&#x590D;&#x4E92;&#x6CE8;&#x8005;&#xFF0C;&#x5373;&#x4E00;&#x4E8B;&#x6709;&#x591A;&#x65B9;&#x9762;&#x4E4B;&#x5173;&#x7CFB;&#xFF0C;&#x5E94;&#x8FDE;&#x8F7D;&#x6570;&#x5904;&#xFF0C;&#x5219;&#x5206;&#x522B;&#x4E92;&#x8BB0;&#xFF0C;&#x4EE5;&#x4FBF;&#x8003;&#x955C;&#x3002;&#x6563;&#x53F6;&#x6CD5;(&#x6216;&#x66F0;&#x6D3B;&#x53F6;&#x4EA6;&#x66F0;&#x5361;&#x7247;)&#xFF0C;&#x5373;&#x4EE5;&#x6BCF;&#x4E00;&#x5B50;&#x76EE;&#x4E3A;&#x4E00;&#x9875;&#xFF0C;&#x81EA;&#x4E3A;&#x8D77;&#x8BAB;&#xFF0C;&#x4FFE;&#x5F97;&#x968F;&#x65F6;&#x62BD;&#x9605;&#x3002;&#x7D22;&#x5F15;&#x6CD5;&#x8005;&#xFF0C;&#x6750;&#x6599;&#x7EB7;&#x7E41;&#xFF0C;&#x5F53;&#x81EA;&#x8BA2;&#x4E00;&#x4FBF;&#x4E8E;&#x5F52;&#x7C7B;&#x4E4B;&#x7D22;&#x5F15;&#xFF0C;&#x4E14;&#x968F;&#x65F6;&#x4FEE;&#x8865;&#x4E4B;&#xFF0C;&#x5EB6;&#x53EF;&#x4EE5;&#x7B80;&#x9A6D;&#x7E41;&#x3002;&#x97E9;&#x4FE1;&#x5C06;&#x5175;&#xFF0C;&#x591A;&#x591A;&#x76CA;&#x5584;&#xFF0C;&#x5904;&#x7406;&#x7B14;&#x8BB0;&#x4E4B;&#x6CD5;&#x4EA6;&#x72B9;&#x662F;&#x4E5F;&#x3002;</p>
+<h2 id="&#x719F;&#x8BFB;&#x6DF1;&#x601D;&#x5B50;&#x81EA;&#x77E5;&#xFF0C;&#x7528;&#x65F6;&#x4E00;&#x5524;&#xFF0C;&#x4FBF;&#x5728;&#x76EE;&#x524D;"><a href="#&#x719F;&#x8BFB;&#x6DF1;&#x601D;&#x5B50;&#x81EA;&#x77E5;&#xFF0C;&#x7528;&#x65F6;&#x4E00;&#x5524;&#xFF0C;&#x4FBF;&#x5728;&#x76EE;&#x524D;" class="headerlink" title="&#x719F;&#x8BFB;&#x6DF1;&#x601D;&#x5B50;&#x81EA;&#x77E5;&#xFF0C;&#x7528;&#x65F6;&#x4E00;&#x5524;&#xFF0C;&#x4FBF;&#x5728;&#x76EE;&#x524D;"></a>&#x719F;&#x8BFB;&#x6DF1;&#x601D;&#x5B50;&#x81EA;&#x77E5;&#xFF0C;&#x7528;&#x65F6;&#x4E00;&#x5524;&#xFF0C;&#x4FBF;&#x5728;&#x76EE;&#x524D;</h2><p>&#x53E4;&#x4EBA;&#x4E91;&#xFF1A;&#x8BFB;&#x4E66;&#x4E0D;&#x5BFB;&#x601D;&#xFF0C;&#x5982;&#x8FC5;&#x98CE;&#x98DE;&#x9E1F;&#x4E4B;&#x8FC7;&#x53BB;&#xFF0C;&#x54CD;&#x7EDD;&#x5F71;&#x706D;&#x3002;&#x7B14;&#x8BB0;&#x539F;&#x4E3A;&#x4F9B;&#x7ED9;&#x601D;&#x60F3;&#x4E4B;&#x8D44;&#x6599;&#xFF0C;&#x5B66;&#x800C;&#x4E0D;&#x601D;&#xFF0C;&#x65E0;&#x5F02;&#x8D27;&#x5F03;&#x4E8E;&#x5730;&#xFF0C;&#x867D;&#x6709;&#x7B14;&#x8BB0;&#xFF0C;&#x7B49;&#x4E8E;&#x4E4C;&#x6709;&#x3002;&#x8BFB;&#x4E66;&#x5982;&#x996E;&#x98DF;&#xFF0C;&#x5403;&#x5F97;&#x53C8;&#x8981;&#x6D88;&#x5F97;&#x3002;&#x592A;&#x53F2;&#x516C;&#x66F0;&#xFF1A;&#x201C;&#x597D;&#x5B66;&#x6DF1;&#x601D;&#x3002;&#x201D;&#x5B66;&#x4EE5;&#x7A77;&#x7406;&#xFF0C;&#x95EE;&#x4EE5;&#x51B3;&#x7591;&#xFF0C;&#x95EE;&#x524D;&#x987B;&#x5B66;&#xFF0C;&#x5B66;&#x540E;&#x8981;&#x601D;&#x3002;&#x6545;&#x5B66;&#x95EE;&#x4E4B;&#x9053;&#xFF0C;&#x4EE5;&#x81F4;&#x601D;&#x4E3A;&#x6700;&#x8981;&#xFF0C;&#x601D;&#x5219;&#x5F97;&#x4E4B;&#xFF0C;&#x4E0D;&#x601D;&#x5219;&#x4E0D;&#x5F97;&#x4E5F;&#x3002;&#x7BA1;&#x5B50;&#x66F0;&#xFF0C;&#x201C;&#x601D;&#x4E4B;&#xFF0C;&#x601D;&#x4E4B;&#xFF0C;&#x53C8;&#x91CD;&#x601D;&#x4E4B;&#xFF0C;&#x601D;&#x4E4B;&#x4E0D;&#x901A;&#xFF0C;&#x9B3C;&#x795E;&#x5C06;&#x901A;&#x4E4B;&#x3002;&#x201D;&#x5B66;&#x8005;&#x8BDA;&#x80FD;&#x539F;&#x59CB;&#x8981;&#x7EC8;&#xFF0C;&#x719F;&#x8BFB;&#x6DF1;&#x601D;&#xFF0C;&#x529F;&#x529B;&#x65E2;&#x6DF1;&#xFF0C;&#x81EA;&#x7136;&#x6709;&#x6DA3;&#x7136;&#x51B0;&#x91CA;&#xFF0C;&#x6021;&#x7136;&#x7406;&#x987A;&#x4E4B;&#x529F;&#x6548;&#x3002;&#x5982;&#x6B64;&#x5219;&#x65E7;&#x65E5;&#x7B14;&#x8BB0;&#xFF0C;&#x83AB;&#x975E;&#x5B9D;&#x85CF;&#xFF0C;&#x7528;&#x65F6;&#x4E00;&#x5524;&#xFF0C;&#x4FBF;&#x5728;&#x76EE;&#x524D;&#x3002;</p>
+<p>&#x989C;&#x5B50;&#x5584;&#x5B66;&#xFF0C;&#x6545;&#x5B54;&#x5B50;&#x6709;&#x89C1;&#x5176;&#x8FDB;&#xFF0C;&#x672A;&#x89C1;&#x5176;&#x6B62;&#x4E4B;&#x53F9;&#x3002;&#x987B;&#x5728;&#x767E;&#x5C3A;&#x7AFF;&#x5934;&#x66F4;&#x6C42;&#x8FDB;&#x6B65;&#xFF0C;&#x59CB;&#x4E3A;&#x5F97;&#x4E4B;&#x3002;&#x5B66;&#x4E0D;&#x53EF;&#x7F13;&#xFF0C;&#x4EA6;&#x4E0D;&#x53EF;&#x6025;&#xFF0C;&#x7F13;&#x5219;&#x6020;&#x800C;&#x65E0;&#x529F;&#xFF0C;&#x6025;&#x5219;&#x8FDB;&#x9510;&#x800C;&#x9000;&#x901F;&#x3002;&#x5B66;&#x95EE;&#x8981;&#x52E4;&#x82E6;&#xFF0C;&#x53C8;&#x8981;&#x4ECE;&#x5BB9;&#xFF0C;&#x5176;&#x6CD5;&#x5728;&#x6E10;&#x8FDB;&#x800C;&#x6709;&#x6052;&#xFF0C;&#x5230;&#x6709;&#x5473;&#x65F6;&#xFF0C;&#x4FBF;&#x80FD;&#x4EE5;&#x7518;&#x507F;&#x82E6;&#xFF1B;&#x524D;&#x4EBA;&#x8BD7;&#x4E91;&#xFF1A;&#x201C;&#x8BFB;&#x4E66;&#x5207;&#x6212;&#x5728;&#x614C;&#x5FD9;&#xFF0C;&#x6DB5;&#x6CF3;&#x5DE5;&#x592B;&#x5174;&#x5473;&#x957F;&#x3002;&#x201D;&#x65E8;&#x54C9;&#x65AF;&#x8A00;&#x3002;&#x6B32;&#x901F;&#x662F;&#x8BFB;&#x4E66;&#x7B2C;&#x4E00;&#x5927;&#x75C5;&#x3002;&#x7528;&#x529F;&#x4F46;&#x987B;&#x6309;&#x5B9A;&#x65E5;&#x7A0B;&#xFF0C;&#x9759;&#x5FC3;&#x4E3A;&#x4E4B;&#xFF0C;&#x9532;&#x800C;&#x4E0D;&#x5408;&#xFF0C;&#x5FAA;&#x5E8F;&#x800C;&#x6709;&#x5E38;&#xFF0C;&#x7EF5;&#x5BC6;&#x800C;&#x4E0D;&#x95F4;&#x65AD;&#xFF0C;&#x5219;&#x65AD;&#x65E0;&#x4E0D;&#x6210;&#x4E4B;&#x4E8B;&#x3002;&#x4E0D;&#x8981;&#x8FC7;&#x9510;&#xFF0C;&#x8FC7;&#x9510;&#x5219;&#x4E0D;&#x514B;&#x6301;&#x4E45;&#xFF0C;&#x4E00;&#x66DD;&#x5341;&#x5BD2;&#xFF0C;&#x52B3;&#x800C;&#x9C9C;&#x529F;&#xFF0C;&#x4EA6;&#x8651;&#x4E8E;&#x8EAB;&#x4F53;&#x6709;&#x59A8;&#x5BB3;&#x3002;</p>
+<p>&#x8BFB;&#x4E66;&#x65E2;&#x987B;&#x6709;&#x6DF1;&#x6E5B;&#x4E4B;&#x601D;&#xFF0C;&#x6545;&#x4E0D;&#x8BFB;&#x65F6;&#x4E4B;&#x91CD;&#x8981;&#x4E0E;&#x8BFB;&#x4E66;&#x65F6;&#x76F8;&#x7B49;&#x3002;&#x8BFB;&#x4E66;&#x65F6;&#xFF0C;&#x4F18;&#x6E38;&#x990D;&#x996B;&#xFF0C;&#x5F97;&#x4E66;&#x4E4B;&#x76CA;&#xFF1B;&#x4E0D;&#x8BFB;&#x65F6;&#xFF0C;&#x4F53;&#x5BDF;&#x6DB5;&#x517B;&#xFF0C;&#x5C24;&#x5F97;&#x4E66;&#x4E4B;&#x76CA;&#x4E5F;&#x3002;&#x8BFB;&#x4E66;&#x8981;&#x6709;&#x5FC3;&#x5F97;&#xFF0C;&#x5F80;&#x5F80;&#x4E8E;&#x65E0;&#x610F;&#x4E2D;&#x5F97;&#x4E4B;&#x3002;&#x6240;&#x8C13;&#x4ECE;&#x5BB9;&#x9ED8;&#x4F1A;&#x4E8E;&#x5E7D;&#x95F2;&#x9759;&#x4E00;&#x4E4B;&#x4E2D;&#xFF0C;&#x8D85;&#x7136;&#x81EA;&#x5F97;&#x4E8E;&#x4E66;&#x8A00;&#x50CF;&#x610F;&#x4E4B;&#x8868;&#x3002;&#x6731;&#x5B50;&#x8BD7;&#x4E91;&#xFF1A;&#x201C;&#x4E66;&#x518C;&#x57CB;&#x5934;&#x4F55;&#x65E5;&#x4E86;&#xFF0C;&#x4E0D;&#x5982;&#x629B;&#x5374;&#x53BB;&#x5BFB;&#x6625;&#x3002;&#x201D;&#x51E1;&#x4EBA;&#x8BFB;&#x4E66;&#x81F3;&#x7EB7;&#x9890;&#x96BE;&#x901A;&#xFF0C;&#x6216;&#x601D;&#x8DEF;&#x4FF1;&#x7EDD;&#x5904;&#xFF0C;&#x4E14;&#x653E;&#x4E0B;&#x4E66;&#x518C;&#xFF0C;&#x81F3;&#x7A7A;&#x65F7;&#x5904;&#x6E38;&#x884C;&#xFF0C;&#x6709;&#x65F6;&#x5FFD;&#x7136;&#x601D;&#x81F4;&#x89E6;&#x53D1;&#xFF0C;&#x5931;&#x7136;&#x6709;&#x4F1A;&#xFF0C;&#x6709;&#x4E0D;&#x671F;&#x7136;&#x800C;&#x7136;&#x8005;&#x3002;&#x8BFB;&#x4E66;&#x5E76;&#x4E0D;&#x4E13;&#x9760;&#x7528;&#x529F;&#xFF0C;&#x4F11;&#x606F;&#x6709;&#x65B9;&#x4EA6;&#x662F;&#x4E00;&#x79CD;&#x6536;&#x83B7;&#x3002;&#x6731;&#x5B50;&#x4EE5;&#x5176;&#x7ECF;&#x9A8C;&#x544A;&#x4EBA;&#xFF0C;&#x6545;&#x5C24;&#x6709;&#x5473;&#x3002;</p>
+<h2 id="&#x8BFB;&#x4E66;&#x517B;&#x5FC3;&#xFF0C;&#x867D;&#x503C;&#x62C2;&#x9006;&#x800C;&#x5F00;&#x5377;&#x65F6;&#x8BB8;&#xFF0C;&#x5982;&#x6247;&#x6E05;&#x98CE;&#x800C;&#x89E3;&#x70E6;&#x70ED;&#x3002;"><a href="#&#x8BFB;&#x4E66;&#x517B;&#x5FC3;&#xFF0C;&#x867D;&#x503C;&#x62C2;&#x9006;&#x800C;&#x5F00;&#x5377;&#x65F6;&#x8BB8;&#xFF0C;&#x5982;&#x6247;&#x6E05;&#x98CE;&#x800C;&#x89E3;&#x70E6;&#x70ED;&#x3002;" class="headerlink" title="&#x8BFB;&#x4E66;&#x517B;&#x5FC3;&#xFF0C;&#x867D;&#x503C;&#x62C2;&#x9006;&#x800C;&#x5F00;&#x5377;&#x65F6;&#x8BB8;&#xFF0C;&#x5982;&#x6247;&#x6E05;&#x98CE;&#x800C;&#x89E3;&#x70E6;&#x70ED;&#x3002;"></a>&#x8BFB;&#x4E66;&#x517B;&#x5FC3;&#xFF0C;&#x867D;&#x503C;&#x62C2;&#x9006;&#x800C;&#x5F00;&#x5377;&#x65F6;&#x8BB8;&#xFF0C;&#x5982;&#x6247;&#x6E05;&#x98CE;&#x800C;&#x89E3;&#x70E6;&#x70ED;&#x3002;</h2><p>&#x5B66;&#x8005;&#x6240;&#x4EE5;&#x6C42;&#x7CBE;&#x795E;&#x4FEE;&#x517B;&#xFF0C;&#x5B66;&#x867D;&#x591A;&#x800C;&#x5FC3;&#x4E0D;&#x6CBB;&#xFF0C;&#x4F55;&#x4EE5;&#x5B66;&#x4E3A;? &#x8BFB;&#x4E66;&#x53EF;&#x4EE5;&#x517B;&#x5FC3;&#xFF0C;&#x867D;&#x503C;&#x62C2;&#x9006;&#x800C;&#x5F00;&#x5377;&#x65F6;&#x8BB8;&#xFF0C;&#x5982;&#x6247;&#x6E05;&#x98CE;&#x800C;&#x89E3;&#x70E6;&#x70ED;&#x3002;&#x5584;&#x8BFB;&#x4E66;&#x8005;&#x89C6;&#x4E66;&#x7C4D;&#x4E3A;&#x4E00;&#x79CD;&#x7F8E;&#x672F;&#xFF0C;&#x7F8E;&#x5584;&#x76F8;&#x4E50;&#xFF0C;&#x662F;&#x8C13;&#x8BFB;&#x4E66;&#x4E4B;&#x80DC;&#x4E49;&#x3002;&#x5982;&#x7FA4;&#x7ECF;&#x8BF8;&#x5B50;&#x53CA;&#x53E4;&#x6765;&#x5927;&#x53F2;&#x5BB6;&#x5927;&#x6587;&#x8C6A;&#x4E4B;&#x4F5C;&#x54C1;&#xFF0C;&#x5F80;&#x5F80;&#x4E3A;&#x56FD;&#x9B42;&#x4E4B;&#x6240;&#x5BC4;&#x6258;&#xFF0C;&#x5176;&#x4E2D;&#x82E5;&#x5E72;&#x90E8;&#x5206;&#xFF0C;&#x5E94;&#x4E3A;&#x56FD;&#x6C11;&#x6240;&#x5171;&#x540C;&#x5FC5;&#x4FEE;&#xFF0C;&#x4E0E;&#x4E13;&#x95E8;&#x5B66;&#x672F;&#x4E4B;&#x5206;&#x79D1;&#x800C;&#x6CBB;&#x8005;&#x4E0D;&#x4F94;&#x3002;&#x5B66;&#x6613;&#x53EF;&#x4EE5;&#x65E0;&#x5927;&#x8FC7;&#xFF0C;&#x662F;&#x5B54;&#x5B50;&#x660E;&#x6613;&#x4EE5;&#x5207;&#x4E8E;&#x4EBA;&#x4E8B;&#x3002;&#x535A;&#x5B66;&#x4E4B;&#xFF0C;&#x5BA1;&#x95EE;&#x4E4B;&#xFF0C;&#x614E;&#x601D;&#x4E4B;&#xFF0C;&#x660E;&#x8FA8;&#x4E4B;&#xFF0C;&#x7B03;&#x884C;&#x4E4B;&#xFF0C;&#x6B64;&#x662F;&#x4E2D;&#x5EB8;&#x8981;&#x8BED;&#xFF0C;&#x4E0A;&#x56DB;&#x660E;&#x4F53;&#x5C5E;&#x77E5;&#xFF0C;&#x4E0B;&#x4E00;&#x8FBE;&#x7528;&#x5C5E;&#x884C;&#xFF0C;&#x8BFB;&#x4E66;&#x8D35;&#x4E8E;&#x77E5;&#x884C;&#x5408;&#x4E00;&#x3002;&#x543E;&#x56FD;&#x4EBA;&#x5BF9;&#x4E8E;&#x53E4;&#x4EBA;&#x8457;&#x4F5C;&#xFF0C;&#x6781;&#x91CD;&#x89C6;&#x5176;&#x4EBA;&#x683C;&#xFF0C;&#x5982;&#x4E25;&#x5D69;&#x4E4B;&#x94A4;&#x5C71;&#x5802;&#x8BD7;&#xFF0C;&#x867D;&#x8BCD;&#x534E;&#x751A;&#x7F8E;&#xFF0C;&#x7136;&#x4EE5;&#x6019;&#x6743;&#x8839;&#x56FD;&#xFF0C;&#x81F4;&#x4E3A;&#x4EBA;&#x6240;&#x7F9E;&#x79F0;&#x3002;&#x5218;&#x5B97;&#x5468;&#x8BBA;&#x8BED;&#x5B66;&#x6848;&#xFF0C;&#x5176;&#x89E3;&#x89C1;&#x5371;&#x6388;&#x547D;&#x66F0;&#xFF1A;&#x201C;&#x4EBA;&#x672A;&#x6709;&#x9519;&#x8FC7;&#x4E49;&#x7406;&#x5173;&#xFF0C;&#x800C;&#x80FD;&#x5224;&#x7136;&#x4E8E;&#x751F;&#x6B7B;&#x4E4B;&#x5206;&#x8005;&#x201D;&#xFF0C;&#x5352;&#x4E4B;&#x660E;&#x793E;&#x65E2;&#x5C4B;&#xFF0C;&#x7518;&#x8E48;&#x9996;&#x9633;&#x4E4B;&#x997F;&#xFF0C;&#x53EF;&#x8C13;&#x5927;&#x8282;&#x768E;&#x7136;&#xFF0C;&#x4E0D;&#x8D1F;&#x6240;&#x8A00;&#x3002;&#x53E4;&#x4EBA;&#x4E4B;&#x8A00;&#x8BFB;&#x4E66;&#xFF0C;&#x83AB;&#x4E0D;&#x4E3B;&#x4E8E;&#x53CD;&#x8EAC;&#x81EA;&#x7701;&#xFF0C;&#x5B9E;&#x884C;&#x5B9E;&#x7528;&#xFF0C;&#x7A77;&#x5219;&#x52B1;&#x884C;&#xFF0C;&#x51FA;&#x5219;&#x7ECF;&#x4E16;&#xFF0C;&#x800C;&#x6DF1;&#x4EE5;&#x6E05;&#x8C08;&#x5E9F;&#x52A1;&#x4E3A;&#x8DB3;&#x6212;&#x3002;</p>
+<h2 id="&#x8BFB;&#x4E66;&#x5982;&#x6C34;&#x6D41;&#x51B2;&#x77F3;&#xFF0C;&#x52BF;&#x751A;&#x7F13;&#x548C;&#xFF0C;&#x8981;&#x65F6;&#x65E5;&#xFF0C;&#x7EB9;&#x75D5;&#x65B9;&#x663E;&#x8457;&#x3002;"><a href="#&#x8BFB;&#x4E66;&#x5982;&#x6C34;&#x6D41;&#x51B2;&#x77F3;&#xFF0C;&#x52BF;&#x751A;&#x7F13;&#x548C;&#xFF0C;&#x8981;&#x65F6;&#x65E5;&#xFF0C;&#x7EB9;&#x75D5;&#x65B9;&#x663E;&#x8457;&#x3002;" class="headerlink" title="&#x8BFB;&#x4E66;&#x5982;&#x6C34;&#x6D41;&#x51B2;&#x77F3;&#xFF0C;&#x52BF;&#x751A;&#x7F13;&#x548C;&#xFF0C;&#x8981;&#x65F6;&#x65E5;&#xFF0C;&#x7EB9;&#x75D5;&#x65B9;&#x663E;&#x8457;&#x3002;"></a>&#x8BFB;&#x4E66;&#x5982;&#x6C34;&#x6D41;&#x51B2;&#x77F3;&#xFF0C;&#x52BF;&#x751A;&#x7F13;&#x548C;&#xFF0C;&#x8981;&#x65F6;&#x65E5;&#xFF0C;&#x7EB9;&#x75D5;&#x65B9;&#x663E;&#x8457;&#x3002;</h2><p>&#x6731;&#x5B50;&#x798F;&#x5DDE;&#x5DDE;&#x5B66;&#x7ECF;&#x53F2;&#x9601;&#x8BB0;&#x6709;&#x4E91;&#xFF1A;</p>
+<p>&#x81EA;&#x5723;&#x5B66;&#x4E0D;&#x4F20;&#xFF0C;&#x4E16;&#x4E4B;&#x4E3A;&#x58EB;&#x8005;&#xFF0C;&#x4E0D;&#x77E5;&#x5B66;&#x4E4B;&#x6709;&#x672C;&#x3001;&#x800C;&#x60DF;&#x4E66;&#x4E4B;&#x8BFB;&#xFF0C;&#x5219;&#x5176;&#x6240;&#x4EE5;&#x6C42;&#x4E8E;&#x4E66;&#xFF0C;&#x4E0D;&#x8D8A;&#x4E8E;&#x8BB0;&#x8BF5;&#x8BAD;&#x8BC2;&#x6587;&#x8F9E;&#x4E4B;&#x95F4;&#xFF0C;&#x4EE5;&#x9493;&#x58F0;&#x540D;&#x5343;&#x7984;&#x5229;&#x800C;&#x5DF2;&#x3002;&#x662F;&#x4EE5;&#x5929;&#x4E0B;&#x4E4B;&#x4E66;&#x6108;&#x591A;&#xFF0C;&#x800C;&#x7406;&#x6108;&#x5473;&#xFF1B;&#x5B66;&#x8005;&#x4E4B;&#x4E8B;&#x6108;&#x52E4;&#xFF0C;&#x800C;&#x5FC3;&#x6108;&#x653E;&#xFF0C;&#x8F9E;&#x7AE0;&#x6108;&#x4E3D;&#xFF0C;&#x8BAE;&#x8BBA;&#x6108;&#x9AD8;&#xFF0C;&#x800C;&#x5176;&#x5FB7;&#x4E1A;&#x4E8B;&#x529F;&#x4E4B;&#x5B9E;&#xFF0C;&#x6108;&#x65E0;&#x4EE5;&#x902E;&#x4E4E;&#x53E4;&#x4EBA;&#x3002;&#x8BFB;&#x8005;&#x4E0D;&#x77E5;&#x5B66;&#x4E4B;&#x6709;&#x672C;&#xFF0C;&#x800C;&#x65E0;&#x4EE5;&#x4E3A;&#x4E4B;&#x5730;&#x4E5F;&#x3002;</p>
+<p>&#x8BB8;&#x591A;&#x4EBA;&#x4E0D;&#x514D;&#x8F7B;&#x89C6;&#x4E66;&#x7C4D;&#xFF0C;&#x4EE5;&#x7C4D;&#x5BF9;&#x4E8E;&#x4EBA;&#x751F;&#xFF0C;&#x6050;&#x6E3A;&#x65E0;&#x5F71;&#x54CD;&#xFF0C;&#x8FD9;&#x5B9E;&#x662F;&#x5927;&#x9519;&#x8BEF;&#x3002;&#x8BFB;&#x4E66;&#x82DF;&#x80FD;&#x77E5;&#x672C;&#xFF0C;&#x5BF9;&#x4E8E;&#x4EBA;&#x751F;&#x786E;&#x6709;&#x4F1F;&#x5927;&#x52A9;&#x529B;&#x3002;&#x4E0D;&#x8FC7;&#x5176;&#x52A9;&#x529B;&#x5982;&#x6C34;&#x6D41;&#x51B2;&#x77F3;&#xFF0C;&#x52BF;&#x751A;&#x7F13;&#x548C;&#xFF0C;&#x8981;&#x7ECF;&#x8FC7;&#x82E5;&#x5E72;&#x65F6;&#x65E5;&#xFF0C;&#x7EB9;&#x75D5;&#x624D;&#x80FD;&#x663E;&#x8457;&#x3002;&#x5047;&#x4F7F;&#x6BCF;&#x65E5;&#x6709;&#x82E5;&#x5E72;&#x65F6;&#x95F4;&#xFF0C;&#x4E0E;&#x53E4;&#x6765;&#x5927;&#x4EBA;&#x7269;&#x6664;&#x5BF9;&#x4E00;&#x5BA4;&#xFF0C;&#x4E0A;&#x4E0B;&#x5176;&#x8BAE;&#x8BBA;&#xFF0C;&#x60F3;&#x89C1;&#x5176;&#x4E30;&#x91C7;&#xFF0C;&#x5219;&#x672A;&#x6709;&#x4E0D;&#x53D7;&#x5176;&#x611F;&#x5E94;&#x7684;&#x3002;&#x5373;&#x5982;&#x6211;&#x4EEC;&#x5BF9;&#x4E8E;&#x6731;&#x5B50;&#x8FD9;&#x4E00;&#x6BB5;&#x8BDD;&#xFF0C;&#x679C;&#x80FD;&#x6F5C;&#x5FC3;&#x9886;&#x4F1A;&#xFF0C;&#x6548;&#x6CD5;&#x53E4;&#x4EBA;&#x7B03;&#x5B9E;&#x4E4B;&#x7CBE;&#x795E;&#xFF0C;&#x6DF1;&#x81EA;&#x52D6;&#x52C9;&#xFF0C;&#x5219;&#x5176;&#x5F97;&#x76CA;&#x5DF2;&#x7EDD;&#x975E;&#x6D45;&#x9C9C;&#x4E86;</p>
 <hr>
-<h2 id="张其昀"><a href="#张其昀" class="headerlink" title="张其昀"></a>张其昀</h2><p>（1900年9月29日-1985年8月26日），字晓峰，浙江宁波鄞县人，中国地理学家、历史学家，<br>1923年张其昀毕业于南京高等师范学校，后在上海商务印书馆、国立中央大学地理系、国立浙江大学史地系、哈佛大学等单位任职。1949年到台，曾任中国国民党中央委员会秘书长等职<br>张其昀自喻一生治学，不外五事：<br>一曰国魂，以谋发扬中华民族精神；<br>二曰国史，探索中华文化之渊源；<br>三曰国土，研究中国在世界之地位；<br>四曰国力，衡断经济建设对国计民生之关系；<br>五曰国防，以唤起爱国思想与民族正义，培养新生力量。</p>
+<h2 id="&#x5F20;&#x5176;&#x6600;"><a href="#&#x5F20;&#x5176;&#x6600;" class="headerlink" title="&#x5F20;&#x5176;&#x6600;"></a>&#x5F20;&#x5176;&#x6600;</h2><p>&#xFF08;1900&#x5E74;9&#x6708;29&#x65E5;-1985&#x5E74;8&#x6708;26&#x65E5;&#xFF09;&#xFF0C;&#x5B57;&#x6653;&#x5CF0;&#xFF0C;&#x6D59;&#x6C5F;&#x5B81;&#x6CE2;&#x911E;&#x53BF;&#x4EBA;&#xFF0C;&#x4E2D;&#x56FD;&#x5730;&#x7406;&#x5B66;&#x5BB6;&#x3001;&#x5386;&#x53F2;&#x5B66;&#x5BB6;&#xFF0C;<br>1923&#x5E74;&#x5F20;&#x5176;&#x6600;&#x6BD5;&#x4E1A;&#x4E8E;&#x5357;&#x4EAC;&#x9AD8;&#x7B49;&#x5E08;&#x8303;&#x5B66;&#x6821;&#xFF0C;&#x540E;&#x5728;&#x4E0A;&#x6D77;&#x5546;&#x52A1;&#x5370;&#x4E66;&#x9986;&#x3001;&#x56FD;&#x7ACB;&#x4E2D;&#x592E;&#x5927;&#x5B66;&#x5730;&#x7406;&#x7CFB;&#x3001;&#x56FD;&#x7ACB;&#x6D59;&#x6C5F;&#x5927;&#x5B66;&#x53F2;&#x5730;&#x7CFB;&#x3001;&#x54C8;&#x4F5B;&#x5927;&#x5B66;&#x7B49;&#x5355;&#x4F4D;&#x4EFB;&#x804C;&#x3002;1949&#x5E74;&#x5230;&#x53F0;&#xFF0C;&#x66FE;&#x4EFB;&#x4E2D;&#x56FD;&#x56FD;&#x6C11;&#x515A;&#x4E2D;&#x592E;&#x59D4;&#x5458;&#x4F1A;&#x79D8;&#x4E66;&#x957F;&#x7B49;&#x804C;<br>&#x5F20;&#x5176;&#x6600;&#x81EA;&#x55BB;&#x4E00;&#x751F;&#x6CBB;&#x5B66;&#xFF0C;&#x4E0D;&#x5916;&#x4E94;&#x4E8B;&#xFF1A;<br>&#x4E00;&#x66F0;&#x56FD;&#x9B42;&#xFF0C;&#x4EE5;&#x8C0B;&#x53D1;&#x626C;&#x4E2D;&#x534E;&#x6C11;&#x65CF;&#x7CBE;&#x795E;&#xFF1B;<br>&#x4E8C;&#x66F0;&#x56FD;&#x53F2;&#xFF0C;&#x63A2;&#x7D22;&#x4E2D;&#x534E;&#x6587;&#x5316;&#x4E4B;&#x6E0A;&#x6E90;&#xFF1B;<br>&#x4E09;&#x66F0;&#x56FD;&#x571F;&#xFF0C;&#x7814;&#x7A76;&#x4E2D;&#x56FD;&#x5728;&#x4E16;&#x754C;&#x4E4B;&#x5730;&#x4F4D;&#xFF1B;<br>&#x56DB;&#x66F0;&#x56FD;&#x529B;&#xFF0C;&#x8861;&#x65AD;&#x7ECF;&#x6D4E;&#x5EFA;&#x8BBE;&#x5BF9;&#x56FD;&#x8BA1;&#x6C11;&#x751F;&#x4E4B;&#x5173;&#x7CFB;&#xFF1B;<br>&#x4E94;&#x66F0;&#x56FD;&#x9632;&#xFF0C;&#x4EE5;&#x5524;&#x8D77;&#x7231;&#x56FD;&#x601D;&#x60F3;&#x4E0E;&#x6C11;&#x65CF;&#x6B63;&#x4E49;&#xFF0C;&#x57F9;&#x517B;&#x65B0;&#x751F;&#x529B;&#x91CF;&#x3002;</p>
 ]]></content>
       <categories>
         <category>随笔</category>
@@ -988,19 +988,19 @@
   <entry>
     <title>黑死病笼罩下的欧洲</title>
     <url>/2020/01/26/Heisibing-Newton/</url>
-    <content><![CDATA[<h2 id="黑死病是历史上最为神秘的疾病。"><a href="#黑死病是历史上最为神秘的疾病。" class="headerlink" title="黑死病是历史上最为神秘的疾病。"></a>黑死病是历史上最为神秘的疾病。</h2><p>从1348年到1352年，它把欧洲变成了死亡陷阱，这条毁灭之路断送了欧洲三分之一的人口，总计约2500万人!在今后300年间，黑死病不断造访欧洲和亚洲的城镇，威胁着那些劫后余生的人们。尽管准确统计欧洲的死亡数字已经不可能，但是许多城镇留下的记录却见证了惊人的损失：1467年，俄罗斯死亡127000人，1348年德国编年史学家吕贝克记载死亡了90000人，最高一天的死亡数字高达1500人!在维也纳，每天都有500-700人因此丧命，根据俄罗斯摩棱斯克的记载，1386年只有5人幸存!</p>
-<p>　　650年前，黑死病在整个欧洲蔓延，这是欧洲历史上最为恐怖的瘟疫。欧洲文学史上最重要的人物之一，意大利文艺复兴时期人文主义的先驱薄伽丘在1348-1353年写成的《十日谈》就是瘟疫题材的巨著，引言里就谈到了佛罗伦萨严重的疫情。他描写了病人怎样突然跌倒在大街上死去，或者冷冷清清在自己的家中咽气，直到死者的尸体发出了腐烂的臭味，邻居们才知道隔壁发生的事情。旅行者们见到的是荒芜的田园无人耕耘，洞开的酒窖无人问津，无主的奶牛在大街上闲逛，当地的居民却无影无踪。</p>
-<h2 id="灾难的蔓延在欧洲"><a href="#灾难的蔓延在欧洲" class="headerlink" title="灾难的蔓延在欧洲"></a>灾难的蔓延在欧洲</h2><p>这场灾难在当时称做黑死病，实际上是鼠疫。鼠疫的症状最早在1348年由一位名叫博卡奇奥的佛罗伦萨人记录下来：最初症状是腹股沟或腋下的淋巴肿块，然后，胳膊上和大腿上以及身体其他部分会出现青黑色的疱疹，这也是黑死病得名的源由。极少有人幸免，几乎所有的患者都会在3天内死去，通常无发热症状。黑死病最初于1338年中亚一个小城中出现，1340年左右向南传到印度，随后向西沿古代商道传到俄罗斯东部。从1340年到1345年，俄罗斯大草原被死亡的阴影笼罩着。1345年冬，鞑靼人在进攻热那亚领地法卡，攻城不下之际，恼羞成怒的鞑靼人竟将黑死病患者的尸体抛入城中，结果城中瘟疫流行，大多数法卡居民死亡了，只有极少数逃到了地中海地区，然而伴随他们逃难之旅的却是可怕的疫病。</p>
-<p>　　1347年，黑死病肆虐的铁蹄最先踏过康坦丁斯堡─拜占庭最大的贸易城市。到1348年，西班牙、希腊、意大利、法国、叙利亚、埃及和巴勒斯坦都爆发了黑死病。1352年，黑死病袭击了莫斯科，连莫斯科大公和东正教的教主都相继死去。黑死病的魔爪伸向了各个社会阶层，没有人能逃避死亡的现实。</p>
-<p>　　没过多久，这种残酷的现象在欧洲已经比比皆是，法国的马赛有56000人死于鼠疫的传染;在佩皮尼昂，全城仅有的8名医生只有一位从鼠疫的魔掌中幸寸下来;阿维尼翁的情况更糟，城中有7000所住宅被疫病弄得人死屋空;巴黎的一座教堂在9个月中办理的419份遗嘱，比鼠疫爆发之前增加了40倍;在比利时，主教大人成了鼠疫的第一个受害者。从此以后，送葬的钟声就不停的为新的死者哀鸣。甚至历史上著名的英法百年战争也曾由于爆发了鼠疫被迫暂时停顿下来。</p>
-<p>　　1348年底，鼠疫传播到了德国和奥地利腹地，瘟神走到哪里，哪里就有成千上万的人被鼠疫吞噬。维也纳也曾经在一天当中死亡960人，德国的神职人员当中也有三分之一被鼠疫夺去了生命，许多教堂和修道院因此无法维持。</p>
-<p>　　除了欧洲大陆，鼠疫还通过搭乘帆船的老鼠身上的跳蚤跨过英吉利海峡，蔓延到英国全境，直至最小的村落。农村劳力大量减少，有的庄园里的佃农甚至全部死光。生活在英国中世纪的城镇里人们，居住的密度高，城内垃圾成堆，污水横流，更糟糕的是，他们对传染性疾病几乎一无所知。 当时人们对死者尸体的处理方式也很简单，处理尸体的工人们自身没有任何防护，这帮助了疾病的蔓延。为了逃避死亡，人们尝试了各种方法，他们祈求上帝、吃精细的肉食、饮用好酒……医生们企图治愈或者缓和这种令人恐惧的症状，他们用尽各种药物，也尝试各种治疗手段，从通便剂、催吐剂、放血疗法、烟熏房间、烧灼淋巴肿块或者把干蛤蟆放在上面，甚至用尿洗澡，但是死亡还是不断降临到人间。 </p>
-<p>​    一些深受宗教束缚的人们以为是人类的堕落引来的神明的惩罚，他们穿过欧洲的大小城镇游行，用镶有铁尖的鞭子彼此鞭打，口里还哼唱着：“我最有罪”。而在德国的梅因兹，有1.2万犹太人被当作瘟疫的传播者被活活烧死，斯特拉堡则有1.6万犹太人被杀。只有少数头脑清醒的人意识到可能是动物传播疾病，于是他们把仇恨的目光集中到猫狗等家畜身上，他们杀死所有的家畜，大街上满是猫狗腐败的死尸，腐臭的气味让人窒息，不时有一只慌乱的家猫从死尸上跳过，身后一群用布裹着口鼻的人正提着木棍穷追不舍。没有人会怜悯这些弱小的生灵，因为它们被当作瘟疫的传播者。</p>
-<p>　　然而，慌乱之中的人们也并非一无所获，人们发现隔离能够有效阻挡瘟疫的蔓延，此外，他们还懂得了消毒的作用。等到300年后黑死病再次在英国爆发时，隔离手段已经发展到相当完善的地步了，这些方法有效的截制了疾病的传播。</p>
-<h2 id="黑死病对欧洲以及世界的影响"><a href="#黑死病对欧洲以及世界的影响" class="headerlink" title="黑死病对欧洲以及世界的影响"></a>黑死病对欧洲以及世界的影响</h2><p>黑死病彻底改变了整个欧洲乃至世界的历史。它毫无偏倚的把死亡带到每个人面前，全家死光的贵族留下了大量的荒芜土地，由于没有劳动力，薪水不得不提高，农民有了收入来买下闲置的土地，结果他们中有很多人成了拥有土地的新贵族，农奴阶层由此瓦解;在中国，明朝的京营兵正在遭受鼠疫的侵袭，因此他们根本就无法抵挡李自成精锐之师的进攻;人们由于黑死病的侵袭懂得了许多卫生习惯，这样，欧洲的下水排污系统才得到了彻底的改善，一直到今天，人们还在为英国伦敦那宽敞有如隧道的下水管感叹;除此以外，火葬开始成为最重要的丧葬方式;原本位于房间中央的壁炉被移到了墙边;房间也变得更加坚固，开始采用灰泥或者石头来代替木版。</p>
-<p>　　黑死病彻底动摇了宗教桎梏，人文主义的思想开始复苏，文艺复兴的萌芽开始孕育。艺术家的作品中不再是宗教形象一统天下，悲观和抑郁的情绪，赎罪和死亡的主题成为这个时期的重要题材，以至后来才发展出歌特式的风格。</p>
-<p>　　更重要的是，由于黑死病肆虐，大学宣布停课，政府不准人们离家远行。正是这个时期，才使一位名叫伊萨克.牛顿的年轻人在此期间由无穷等比级数的解法创立出一门很重要的数学学科──微积分。</p>
-<h4 id="出处"><a href="#出处" class="headerlink" title="出处"></a>出处</h4><p><strong>欧洲最恐怖的瘟疫黑死病：竟让百年战争停战10年</strong><a href="http://www.qulishi.com/news/201509/47301.html" target="_blank" rel="noopener">http://www.qulishi.com/news/201509/47301.html</a></p>
+    <content><![CDATA[<h2 id="&#x9ED1;&#x6B7B;&#x75C5;&#x662F;&#x5386;&#x53F2;&#x4E0A;&#x6700;&#x4E3A;&#x795E;&#x79D8;&#x7684;&#x75BE;&#x75C5;&#x3002;"><a href="#&#x9ED1;&#x6B7B;&#x75C5;&#x662F;&#x5386;&#x53F2;&#x4E0A;&#x6700;&#x4E3A;&#x795E;&#x79D8;&#x7684;&#x75BE;&#x75C5;&#x3002;" class="headerlink" title="&#x9ED1;&#x6B7B;&#x75C5;&#x662F;&#x5386;&#x53F2;&#x4E0A;&#x6700;&#x4E3A;&#x795E;&#x79D8;&#x7684;&#x75BE;&#x75C5;&#x3002;"></a>&#x9ED1;&#x6B7B;&#x75C5;&#x662F;&#x5386;&#x53F2;&#x4E0A;&#x6700;&#x4E3A;&#x795E;&#x79D8;&#x7684;&#x75BE;&#x75C5;&#x3002;</h2><p>&#x4ECE;1348&#x5E74;&#x5230;1352&#x5E74;&#xFF0C;&#x5B83;&#x628A;&#x6B27;&#x6D32;&#x53D8;&#x6210;&#x4E86;&#x6B7B;&#x4EA1;&#x9677;&#x9631;&#xFF0C;&#x8FD9;&#x6761;&#x6BC1;&#x706D;&#x4E4B;&#x8DEF;&#x65AD;&#x9001;&#x4E86;&#x6B27;&#x6D32;&#x4E09;&#x5206;&#x4E4B;&#x4E00;&#x7684;&#x4EBA;&#x53E3;&#xFF0C;&#x603B;&#x8BA1;&#x7EA6;2500&#x4E07;&#x4EBA;!&#x5728;&#x4ECA;&#x540E;300&#x5E74;&#x95F4;&#xFF0C;&#x9ED1;&#x6B7B;&#x75C5;&#x4E0D;&#x65AD;&#x9020;&#x8BBF;&#x6B27;&#x6D32;&#x548C;&#x4E9A;&#x6D32;&#x7684;&#x57CE;&#x9547;&#xFF0C;&#x5A01;&#x80C1;&#x7740;&#x90A3;&#x4E9B;&#x52AB;&#x540E;&#x4F59;&#x751F;&#x7684;&#x4EBA;&#x4EEC;&#x3002;&#x5C3D;&#x7BA1;&#x51C6;&#x786E;&#x7EDF;&#x8BA1;&#x6B27;&#x6D32;&#x7684;&#x6B7B;&#x4EA1;&#x6570;&#x5B57;&#x5DF2;&#x7ECF;&#x4E0D;&#x53EF;&#x80FD;&#xFF0C;&#x4F46;&#x662F;&#x8BB8;&#x591A;&#x57CE;&#x9547;&#x7559;&#x4E0B;&#x7684;&#x8BB0;&#x5F55;&#x5374;&#x89C1;&#x8BC1;&#x4E86;&#x60CA;&#x4EBA;&#x7684;&#x635F;&#x5931;&#xFF1A;1467&#x5E74;&#xFF0C;&#x4FC4;&#x7F57;&#x65AF;&#x6B7B;&#x4EA1;127000&#x4EBA;&#xFF0C;1348&#x5E74;&#x5FB7;&#x56FD;&#x7F16;&#x5E74;&#x53F2;&#x5B66;&#x5BB6;&#x5415;&#x8D1D;&#x514B;&#x8BB0;&#x8F7D;&#x6B7B;&#x4EA1;&#x4E86;90000&#x4EBA;&#xFF0C;&#x6700;&#x9AD8;&#x4E00;&#x5929;&#x7684;&#x6B7B;&#x4EA1;&#x6570;&#x5B57;&#x9AD8;&#x8FBE;1500&#x4EBA;!&#x5728;&#x7EF4;&#x4E5F;&#x7EB3;&#xFF0C;&#x6BCF;&#x5929;&#x90FD;&#x6709;500-700&#x4EBA;&#x56E0;&#x6B64;&#x4E27;&#x547D;&#xFF0C;&#x6839;&#x636E;&#x4FC4;&#x7F57;&#x65AF;&#x6469;&#x68F1;&#x65AF;&#x514B;&#x7684;&#x8BB0;&#x8F7D;&#xFF0C;1386&#x5E74;&#x53EA;&#x6709;5&#x4EBA;&#x5E78;&#x5B58;!</p>
+<p>&#x3000;&#x3000;650&#x5E74;&#x524D;&#xFF0C;&#x9ED1;&#x6B7B;&#x75C5;&#x5728;&#x6574;&#x4E2A;&#x6B27;&#x6D32;&#x8513;&#x5EF6;&#xFF0C;&#x8FD9;&#x662F;&#x6B27;&#x6D32;&#x5386;&#x53F2;&#x4E0A;&#x6700;&#x4E3A;&#x6050;&#x6016;&#x7684;&#x761F;&#x75AB;&#x3002;&#x6B27;&#x6D32;&#x6587;&#x5B66;&#x53F2;&#x4E0A;&#x6700;&#x91CD;&#x8981;&#x7684;&#x4EBA;&#x7269;&#x4E4B;&#x4E00;&#xFF0C;&#x610F;&#x5927;&#x5229;&#x6587;&#x827A;&#x590D;&#x5174;&#x65F6;&#x671F;&#x4EBA;&#x6587;&#x4E3B;&#x4E49;&#x7684;&#x5148;&#x9A71;&#x8584;&#x4F3D;&#x4E18;&#x5728;1348-1353&#x5E74;&#x5199;&#x6210;&#x7684;&#x300A;&#x5341;&#x65E5;&#x8C08;&#x300B;&#x5C31;&#x662F;&#x761F;&#x75AB;&#x9898;&#x6750;&#x7684;&#x5DE8;&#x8457;&#xFF0C;&#x5F15;&#x8A00;&#x91CC;&#x5C31;&#x8C08;&#x5230;&#x4E86;&#x4F5B;&#x7F57;&#x4F26;&#x8428;&#x4E25;&#x91CD;&#x7684;&#x75AB;&#x60C5;&#x3002;&#x4ED6;&#x63CF;&#x5199;&#x4E86;&#x75C5;&#x4EBA;&#x600E;&#x6837;&#x7A81;&#x7136;&#x8DCC;&#x5012;&#x5728;&#x5927;&#x8857;&#x4E0A;&#x6B7B;&#x53BB;&#xFF0C;&#x6216;&#x8005;&#x51B7;&#x51B7;&#x6E05;&#x6E05;&#x5728;&#x81EA;&#x5DF1;&#x7684;&#x5BB6;&#x4E2D;&#x54BD;&#x6C14;&#xFF0C;&#x76F4;&#x5230;&#x6B7B;&#x8005;&#x7684;&#x5C38;&#x4F53;&#x53D1;&#x51FA;&#x4E86;&#x8150;&#x70C2;&#x7684;&#x81ED;&#x5473;&#xFF0C;&#x90BB;&#x5C45;&#x4EEC;&#x624D;&#x77E5;&#x9053;&#x9694;&#x58C1;&#x53D1;&#x751F;&#x7684;&#x4E8B;&#x60C5;&#x3002;&#x65C5;&#x884C;&#x8005;&#x4EEC;&#x89C1;&#x5230;&#x7684;&#x662F;&#x8352;&#x829C;&#x7684;&#x7530;&#x56ED;&#x65E0;&#x4EBA;&#x8015;&#x8018;&#xFF0C;&#x6D1E;&#x5F00;&#x7684;&#x9152;&#x7A96;&#x65E0;&#x4EBA;&#x95EE;&#x6D25;&#xFF0C;&#x65E0;&#x4E3B;&#x7684;&#x5976;&#x725B;&#x5728;&#x5927;&#x8857;&#x4E0A;&#x95F2;&#x901B;&#xFF0C;&#x5F53;&#x5730;&#x7684;&#x5C45;&#x6C11;&#x5374;&#x65E0;&#x5F71;&#x65E0;&#x8E2A;&#x3002;</p>
+<h2 id="&#x707E;&#x96BE;&#x7684;&#x8513;&#x5EF6;&#x5728;&#x6B27;&#x6D32;"><a href="#&#x707E;&#x96BE;&#x7684;&#x8513;&#x5EF6;&#x5728;&#x6B27;&#x6D32;" class="headerlink" title="&#x707E;&#x96BE;&#x7684;&#x8513;&#x5EF6;&#x5728;&#x6B27;&#x6D32;"></a>&#x707E;&#x96BE;&#x7684;&#x8513;&#x5EF6;&#x5728;&#x6B27;&#x6D32;</h2><p>&#x8FD9;&#x573A;&#x707E;&#x96BE;&#x5728;&#x5F53;&#x65F6;&#x79F0;&#x505A;&#x9ED1;&#x6B7B;&#x75C5;&#xFF0C;&#x5B9E;&#x9645;&#x4E0A;&#x662F;&#x9F20;&#x75AB;&#x3002;&#x9F20;&#x75AB;&#x7684;&#x75C7;&#x72B6;&#x6700;&#x65E9;&#x5728;1348&#x5E74;&#x7531;&#x4E00;&#x4F4D;&#x540D;&#x53EB;&#x535A;&#x5361;&#x5947;&#x5965;&#x7684;&#x4F5B;&#x7F57;&#x4F26;&#x8428;&#x4EBA;&#x8BB0;&#x5F55;&#x4E0B;&#x6765;&#xFF1A;&#x6700;&#x521D;&#x75C7;&#x72B6;&#x662F;&#x8179;&#x80A1;&#x6C9F;&#x6216;&#x814B;&#x4E0B;&#x7684;&#x6DCB;&#x5DF4;&#x80BF;&#x5757;&#xFF0C;&#x7136;&#x540E;&#xFF0C;&#x80F3;&#x818A;&#x4E0A;&#x548C;&#x5927;&#x817F;&#x4E0A;&#x4EE5;&#x53CA;&#x8EAB;&#x4F53;&#x5176;&#x4ED6;&#x90E8;&#x5206;&#x4F1A;&#x51FA;&#x73B0;&#x9752;&#x9ED1;&#x8272;&#x7684;&#x75B1;&#x75B9;&#xFF0C;&#x8FD9;&#x4E5F;&#x662F;&#x9ED1;&#x6B7B;&#x75C5;&#x5F97;&#x540D;&#x7684;&#x6E90;&#x7531;&#x3002;&#x6781;&#x5C11;&#x6709;&#x4EBA;&#x5E78;&#x514D;&#xFF0C;&#x51E0;&#x4E4E;&#x6240;&#x6709;&#x7684;&#x60A3;&#x8005;&#x90FD;&#x4F1A;&#x5728;3&#x5929;&#x5185;&#x6B7B;&#x53BB;&#xFF0C;&#x901A;&#x5E38;&#x65E0;&#x53D1;&#x70ED;&#x75C7;&#x72B6;&#x3002;&#x9ED1;&#x6B7B;&#x75C5;&#x6700;&#x521D;&#x4E8E;1338&#x5E74;&#x4E2D;&#x4E9A;&#x4E00;&#x4E2A;&#x5C0F;&#x57CE;&#x4E2D;&#x51FA;&#x73B0;&#xFF0C;1340&#x5E74;&#x5DE6;&#x53F3;&#x5411;&#x5357;&#x4F20;&#x5230;&#x5370;&#x5EA6;&#xFF0C;&#x968F;&#x540E;&#x5411;&#x897F;&#x6CBF;&#x53E4;&#x4EE3;&#x5546;&#x9053;&#x4F20;&#x5230;&#x4FC4;&#x7F57;&#x65AF;&#x4E1C;&#x90E8;&#x3002;&#x4ECE;1340&#x5E74;&#x5230;1345&#x5E74;&#xFF0C;&#x4FC4;&#x7F57;&#x65AF;&#x5927;&#x8349;&#x539F;&#x88AB;&#x6B7B;&#x4EA1;&#x7684;&#x9634;&#x5F71;&#x7B3C;&#x7F69;&#x7740;&#x3002;1345&#x5E74;&#x51AC;&#xFF0C;&#x9791;&#x977C;&#x4EBA;&#x5728;&#x8FDB;&#x653B;&#x70ED;&#x90A3;&#x4E9A;&#x9886;&#x5730;&#x6CD5;&#x5361;&#xFF0C;&#x653B;&#x57CE;&#x4E0D;&#x4E0B;&#x4E4B;&#x9645;&#xFF0C;&#x607C;&#x7F9E;&#x6210;&#x6012;&#x7684;&#x9791;&#x977C;&#x4EBA;&#x7ADF;&#x5C06;&#x9ED1;&#x6B7B;&#x75C5;&#x60A3;&#x8005;&#x7684;&#x5C38;&#x4F53;&#x629B;&#x5165;&#x57CE;&#x4E2D;&#xFF0C;&#x7ED3;&#x679C;&#x57CE;&#x4E2D;&#x761F;&#x75AB;&#x6D41;&#x884C;&#xFF0C;&#x5927;&#x591A;&#x6570;&#x6CD5;&#x5361;&#x5C45;&#x6C11;&#x6B7B;&#x4EA1;&#x4E86;&#xFF0C;&#x53EA;&#x6709;&#x6781;&#x5C11;&#x6570;&#x9003;&#x5230;&#x4E86;&#x5730;&#x4E2D;&#x6D77;&#x5730;&#x533A;&#xFF0C;&#x7136;&#x800C;&#x4F34;&#x968F;&#x4ED6;&#x4EEC;&#x9003;&#x96BE;&#x4E4B;&#x65C5;&#x7684;&#x5374;&#x662F;&#x53EF;&#x6015;&#x7684;&#x75AB;&#x75C5;&#x3002;</p>
+<p>&#x3000;&#x3000;1347&#x5E74;&#xFF0C;&#x9ED1;&#x6B7B;&#x75C5;&#x8086;&#x8650;&#x7684;&#x94C1;&#x8E44;&#x6700;&#x5148;&#x8E0F;&#x8FC7;&#x5EB7;&#x5766;&#x4E01;&#x65AF;&#x5821;&#x2500;&#x62DC;&#x5360;&#x5EAD;&#x6700;&#x5927;&#x7684;&#x8D38;&#x6613;&#x57CE;&#x5E02;&#x3002;&#x5230;1348&#x5E74;&#xFF0C;&#x897F;&#x73ED;&#x7259;&#x3001;&#x5E0C;&#x814A;&#x3001;&#x610F;&#x5927;&#x5229;&#x3001;&#x6CD5;&#x56FD;&#x3001;&#x53D9;&#x5229;&#x4E9A;&#x3001;&#x57C3;&#x53CA;&#x548C;&#x5DF4;&#x52D2;&#x65AF;&#x5766;&#x90FD;&#x7206;&#x53D1;&#x4E86;&#x9ED1;&#x6B7B;&#x75C5;&#x3002;1352&#x5E74;&#xFF0C;&#x9ED1;&#x6B7B;&#x75C5;&#x88AD;&#x51FB;&#x4E86;&#x83AB;&#x65AF;&#x79D1;&#xFF0C;&#x8FDE;&#x83AB;&#x65AF;&#x79D1;&#x5927;&#x516C;&#x548C;&#x4E1C;&#x6B63;&#x6559;&#x7684;&#x6559;&#x4E3B;&#x90FD;&#x76F8;&#x7EE7;&#x6B7B;&#x53BB;&#x3002;&#x9ED1;&#x6B7B;&#x75C5;&#x7684;&#x9B54;&#x722A;&#x4F38;&#x5411;&#x4E86;&#x5404;&#x4E2A;&#x793E;&#x4F1A;&#x9636;&#x5C42;&#xFF0C;&#x6CA1;&#x6709;&#x4EBA;&#x80FD;&#x9003;&#x907F;&#x6B7B;&#x4EA1;&#x7684;&#x73B0;&#x5B9E;&#x3002;</p>
+<p>&#x3000;&#x3000;&#x6CA1;&#x8FC7;&#x591A;&#x4E45;&#xFF0C;&#x8FD9;&#x79CD;&#x6B8B;&#x9177;&#x7684;&#x73B0;&#x8C61;&#x5728;&#x6B27;&#x6D32;&#x5DF2;&#x7ECF;&#x6BD4;&#x6BD4;&#x7686;&#x662F;&#xFF0C;&#x6CD5;&#x56FD;&#x7684;&#x9A6C;&#x8D5B;&#x6709;56000&#x4EBA;&#x6B7B;&#x4E8E;&#x9F20;&#x75AB;&#x7684;&#x4F20;&#x67D3;;&#x5728;&#x4F69;&#x76AE;&#x5C3C;&#x6602;&#xFF0C;&#x5168;&#x57CE;&#x4EC5;&#x6709;&#x7684;8&#x540D;&#x533B;&#x751F;&#x53EA;&#x6709;&#x4E00;&#x4F4D;&#x4ECE;&#x9F20;&#x75AB;&#x7684;&#x9B54;&#x638C;&#x4E2D;&#x5E78;&#x5BF8;&#x4E0B;&#x6765;;&#x963F;&#x7EF4;&#x5C3C;&#x7FC1;&#x7684;&#x60C5;&#x51B5;&#x66F4;&#x7CDF;&#xFF0C;&#x57CE;&#x4E2D;&#x6709;7000&#x6240;&#x4F4F;&#x5B85;&#x88AB;&#x75AB;&#x75C5;&#x5F04;&#x5F97;&#x4EBA;&#x6B7B;&#x5C4B;&#x7A7A;;&#x5DF4;&#x9ECE;&#x7684;&#x4E00;&#x5EA7;&#x6559;&#x5802;&#x5728;9&#x4E2A;&#x6708;&#x4E2D;&#x529E;&#x7406;&#x7684;419&#x4EFD;&#x9057;&#x5631;&#xFF0C;&#x6BD4;&#x9F20;&#x75AB;&#x7206;&#x53D1;&#x4E4B;&#x524D;&#x589E;&#x52A0;&#x4E86;40&#x500D;;&#x5728;&#x6BD4;&#x5229;&#x65F6;&#xFF0C;&#x4E3B;&#x6559;&#x5927;&#x4EBA;&#x6210;&#x4E86;&#x9F20;&#x75AB;&#x7684;&#x7B2C;&#x4E00;&#x4E2A;&#x53D7;&#x5BB3;&#x8005;&#x3002;&#x4ECE;&#x6B64;&#x4EE5;&#x540E;&#xFF0C;&#x9001;&#x846C;&#x7684;&#x949F;&#x58F0;&#x5C31;&#x4E0D;&#x505C;&#x7684;&#x4E3A;&#x65B0;&#x7684;&#x6B7B;&#x8005;&#x54C0;&#x9E23;&#x3002;&#x751A;&#x81F3;&#x5386;&#x53F2;&#x4E0A;&#x8457;&#x540D;&#x7684;&#x82F1;&#x6CD5;&#x767E;&#x5E74;&#x6218;&#x4E89;&#x4E5F;&#x66FE;&#x7531;&#x4E8E;&#x7206;&#x53D1;&#x4E86;&#x9F20;&#x75AB;&#x88AB;&#x8FEB;&#x6682;&#x65F6;&#x505C;&#x987F;&#x4E0B;&#x6765;&#x3002;</p>
+<p>&#x3000;&#x3000;1348&#x5E74;&#x5E95;&#xFF0C;&#x9F20;&#x75AB;&#x4F20;&#x64AD;&#x5230;&#x4E86;&#x5FB7;&#x56FD;&#x548C;&#x5965;&#x5730;&#x5229;&#x8179;&#x5730;&#xFF0C;&#x761F;&#x795E;&#x8D70;&#x5230;&#x54EA;&#x91CC;&#xFF0C;&#x54EA;&#x91CC;&#x5C31;&#x6709;&#x6210;&#x5343;&#x4E0A;&#x4E07;&#x7684;&#x4EBA;&#x88AB;&#x9F20;&#x75AB;&#x541E;&#x566C;&#x3002;&#x7EF4;&#x4E5F;&#x7EB3;&#x4E5F;&#x66FE;&#x7ECF;&#x5728;&#x4E00;&#x5929;&#x5F53;&#x4E2D;&#x6B7B;&#x4EA1;960&#x4EBA;&#xFF0C;&#x5FB7;&#x56FD;&#x7684;&#x795E;&#x804C;&#x4EBA;&#x5458;&#x5F53;&#x4E2D;&#x4E5F;&#x6709;&#x4E09;&#x5206;&#x4E4B;&#x4E00;&#x88AB;&#x9F20;&#x75AB;&#x593A;&#x53BB;&#x4E86;&#x751F;&#x547D;&#xFF0C;&#x8BB8;&#x591A;&#x6559;&#x5802;&#x548C;&#x4FEE;&#x9053;&#x9662;&#x56E0;&#x6B64;&#x65E0;&#x6CD5;&#x7EF4;&#x6301;&#x3002;</p>
+<p>&#x3000;&#x3000;&#x9664;&#x4E86;&#x6B27;&#x6D32;&#x5927;&#x9646;&#xFF0C;&#x9F20;&#x75AB;&#x8FD8;&#x901A;&#x8FC7;&#x642D;&#x4E58;&#x5E06;&#x8239;&#x7684;&#x8001;&#x9F20;&#x8EAB;&#x4E0A;&#x7684;&#x8DF3;&#x86A4;&#x8DE8;&#x8FC7;&#x82F1;&#x5409;&#x5229;&#x6D77;&#x5CE1;&#xFF0C;&#x8513;&#x5EF6;&#x5230;&#x82F1;&#x56FD;&#x5168;&#x5883;&#xFF0C;&#x76F4;&#x81F3;&#x6700;&#x5C0F;&#x7684;&#x6751;&#x843D;&#x3002;&#x519C;&#x6751;&#x52B3;&#x529B;&#x5927;&#x91CF;&#x51CF;&#x5C11;&#xFF0C;&#x6709;&#x7684;&#x5E84;&#x56ED;&#x91CC;&#x7684;&#x4F43;&#x519C;&#x751A;&#x81F3;&#x5168;&#x90E8;&#x6B7B;&#x5149;&#x3002;&#x751F;&#x6D3B;&#x5728;&#x82F1;&#x56FD;&#x4E2D;&#x4E16;&#x7EAA;&#x7684;&#x57CE;&#x9547;&#x91CC;&#x4EBA;&#x4EEC;&#xFF0C;&#x5C45;&#x4F4F;&#x7684;&#x5BC6;&#x5EA6;&#x9AD8;&#xFF0C;&#x57CE;&#x5185;&#x5783;&#x573E;&#x6210;&#x5806;&#xFF0C;&#x6C61;&#x6C34;&#x6A2A;&#x6D41;&#xFF0C;&#x66F4;&#x7CDF;&#x7CD5;&#x7684;&#x662F;&#xFF0C;&#x4ED6;&#x4EEC;&#x5BF9;&#x4F20;&#x67D3;&#x6027;&#x75BE;&#x75C5;&#x51E0;&#x4E4E;&#x4E00;&#x65E0;&#x6240;&#x77E5;&#x3002; &#x5F53;&#x65F6;&#x4EBA;&#x4EEC;&#x5BF9;&#x6B7B;&#x8005;&#x5C38;&#x4F53;&#x7684;&#x5904;&#x7406;&#x65B9;&#x5F0F;&#x4E5F;&#x5F88;&#x7B80;&#x5355;&#xFF0C;&#x5904;&#x7406;&#x5C38;&#x4F53;&#x7684;&#x5DE5;&#x4EBA;&#x4EEC;&#x81EA;&#x8EAB;&#x6CA1;&#x6709;&#x4EFB;&#x4F55;&#x9632;&#x62A4;&#xFF0C;&#x8FD9;&#x5E2E;&#x52A9;&#x4E86;&#x75BE;&#x75C5;&#x7684;&#x8513;&#x5EF6;&#x3002;&#x4E3A;&#x4E86;&#x9003;&#x907F;&#x6B7B;&#x4EA1;&#xFF0C;&#x4EBA;&#x4EEC;&#x5C1D;&#x8BD5;&#x4E86;&#x5404;&#x79CD;&#x65B9;&#x6CD5;&#xFF0C;&#x4ED6;&#x4EEC;&#x7948;&#x6C42;&#x4E0A;&#x5E1D;&#x3001;&#x5403;&#x7CBE;&#x7EC6;&#x7684;&#x8089;&#x98DF;&#x3001;&#x996E;&#x7528;&#x597D;&#x9152;&#x2026;&#x2026;&#x533B;&#x751F;&#x4EEC;&#x4F01;&#x56FE;&#x6CBB;&#x6108;&#x6216;&#x8005;&#x7F13;&#x548C;&#x8FD9;&#x79CD;&#x4EE4;&#x4EBA;&#x6050;&#x60E7;&#x7684;&#x75C7;&#x72B6;&#xFF0C;&#x4ED6;&#x4EEC;&#x7528;&#x5C3D;&#x5404;&#x79CD;&#x836F;&#x7269;&#xFF0C;&#x4E5F;&#x5C1D;&#x8BD5;&#x5404;&#x79CD;&#x6CBB;&#x7597;&#x624B;&#x6BB5;&#xFF0C;&#x4ECE;&#x901A;&#x4FBF;&#x5242;&#x3001;&#x50AC;&#x5410;&#x5242;&#x3001;&#x653E;&#x8840;&#x7597;&#x6CD5;&#x3001;&#x70DF;&#x718F;&#x623F;&#x95F4;&#x3001;&#x70E7;&#x707C;&#x6DCB;&#x5DF4;&#x80BF;&#x5757;&#x6216;&#x8005;&#x628A;&#x5E72;&#x86E4;&#x87C6;&#x653E;&#x5728;&#x4E0A;&#x9762;&#xFF0C;&#x751A;&#x81F3;&#x7528;&#x5C3F;&#x6D17;&#x6FA1;&#xFF0C;&#x4F46;&#x662F;&#x6B7B;&#x4EA1;&#x8FD8;&#x662F;&#x4E0D;&#x65AD;&#x964D;&#x4E34;&#x5230;&#x4EBA;&#x95F4;&#x3002; </p>
+<p>&#x200B;    &#x4E00;&#x4E9B;&#x6DF1;&#x53D7;&#x5B97;&#x6559;&#x675F;&#x7F1A;&#x7684;&#x4EBA;&#x4EEC;&#x4EE5;&#x4E3A;&#x662F;&#x4EBA;&#x7C7B;&#x7684;&#x5815;&#x843D;&#x5F15;&#x6765;&#x7684;&#x795E;&#x660E;&#x7684;&#x60E9;&#x7F5A;&#xFF0C;&#x4ED6;&#x4EEC;&#x7A7F;&#x8FC7;&#x6B27;&#x6D32;&#x7684;&#x5927;&#x5C0F;&#x57CE;&#x9547;&#x6E38;&#x884C;&#xFF0C;&#x7528;&#x9576;&#x6709;&#x94C1;&#x5C16;&#x7684;&#x97AD;&#x5B50;&#x5F7C;&#x6B64;&#x97AD;&#x6253;&#xFF0C;&#x53E3;&#x91CC;&#x8FD8;&#x54FC;&#x5531;&#x7740;&#xFF1A;&#x201C;&#x6211;&#x6700;&#x6709;&#x7F6A;&#x201D;&#x3002;&#x800C;&#x5728;&#x5FB7;&#x56FD;&#x7684;&#x6885;&#x56E0;&#x5179;&#xFF0C;&#x6709;1.2&#x4E07;&#x72B9;&#x592A;&#x4EBA;&#x88AB;&#x5F53;&#x4F5C;&#x761F;&#x75AB;&#x7684;&#x4F20;&#x64AD;&#x8005;&#x88AB;&#x6D3B;&#x6D3B;&#x70E7;&#x6B7B;&#xFF0C;&#x65AF;&#x7279;&#x62C9;&#x5821;&#x5219;&#x6709;1.6&#x4E07;&#x72B9;&#x592A;&#x4EBA;&#x88AB;&#x6740;&#x3002;&#x53EA;&#x6709;&#x5C11;&#x6570;&#x5934;&#x8111;&#x6E05;&#x9192;&#x7684;&#x4EBA;&#x610F;&#x8BC6;&#x5230;&#x53EF;&#x80FD;&#x662F;&#x52A8;&#x7269;&#x4F20;&#x64AD;&#x75BE;&#x75C5;&#xFF0C;&#x4E8E;&#x662F;&#x4ED6;&#x4EEC;&#x628A;&#x4EC7;&#x6068;&#x7684;&#x76EE;&#x5149;&#x96C6;&#x4E2D;&#x5230;&#x732B;&#x72D7;&#x7B49;&#x5BB6;&#x755C;&#x8EAB;&#x4E0A;&#xFF0C;&#x4ED6;&#x4EEC;&#x6740;&#x6B7B;&#x6240;&#x6709;&#x7684;&#x5BB6;&#x755C;&#xFF0C;&#x5927;&#x8857;&#x4E0A;&#x6EE1;&#x662F;&#x732B;&#x72D7;&#x8150;&#x8D25;&#x7684;&#x6B7B;&#x5C38;&#xFF0C;&#x8150;&#x81ED;&#x7684;&#x6C14;&#x5473;&#x8BA9;&#x4EBA;&#x7A92;&#x606F;&#xFF0C;&#x4E0D;&#x65F6;&#x6709;&#x4E00;&#x53EA;&#x614C;&#x4E71;&#x7684;&#x5BB6;&#x732B;&#x4ECE;&#x6B7B;&#x5C38;&#x4E0A;&#x8DF3;&#x8FC7;&#xFF0C;&#x8EAB;&#x540E;&#x4E00;&#x7FA4;&#x7528;&#x5E03;&#x88F9;&#x7740;&#x53E3;&#x9F3B;&#x7684;&#x4EBA;&#x6B63;&#x63D0;&#x7740;&#x6728;&#x68CD;&#x7A77;&#x8FFD;&#x4E0D;&#x820D;&#x3002;&#x6CA1;&#x6709;&#x4EBA;&#x4F1A;&#x601C;&#x60AF;&#x8FD9;&#x4E9B;&#x5F31;&#x5C0F;&#x7684;&#x751F;&#x7075;&#xFF0C;&#x56E0;&#x4E3A;&#x5B83;&#x4EEC;&#x88AB;&#x5F53;&#x4F5C;&#x761F;&#x75AB;&#x7684;&#x4F20;&#x64AD;&#x8005;&#x3002;</p>
+<p>&#x3000;&#x3000;&#x7136;&#x800C;&#xFF0C;&#x614C;&#x4E71;&#x4E4B;&#x4E2D;&#x7684;&#x4EBA;&#x4EEC;&#x4E5F;&#x5E76;&#x975E;&#x4E00;&#x65E0;&#x6240;&#x83B7;&#xFF0C;&#x4EBA;&#x4EEC;&#x53D1;&#x73B0;&#x9694;&#x79BB;&#x80FD;&#x591F;&#x6709;&#x6548;&#x963B;&#x6321;&#x761F;&#x75AB;&#x7684;&#x8513;&#x5EF6;&#xFF0C;&#x6B64;&#x5916;&#xFF0C;&#x4ED6;&#x4EEC;&#x8FD8;&#x61C2;&#x5F97;&#x4E86;&#x6D88;&#x6BD2;&#x7684;&#x4F5C;&#x7528;&#x3002;&#x7B49;&#x5230;300&#x5E74;&#x540E;&#x9ED1;&#x6B7B;&#x75C5;&#x518D;&#x6B21;&#x5728;&#x82F1;&#x56FD;&#x7206;&#x53D1;&#x65F6;&#xFF0C;&#x9694;&#x79BB;&#x624B;&#x6BB5;&#x5DF2;&#x7ECF;&#x53D1;&#x5C55;&#x5230;&#x76F8;&#x5F53;&#x5B8C;&#x5584;&#x7684;&#x5730;&#x6B65;&#x4E86;&#xFF0C;&#x8FD9;&#x4E9B;&#x65B9;&#x6CD5;&#x6709;&#x6548;&#x7684;&#x622A;&#x5236;&#x4E86;&#x75BE;&#x75C5;&#x7684;&#x4F20;&#x64AD;&#x3002;</p>
+<h2 id="&#x9ED1;&#x6B7B;&#x75C5;&#x5BF9;&#x6B27;&#x6D32;&#x4EE5;&#x53CA;&#x4E16;&#x754C;&#x7684;&#x5F71;&#x54CD;"><a href="#&#x9ED1;&#x6B7B;&#x75C5;&#x5BF9;&#x6B27;&#x6D32;&#x4EE5;&#x53CA;&#x4E16;&#x754C;&#x7684;&#x5F71;&#x54CD;" class="headerlink" title="&#x9ED1;&#x6B7B;&#x75C5;&#x5BF9;&#x6B27;&#x6D32;&#x4EE5;&#x53CA;&#x4E16;&#x754C;&#x7684;&#x5F71;&#x54CD;"></a>&#x9ED1;&#x6B7B;&#x75C5;&#x5BF9;&#x6B27;&#x6D32;&#x4EE5;&#x53CA;&#x4E16;&#x754C;&#x7684;&#x5F71;&#x54CD;</h2><p>&#x9ED1;&#x6B7B;&#x75C5;&#x5F7B;&#x5E95;&#x6539;&#x53D8;&#x4E86;&#x6574;&#x4E2A;&#x6B27;&#x6D32;&#x4E43;&#x81F3;&#x4E16;&#x754C;&#x7684;&#x5386;&#x53F2;&#x3002;&#x5B83;&#x6BEB;&#x65E0;&#x504F;&#x501A;&#x7684;&#x628A;&#x6B7B;&#x4EA1;&#x5E26;&#x5230;&#x6BCF;&#x4E2A;&#x4EBA;&#x9762;&#x524D;&#xFF0C;&#x5168;&#x5BB6;&#x6B7B;&#x5149;&#x7684;&#x8D35;&#x65CF;&#x7559;&#x4E0B;&#x4E86;&#x5927;&#x91CF;&#x7684;&#x8352;&#x829C;&#x571F;&#x5730;&#xFF0C;&#x7531;&#x4E8E;&#x6CA1;&#x6709;&#x52B3;&#x52A8;&#x529B;&#xFF0C;&#x85AA;&#x6C34;&#x4E0D;&#x5F97;&#x4E0D;&#x63D0;&#x9AD8;&#xFF0C;&#x519C;&#x6C11;&#x6709;&#x4E86;&#x6536;&#x5165;&#x6765;&#x4E70;&#x4E0B;&#x95F2;&#x7F6E;&#x7684;&#x571F;&#x5730;&#xFF0C;&#x7ED3;&#x679C;&#x4ED6;&#x4EEC;&#x4E2D;&#x6709;&#x5F88;&#x591A;&#x4EBA;&#x6210;&#x4E86;&#x62E5;&#x6709;&#x571F;&#x5730;&#x7684;&#x65B0;&#x8D35;&#x65CF;&#xFF0C;&#x519C;&#x5974;&#x9636;&#x5C42;&#x7531;&#x6B64;&#x74E6;&#x89E3;;&#x5728;&#x4E2D;&#x56FD;&#xFF0C;&#x660E;&#x671D;&#x7684;&#x4EAC;&#x8425;&#x5175;&#x6B63;&#x5728;&#x906D;&#x53D7;&#x9F20;&#x75AB;&#x7684;&#x4FB5;&#x88AD;&#xFF0C;&#x56E0;&#x6B64;&#x4ED6;&#x4EEC;&#x6839;&#x672C;&#x5C31;&#x65E0;&#x6CD5;&#x62B5;&#x6321;&#x674E;&#x81EA;&#x6210;&#x7CBE;&#x9510;&#x4E4B;&#x5E08;&#x7684;&#x8FDB;&#x653B;;&#x4EBA;&#x4EEC;&#x7531;&#x4E8E;&#x9ED1;&#x6B7B;&#x75C5;&#x7684;&#x4FB5;&#x88AD;&#x61C2;&#x5F97;&#x4E86;&#x8BB8;&#x591A;&#x536B;&#x751F;&#x4E60;&#x60EF;&#xFF0C;&#x8FD9;&#x6837;&#xFF0C;&#x6B27;&#x6D32;&#x7684;&#x4E0B;&#x6C34;&#x6392;&#x6C61;&#x7CFB;&#x7EDF;&#x624D;&#x5F97;&#x5230;&#x4E86;&#x5F7B;&#x5E95;&#x7684;&#x6539;&#x5584;&#xFF0C;&#x4E00;&#x76F4;&#x5230;&#x4ECA;&#x5929;&#xFF0C;&#x4EBA;&#x4EEC;&#x8FD8;&#x5728;&#x4E3A;&#x82F1;&#x56FD;&#x4F26;&#x6566;&#x90A3;&#x5BBD;&#x655E;&#x6709;&#x5982;&#x96A7;&#x9053;&#x7684;&#x4E0B;&#x6C34;&#x7BA1;&#x611F;&#x53F9;;&#x9664;&#x6B64;&#x4EE5;&#x5916;&#xFF0C;&#x706B;&#x846C;&#x5F00;&#x59CB;&#x6210;&#x4E3A;&#x6700;&#x91CD;&#x8981;&#x7684;&#x4E27;&#x846C;&#x65B9;&#x5F0F;;&#x539F;&#x672C;&#x4F4D;&#x4E8E;&#x623F;&#x95F4;&#x4E2D;&#x592E;&#x7684;&#x58C1;&#x7089;&#x88AB;&#x79FB;&#x5230;&#x4E86;&#x5899;&#x8FB9;;&#x623F;&#x95F4;&#x4E5F;&#x53D8;&#x5F97;&#x66F4;&#x52A0;&#x575A;&#x56FA;&#xFF0C;&#x5F00;&#x59CB;&#x91C7;&#x7528;&#x7070;&#x6CE5;&#x6216;&#x8005;&#x77F3;&#x5934;&#x6765;&#x4EE3;&#x66FF;&#x6728;&#x7248;&#x3002;</p>
+<p>&#x3000;&#x3000;&#x9ED1;&#x6B7B;&#x75C5;&#x5F7B;&#x5E95;&#x52A8;&#x6447;&#x4E86;&#x5B97;&#x6559;&#x684E;&#x688F;&#xFF0C;&#x4EBA;&#x6587;&#x4E3B;&#x4E49;&#x7684;&#x601D;&#x60F3;&#x5F00;&#x59CB;&#x590D;&#x82CF;&#xFF0C;&#x6587;&#x827A;&#x590D;&#x5174;&#x7684;&#x840C;&#x82BD;&#x5F00;&#x59CB;&#x5B55;&#x80B2;&#x3002;&#x827A;&#x672F;&#x5BB6;&#x7684;&#x4F5C;&#x54C1;&#x4E2D;&#x4E0D;&#x518D;&#x662F;&#x5B97;&#x6559;&#x5F62;&#x8C61;&#x4E00;&#x7EDF;&#x5929;&#x4E0B;&#xFF0C;&#x60B2;&#x89C2;&#x548C;&#x6291;&#x90C1;&#x7684;&#x60C5;&#x7EEA;&#xFF0C;&#x8D4E;&#x7F6A;&#x548C;&#x6B7B;&#x4EA1;&#x7684;&#x4E3B;&#x9898;&#x6210;&#x4E3A;&#x8FD9;&#x4E2A;&#x65F6;&#x671F;&#x7684;&#x91CD;&#x8981;&#x9898;&#x6750;&#xFF0C;&#x4EE5;&#x81F3;&#x540E;&#x6765;&#x624D;&#x53D1;&#x5C55;&#x51FA;&#x6B4C;&#x7279;&#x5F0F;&#x7684;&#x98CE;&#x683C;&#x3002;</p>
+<p>&#x3000;&#x3000;&#x66F4;&#x91CD;&#x8981;&#x7684;&#x662F;&#xFF0C;&#x7531;&#x4E8E;&#x9ED1;&#x6B7B;&#x75C5;&#x8086;&#x8650;&#xFF0C;&#x5927;&#x5B66;&#x5BA3;&#x5E03;&#x505C;&#x8BFE;&#xFF0C;&#x653F;&#x5E9C;&#x4E0D;&#x51C6;&#x4EBA;&#x4EEC;&#x79BB;&#x5BB6;&#x8FDC;&#x884C;&#x3002;&#x6B63;&#x662F;&#x8FD9;&#x4E2A;&#x65F6;&#x671F;&#xFF0C;&#x624D;&#x4F7F;&#x4E00;&#x4F4D;&#x540D;&#x53EB;&#x4F0A;&#x8428;&#x514B;.&#x725B;&#x987F;&#x7684;&#x5E74;&#x8F7B;&#x4EBA;&#x5728;&#x6B64;&#x671F;&#x95F4;&#x7531;&#x65E0;&#x7A77;&#x7B49;&#x6BD4;&#x7EA7;&#x6570;&#x7684;&#x89E3;&#x6CD5;&#x521B;&#x7ACB;&#x51FA;&#x4E00;&#x95E8;&#x5F88;&#x91CD;&#x8981;&#x7684;&#x6570;&#x5B66;&#x5B66;&#x79D1;&#x2500;&#x2500;&#x5FAE;&#x79EF;&#x5206;&#x3002;</p>
+<h4 id="&#x51FA;&#x5904;"><a href="#&#x51FA;&#x5904;" class="headerlink" title="&#x51FA;&#x5904;"></a>&#x51FA;&#x5904;</h4><p><strong>&#x6B27;&#x6D32;&#x6700;&#x6050;&#x6016;&#x7684;&#x761F;&#x75AB;&#x9ED1;&#x6B7B;&#x75C5;&#xFF1A;&#x7ADF;&#x8BA9;&#x767E;&#x5E74;&#x6218;&#x4E89;&#x505C;&#x6218;10&#x5E74;</strong><a href="http://www.qulishi.com/news/201509/47301.html" target="_blank" rel="noopener">http://www.qulishi.com/news/201509/47301.html</a></p>
 ]]></content>
       <categories>
         <category>历史</category>
@@ -1012,7 +1012,7 @@
   <entry>
     <title>2020年的除夕</title>
     <url>/2020/01/24/2020-chuxi/</url>
-    <content><![CDATA[<h1 id="2020年的除夕"><a href="#2020年的除夕" class="headerlink" title="2020年的除夕"></a>2020年的除夕</h1><p>2020年我们一家在月子中心过年。外面武汉新型冠状病毒蔓延，我们在中心里安然度过！</p>
+    <content><![CDATA[<h1 id="2020&#x5E74;&#x7684;&#x9664;&#x5915;"><a href="#2020&#x5E74;&#x7684;&#x9664;&#x5915;" class="headerlink" title="2020&#x5E74;&#x7684;&#x9664;&#x5915;"></a>2020&#x5E74;&#x7684;&#x9664;&#x5915;</h1><p>2020&#x5E74;&#x6211;&#x4EEC;&#x4E00;&#x5BB6;&#x5728;&#x6708;&#x5B50;&#x4E2D;&#x5FC3;&#x8FC7;&#x5E74;&#x3002;&#x5916;&#x9762;&#x6B66;&#x6C49;&#x65B0;&#x578B;&#x51A0;&#x72B6;&#x75C5;&#x6BD2;&#x8513;&#x5EF6;&#xFF0C;&#x6211;&#x4EEC;&#x5728;&#x4E2D;&#x5FC3;&#x91CC;&#x5B89;&#x7136;&#x5EA6;&#x8FC7;&#xFF01;</p>
 ]]></content>
       <categories>
         <category>随笔</category>
@@ -1021,28 +1021,28 @@
   <entry>
     <title>回首2019年</title>
     <url>/2020/01/24/hui-shou-2019/</url>
-    <content><![CDATA[<h1 id="回首2018-2019年"><a href="#回首2018-2019年" class="headerlink" title="回首2018-2019年"></a>回首2018-2019年</h1><h2 id="2018-2019年书单"><a href="#2018-2019年书单" class="headerlink" title="2018-2019年书单"></a>2018-2019年书单</h2><p>《什么是科学》，作者：吴国盛</p>
-<p>《伽利略的手指》</p>
-<p>《科学究竟是什么》，A.F. 查尔莫斯</p>
-<p>《科学推理：逻辑与科学思维方法》 周建武</p>
-<p>《化学之书》</p>
-<p>《数学简史：确定性的消失》</p>
-<p>《统计之美：人工智能时代的科学思维》</p>
-<p>《上帝掷骰子吗？》曹天元</p>
-<h2 id="2018年时间轴"><a href="#2018年时间轴" class="headerlink" title="2018年时间轴"></a>2018年时间轴</h2><p>2018年1月，波士顿-深圳，开电化学会。并做了博士后面试</p>
-<p>2018年2月，返回美国，撰写博士论文</p>
-<p>2018年5月，博士论文答辩以及毕业典礼</p>
-<p>2018年8月，从纽约-肯尼迪机场，回国</p>
-<p>2018年9月，博士后入职</p>
-<p>2018年10月，准备做电化学相关实验</p>
-<p>2018年12月，文章投JACS</p>
-<h2 id="2019年时间轴"><a href="#2019年时间轴" class="headerlink" title="2019年时间轴"></a>2019年时间轴</h2><p>2019年2月，在老家度过春节</p>
-<p>2019年3月，申请青年基金和博士后基金</p>
-<p>2019年5月，JACS接收</p>
-<p>2019年6月，博士后基金中</p>
-<p>2019年8月，ACS Sustain Chem Eng接收 ，青年基金不中</p>
-<p>2019年9月，ChemPhysChem 接收</p>
-<p>2019年12月，申请重点实验室开放基金</p>
+    <content><![CDATA[<h1 id="&#x56DE;&#x9996;2018-2019&#x5E74;"><a href="#&#x56DE;&#x9996;2018-2019&#x5E74;" class="headerlink" title="&#x56DE;&#x9996;2018-2019&#x5E74;"></a>&#x56DE;&#x9996;2018-2019&#x5E74;</h1><h2 id="2018-2019&#x5E74;&#x4E66;&#x5355;"><a href="#2018-2019&#x5E74;&#x4E66;&#x5355;" class="headerlink" title="2018-2019&#x5E74;&#x4E66;&#x5355;"></a>2018-2019&#x5E74;&#x4E66;&#x5355;</h2><p>&#x300A;&#x4EC0;&#x4E48;&#x662F;&#x79D1;&#x5B66;&#x300B;&#xFF0C;&#x4F5C;&#x8005;&#xFF1A;&#x5434;&#x56FD;&#x76DB;</p>
+<p>&#x300A;&#x4F3D;&#x5229;&#x7565;&#x7684;&#x624B;&#x6307;&#x300B;</p>
+<p>&#x300A;&#x79D1;&#x5B66;&#x7A76;&#x7ADF;&#x662F;&#x4EC0;&#x4E48;&#x300B;&#xFF0C;A.F. &#x67E5;&#x5C14;&#x83AB;&#x65AF;</p>
+<p>&#x300A;&#x79D1;&#x5B66;&#x63A8;&#x7406;&#xFF1A;&#x903B;&#x8F91;&#x4E0E;&#x79D1;&#x5B66;&#x601D;&#x7EF4;&#x65B9;&#x6CD5;&#x300B; &#x5468;&#x5EFA;&#x6B66;</p>
+<p>&#x300A;&#x5316;&#x5B66;&#x4E4B;&#x4E66;&#x300B;</p>
+<p>&#x300A;&#x6570;&#x5B66;&#x7B80;&#x53F2;&#xFF1A;&#x786E;&#x5B9A;&#x6027;&#x7684;&#x6D88;&#x5931;&#x300B;</p>
+<p>&#x300A;&#x7EDF;&#x8BA1;&#x4E4B;&#x7F8E;&#xFF1A;&#x4EBA;&#x5DE5;&#x667A;&#x80FD;&#x65F6;&#x4EE3;&#x7684;&#x79D1;&#x5B66;&#x601D;&#x7EF4;&#x300B;</p>
+<p>&#x300A;&#x4E0A;&#x5E1D;&#x63B7;&#x9AB0;&#x5B50;&#x5417;&#xFF1F;&#x300B;&#x66F9;&#x5929;&#x5143;</p>
+<h2 id="2018&#x5E74;&#x65F6;&#x95F4;&#x8F74;"><a href="#2018&#x5E74;&#x65F6;&#x95F4;&#x8F74;" class="headerlink" title="2018&#x5E74;&#x65F6;&#x95F4;&#x8F74;"></a>2018&#x5E74;&#x65F6;&#x95F4;&#x8F74;</h2><p>2018&#x5E74;1&#x6708;&#xFF0C;&#x6CE2;&#x58EB;&#x987F;-&#x6DF1;&#x5733;&#xFF0C;&#x5F00;&#x7535;&#x5316;&#x5B66;&#x4F1A;&#x3002;&#x5E76;&#x505A;&#x4E86;&#x535A;&#x58EB;&#x540E;&#x9762;&#x8BD5;</p>
+<p>2018&#x5E74;2&#x6708;&#xFF0C;&#x8FD4;&#x56DE;&#x7F8E;&#x56FD;&#xFF0C;&#x64B0;&#x5199;&#x535A;&#x58EB;&#x8BBA;&#x6587;</p>
+<p>2018&#x5E74;5&#x6708;&#xFF0C;&#x535A;&#x58EB;&#x8BBA;&#x6587;&#x7B54;&#x8FA9;&#x4EE5;&#x53CA;&#x6BD5;&#x4E1A;&#x5178;&#x793C;</p>
+<p>2018&#x5E74;8&#x6708;&#xFF0C;&#x4ECE;&#x7EBD;&#x7EA6;-&#x80AF;&#x5C3C;&#x8FEA;&#x673A;&#x573A;&#xFF0C;&#x56DE;&#x56FD;</p>
+<p>2018&#x5E74;9&#x6708;&#xFF0C;&#x535A;&#x58EB;&#x540E;&#x5165;&#x804C;</p>
+<p>2018&#x5E74;10&#x6708;&#xFF0C;&#x51C6;&#x5907;&#x505A;&#x7535;&#x5316;&#x5B66;&#x76F8;&#x5173;&#x5B9E;&#x9A8C;</p>
+<p>2018&#x5E74;12&#x6708;&#xFF0C;&#x6587;&#x7AE0;&#x6295;JACS</p>
+<h2 id="2019&#x5E74;&#x65F6;&#x95F4;&#x8F74;"><a href="#2019&#x5E74;&#x65F6;&#x95F4;&#x8F74;" class="headerlink" title="2019&#x5E74;&#x65F6;&#x95F4;&#x8F74;"></a>2019&#x5E74;&#x65F6;&#x95F4;&#x8F74;</h2><p>2019&#x5E74;2&#x6708;&#xFF0C;&#x5728;&#x8001;&#x5BB6;&#x5EA6;&#x8FC7;&#x6625;&#x8282;</p>
+<p>2019&#x5E74;3&#x6708;&#xFF0C;&#x7533;&#x8BF7;&#x9752;&#x5E74;&#x57FA;&#x91D1;&#x548C;&#x535A;&#x58EB;&#x540E;&#x57FA;&#x91D1;</p>
+<p>2019&#x5E74;5&#x6708;&#xFF0C;JACS&#x63A5;&#x6536;</p>
+<p>2019&#x5E74;6&#x6708;&#xFF0C;&#x535A;&#x58EB;&#x540E;&#x57FA;&#x91D1;&#x4E2D;</p>
+<p>2019&#x5E74;8&#x6708;&#xFF0C;ACS Sustain Chem Eng&#x63A5;&#x6536; &#xFF0C;&#x9752;&#x5E74;&#x57FA;&#x91D1;&#x4E0D;&#x4E2D;</p>
+<p>2019&#x5E74;9&#x6708;&#xFF0C;ChemPhysChem &#x63A5;&#x6536;</p>
+<p>2019&#x5E74;12&#x6708;&#xFF0C;&#x7533;&#x8BF7;&#x91CD;&#x70B9;&#x5B9E;&#x9A8C;&#x5BA4;&#x5F00;&#x653E;&#x57FA;&#x91D1;</p>
 ]]></content>
       <categories>
         <category>随笔</category>
@@ -1054,14 +1054,14 @@
   <entry>
     <title>Hello 2020!</title>
     <url>/2020/01/23/Hello-2020/</url>
-    <content><![CDATA[<h2 id="记录的发展"><a href="#记录的发展" class="headerlink" title="记录的发展"></a>记录的发展</h2><p>初中时，自己喜欢用笔记本做摘抄；</p>
-<p>高中时，遇到一位好的语文老师，建议我们用卡片做摘抄，方便分门别类，并且有助于高考；</p>
-<p>本科时，只看书，很少笔记，似乎缺少了很多。</p>
-<p>硕士时，开了搜狐、新浪博客，记录自己想记录的东西，但是版面特难看。</p>
-<p>博士时，建立的自己的个人网站，以及CSDN博客，记录自己的学习笔记和知识</p>
-<p>工作时，感觉打理网站很费事，各种博客有广告很受限。今天终于使用Github+Hexo技术搭建了个人博客。</p>
-<h2 id="以后"><a href="#以后" class="headerlink" title="以后"></a>以后</h2><p>以后，这里可能是我长期记录的平台。可以使用markdown编辑器，对于我这种公式爱好者来讲，非常方便。</p>
-<p>。。。</p>
+    <content><![CDATA[<h2 id="&#x8BB0;&#x5F55;&#x7684;&#x53D1;&#x5C55;"><a href="#&#x8BB0;&#x5F55;&#x7684;&#x53D1;&#x5C55;" class="headerlink" title="&#x8BB0;&#x5F55;&#x7684;&#x53D1;&#x5C55;"></a>&#x8BB0;&#x5F55;&#x7684;&#x53D1;&#x5C55;</h2><p>&#x521D;&#x4E2D;&#x65F6;&#xFF0C;&#x81EA;&#x5DF1;&#x559C;&#x6B22;&#x7528;&#x7B14;&#x8BB0;&#x672C;&#x505A;&#x6458;&#x6284;&#xFF1B;</p>
+<p>&#x9AD8;&#x4E2D;&#x65F6;&#xFF0C;&#x9047;&#x5230;&#x4E00;&#x4F4D;&#x597D;&#x7684;&#x8BED;&#x6587;&#x8001;&#x5E08;&#xFF0C;&#x5EFA;&#x8BAE;&#x6211;&#x4EEC;&#x7528;&#x5361;&#x7247;&#x505A;&#x6458;&#x6284;&#xFF0C;&#x65B9;&#x4FBF;&#x5206;&#x95E8;&#x522B;&#x7C7B;&#xFF0C;&#x5E76;&#x4E14;&#x6709;&#x52A9;&#x4E8E;&#x9AD8;&#x8003;&#xFF1B;</p>
+<p>&#x672C;&#x79D1;&#x65F6;&#xFF0C;&#x53EA;&#x770B;&#x4E66;&#xFF0C;&#x5F88;&#x5C11;&#x7B14;&#x8BB0;&#xFF0C;&#x4F3C;&#x4E4E;&#x7F3A;&#x5C11;&#x4E86;&#x5F88;&#x591A;&#x3002;</p>
+<p>&#x7855;&#x58EB;&#x65F6;&#xFF0C;&#x5F00;&#x4E86;&#x641C;&#x72D0;&#x3001;&#x65B0;&#x6D6A;&#x535A;&#x5BA2;&#xFF0C;&#x8BB0;&#x5F55;&#x81EA;&#x5DF1;&#x60F3;&#x8BB0;&#x5F55;&#x7684;&#x4E1C;&#x897F;&#xFF0C;&#x4F46;&#x662F;&#x7248;&#x9762;&#x7279;&#x96BE;&#x770B;&#x3002;</p>
+<p>&#x535A;&#x58EB;&#x65F6;&#xFF0C;&#x5EFA;&#x7ACB;&#x7684;&#x81EA;&#x5DF1;&#x7684;&#x4E2A;&#x4EBA;&#x7F51;&#x7AD9;&#xFF0C;&#x4EE5;&#x53CA;CSDN&#x535A;&#x5BA2;&#xFF0C;&#x8BB0;&#x5F55;&#x81EA;&#x5DF1;&#x7684;&#x5B66;&#x4E60;&#x7B14;&#x8BB0;&#x548C;&#x77E5;&#x8BC6;</p>
+<p>&#x5DE5;&#x4F5C;&#x65F6;&#xFF0C;&#x611F;&#x89C9;&#x6253;&#x7406;&#x7F51;&#x7AD9;&#x5F88;&#x8D39;&#x4E8B;&#xFF0C;&#x5404;&#x79CD;&#x535A;&#x5BA2;&#x6709;&#x5E7F;&#x544A;&#x5F88;&#x53D7;&#x9650;&#x3002;&#x4ECA;&#x5929;&#x7EC8;&#x4E8E;&#x4F7F;&#x7528;Github+Hexo&#x6280;&#x672F;&#x642D;&#x5EFA;&#x4E86;&#x4E2A;&#x4EBA;&#x535A;&#x5BA2;&#x3002;</p>
+<h2 id="&#x4EE5;&#x540E;"><a href="#&#x4EE5;&#x540E;" class="headerlink" title="&#x4EE5;&#x540E;"></a>&#x4EE5;&#x540E;</h2><p>&#x4EE5;&#x540E;&#xFF0C;&#x8FD9;&#x91CC;&#x53EF;&#x80FD;&#x662F;&#x6211;&#x957F;&#x671F;&#x8BB0;&#x5F55;&#x7684;&#x5E73;&#x53F0;&#x3002;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;markdown&#x7F16;&#x8F91;&#x5668;&#xFF0C;&#x5BF9;&#x4E8E;&#x6211;&#x8FD9;&#x79CD;&#x516C;&#x5F0F;&#x7231;&#x597D;&#x8005;&#x6765;&#x8BB2;&#xFF0C;&#x975E;&#x5E38;&#x65B9;&#x4FBF;&#x3002;</p>
+<p>&#x3002;&#x3002;&#x3002;</p>
 ]]></content>
       <categories>
         <category>随笔</category>
@@ -1071,10 +1071,10 @@
     <title>Hello world！</title>
     <url>/2020/01/23/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is my very first post.</p>
-<h2 id="建站历程"><a href="#建站历程" class="headerlink" title="建站历程"></a>建站历程</h2><p>作为一名记录的强迫症的人，尝试了这么多的网络平台，终于选中了Hexo+Github下的Next主题博客。我非常喜欢这种简约的风格，另外还喜欢这种自主设计。</p>
-<p>曾经学过些许html语言，上年开始使用python，并且会使用github。</p>
-<p>经过努力挣扎，踩了无数的坑，终于勉强建立这个网站。</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<h2 id="&#x5EFA;&#x7AD9;&#x5386;&#x7A0B;"><a href="#&#x5EFA;&#x7AD9;&#x5386;&#x7A0B;" class="headerlink" title="&#x5EFA;&#x7AD9;&#x5386;&#x7A0B;"></a>&#x5EFA;&#x7AD9;&#x5386;&#x7A0B;</h2><p>&#x4F5C;&#x4E3A;&#x4E00;&#x540D;&#x8BB0;&#x5F55;&#x7684;&#x5F3A;&#x8FEB;&#x75C7;&#x7684;&#x4EBA;&#xFF0C;&#x5C1D;&#x8BD5;&#x4E86;&#x8FD9;&#x4E48;&#x591A;&#x7684;&#x7F51;&#x7EDC;&#x5E73;&#x53F0;&#xFF0C;&#x7EC8;&#x4E8E;&#x9009;&#x4E2D;&#x4E86;Hexo+Github&#x4E0B;&#x7684;Next&#x4E3B;&#x9898;&#x535A;&#x5BA2;&#x3002;&#x6211;&#x975E;&#x5E38;&#x559C;&#x6B22;&#x8FD9;&#x79CD;&#x7B80;&#x7EA6;&#x7684;&#x98CE;&#x683C;&#xFF0C;&#x53E6;&#x5916;&#x8FD8;&#x559C;&#x6B22;&#x8FD9;&#x79CD;&#x81EA;&#x4E3B;&#x8BBE;&#x8BA1;&#x3002;</p>
+<p>&#x66FE;&#x7ECF;&#x5B66;&#x8FC7;&#x4E9B;&#x8BB8;html&#x8BED;&#x8A00;&#xFF0C;&#x4E0A;&#x5E74;&#x5F00;&#x59CB;&#x4F7F;&#x7528;python&#xFF0C;&#x5E76;&#x4E14;&#x4F1A;&#x4F7F;&#x7528;github&#x3002;</p>
+<p>&#x7ECF;&#x8FC7;&#x52AA;&#x529B;&#x6323;&#x624E;&#xFF0C;&#x8E29;&#x4E86;&#x65E0;&#x6570;&#x7684;&#x5751;&#xFF0C;&#x7EC8;&#x4E8E;&#x52C9;&#x5F3A;&#x5EFA;&#x7ACB;&#x8FD9;&#x4E2A;&#x7F51;&#x7AD9;&#x3002;</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
