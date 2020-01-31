@@ -545,7 +545,83 @@
 
     
 </div>
-
+<div class="card-announcement">
+    <div class="card-content">
+        <div class="item_headline">
+        <i class="fa fa-bullhorn card-announcement-animation" aria-hidden="true"></i>
+        <span>公告</span>
+    </div>
+        <div class="announcement_content">
+        谢谢你这么帅，这么漂亮还来看我的博客，如果喜欢的话记得收藏哦
+        </div>
+    </div>
+</div>
+<div class="blog-overview">
+    <div class="item_headline"><i class="fa fa-line-chart" aria-hidden="true"></i><span>网站资讯</span></div>
+    <div class="blog-info">
+        <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+        <li class="blog-info-list">
+        <span class="blog-info-name">文章数目</span>
+        <span class="blogs-count">19</span>
+        </li>
+        <li class="blog-info-list">
+        <span class="blog-info-name">运行天数</span>
+        <span class="days-count" id="sitedays"></span>
+        <script language=javascript>
+            function siteTime(){
+                window.setTimeout("siteTime()", 1000);
+                var seconds = 1000;
+                var minutes = seconds * 60;
+                var hours = minutes * 60;
+                var days = hours * 24;
+                var years = days * 365;
+                var today = new Date();
+                var todayYear = today.getFullYear();
+                var todayMonth = today.getMonth()+1;
+                var todayDate = today.getDate();
+                var todayHour = today.getHours();
+                var todayMinute = today.getMinutes();
+                var todaySecond = today.getSeconds();
+                var t1 = Date.UTC(2019,07,26,00,00,00); //北京时间2018-2-13 00:00:00
+                var t2 = Date.UTC(todayYear,todayMonth,todayDate,todayHour,todayMinute,todaySecond);
+                var diff = t2-t1;
+                var diffYears = Math.floor(diff/years);
+                var diffDays = Math.floor((diff/days)-diffYears*365);
+                document.getElementById("sitedays").innerHTML=diffDays+" 天 ";
+            }
+            siteTime();
+        </script>
+        </li>
+        <li class="blog-info-list">
+        <span class="blog-info-list">访问数</span>
+        <span class="site-uv" title="footer.total_visitors">
+            <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
+        </span>
+        </li>
+        <li class="blog-info-list">
+        <span class="blog-info-name">点击量</span>
+        <span class="site-pv" title="footer.total_views">
+            <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
+        </span>
+        </li>
+    </div>
+</div>
+<div class="sidebar-categoreus">
+    <div class="item_headline">
+    <i class="fa fa-folder-open" aria-hidden="true"></i>
+    <span>分类</span>
+    </div>
+    <div>
+    <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Electrocatalysis/">Electrocatalysis</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E4%BC%A0%E7%83%AD%E5%AD%A6/">传热学</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E4%BC%A0%E8%B4%A8/">传质</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%8E%86%E5%8F%B2/">历史</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6/">流体力学</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%94%B5%E5%8C%96%E5%AD%A6/">电化学</a><span class="category-list-count">2</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%94%B5%E5%8C%96%E5%AD%A6/%E7%83%AD%E5%8A%9B%E5%AD%A6/">热力学</a><span class="category-list-count">2</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E9%9A%8F%E7%AC%94/">随笔</a><span class="category-list-count">6</span></li></ul>
+    </div>
+</div>
+<div class="link-of-blogroll">
+    <div class="item_headline">
+    <i class="fa fa-handshake-o" aria-hidden="true">
+    </i><span>友情链接</span>
+    </div>
+    
+</div>
    
   </aside>
 
